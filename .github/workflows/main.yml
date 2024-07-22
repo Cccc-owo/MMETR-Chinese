@@ -65,7 +65,6 @@ jobs:
           files: |
             MMETRC.zip
           body_path: CHANGELOG.md
-          discussion_category_name: "公告"
 
   publish:
     runs-on: windows-2019
