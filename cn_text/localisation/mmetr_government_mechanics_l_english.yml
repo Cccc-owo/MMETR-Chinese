@@ -1,0 +1,75 @@
+﻿l_english:
+ ability_seljuk_sultanate_mechanic: "^XSñgÏ‚9NýV"
+ seljuk_reorganize_supreme_diwan: "Í‘ÄuóØš•^N"
+ seljuk_reorganize_supreme_diwan_desc: "HN†NßNN*NN­eib.V„v^ýVÿgØš•^NjOHNbìN^ýV„v˜RÚPHg„g0•^N1uôuPŸS†˜üRÿÖNÑvcwYtz6e00?e0Õlb–0W0W`NŒT—RYe‹N¡R„vT*Nèè•0Í‘‰„v=fÿbìNšRgÍ‘ÄuÙ*N˜RÚPHg„gÿåNán³bìNîvMR„v—Bl0\n\n"
+ seljuk_appoint_a_new_vizier: "ûN‹TNMO°e„vôuPŸS"
+ seljuk_appoint_a_new_vizier_desc: "bìN„v[Root.Monarch.GetTitle]	gN*NáTÞV«R÷^àVdkÿ[Root.Monarch.GetTitle]Ïu8^ûN‹TNMOôuPŸSãNhˆ[Root.Monarch.GetHerHis]¡rt?eœ^‹N¡R0àVdkÿûN‹T	gýw›RŒTMbNS„vºNeg¡rtbìNýV¶R„vôuPŸS=f^—8^Í‘‰„v0\n\n"
+ seljuk_call_upon_the_dynasts: "ìSÆ–TTIN"
+ seljuk_call_upon_the_dynasts_desc: "^XSñg‹sg„vbXTßu»lNwÏ‚9NýV„vT*NW0Wÿv^jOHN?–TX<hßu»lNwD–¸^ýVÿÙ=fN*NRce„vÓu„gÿ‰|<OŽNbìN^XSñgVyHQ„vèK„Twßv0‹†6qbìN°s(Wßu»lNwNT„vlÏeŒT‡eSÿFOHV'Y„vW“^üfºNŒTÖNìN„vJS8ngr‘šuQïSåNÎNbìN„v^XSñgSýV-NìS2UúQeg0\n\n"
+ gov_reorganized_bureaucracy_of_the_diwan: "Í‘Äu„v•^N˜RÚPHg„g"
+ gov_associates_of_the_vizier: "ôuPŸS„vO4O"
+ gov_recruited_turkmen: "ÛbßRW“^üfºN"
+ pharisees: "Õl)Ri>m"
+ pharisees_influence: "Õl)Ri>m„vqVÍT"
+ pharisees_FACTION_DESC: "Õl)RiºN=f6wï’d·Q,rŒN1W¿k„vIN‰>m+Rÿ1uŽNÖNìNùR¹r*Ys^l„v8TV›RÿÖNìNåb	ggY„vbXT0Õl)RiºNÍSùR^JS„vqVÍTÿê^JS‹sýV^X	täSŒTXbÒRÆRöeãNåNeg1SÙ7hZP0dkYÿÕl)RiºNuªVÖNìNêñT„vãS4YÕl‹VÿNb‡e„v0¥YÉb0NwãNãNøv.O0"
+ sadducees: "’dýå‹>máO’V"
+ sadducees_influence: "’dýå‹>mû|„vqVÍT"
+ sadducees_FACTION_DESC: "’dýå‹>m—VTŽNNbWè•öeãNåNr‚R„v,rNMO'YmyøSNbYKQ0ÖNìNåb	ggØš„v>yO0WMOÿ`Snc†N6wï’d·Q„v'YèRmyøSÿ’dýå‹>mmNT¹r*Y>yO„vgØš6–BSÑSúQ|TT0’dýå‹>mmNœU0k‡T^—¹r*YºN0^JS„vqVÍT0(WáOðN¹eb—ÿ’dýå‹>mÒbÝuÕl)Ri>m„vãS4YÕl‹V0"
+ zealots: "aS³uOÆY"
+ zealots_influence: "aSHYÆY>mqVÍT›R"
+ zealots_FACTION_DESC: "ÂráO’V=fÍSùRWlšŒTVYe(W¹r0WšNW0WNqVÍT„vÐ¨R„vbXT0ÖNìN(W'YYpe—RYeŒT?e»lî•˜˜NNÕl)Ri>maÁ‰NôÿÖNìNNÕl)Ri>mNTÿàVHNÖNìNôfOPÍ‘›QýVININŒTÂríp„váOðNÿsS¹r*YºNÅV‰˜ÇûNUOÅV‰„vKbµkÎNYýVßu»l-Nã‰>eúQegÿÖNìNøváON^=fÖNìN=UN„vßu»lwŒTIN0"
+ ability_parthian_empire_mechanic: "teT^ÐcšN"
+ parthian_cultural_integration: "‡eS‡T"
+ parthian_cultural_integration_desc: "êú^ËzåNegÿÙ*N^ýVNôv=fòTåwNLuT0W‡eS„v÷mTSO0^ÐcšNßu»lwÇ‘(u^Jí‹jOHN˜R¹eí‹ŠÿTöeÇ‘(u^JŒTâl¯e‡eS0Lˆ?e¡rtŒT‹sCgtõV„vvQÖN¹eb—0\n\n"
+ parthian_religious_integration: "—RYe‡T"
+ parthian_religious_integration_desc: "^ÐcšNßu»lwŒTÖNìN„vãld–†N=fFyYe„v^©RwYÿØuªVTÍy—RYeÿw^ÐcšNºN-N„v'YYpe=fY^yYe0^ÐcšNßu»lwÇ‘(u†N^Jø‹^yåNÊSôTÔk&O0âl¯eŒTvQÖN0W¹e„vSV0W^yŒTTÜb0\n\n"
+ parthian_martial_integration: "›Q‹NteT"
+ parthian_martial_integration_desc: "‹†6q^ÐcšN„vßu»lwêSO`—SV0W„vSãŒT5Ïeeg¨RXT›Q–ÿFO^ÐcšN„vßu»lwýwY^—8^	gHe0WìS2UÖNìN„vãlÿÅVìSè–ÝOkS^ýVÿåNÊSÛLˆ^ýV¹LuåNY„vbyV0\n\n"
+ PARTHIAN_MECHANIC_POLICY: "20t^Tÿ°e„vteT?eVrSO«ˆÇ‘(u"
+ par_cultural_integration_focus: "teTYýV‡eS"
+ par_religious_integration_focus: "teTSV0WN^y¿k"
+ par_martial_integration_focus: "teT›Q‹ND–¸^"
+ ability_hunnic_confederation_mechanic: "SºNÆ–Cg"
+ hunnic_centralization_gov_mech: "èK„Æ–Cg"
+ hunnic_centralization_gov_mech_desc: "‹†6q(WÛeQ'k2mKNMRÿbìNSºNgR=fN*NúW,gN¡l	g†˜–ˆŒTRce„vèK„ÿFObìNN­e„vb‰NŒTb—e-N„vbŸRObìNýwYÛNekSbìN„vTw¦Æ–-N(WN*NK‘•„v†˜üRNÿÖN„vLˆ?eCg›R‰|<OŽNN*Nwck„výV‹s0\n\n§YžX RèK„Æ–Cg¦^„v	y˜ÿ§!b—Vb—e0b—Vb‰N0b—V‰^XwýN„vôVIe0Y²NTv^D–¸^0ÃOÛ‡eS0 cHY–™ý"
+ hunnic_centralization_increase_gov: " RHV-N.YÆ–Cg"
+ hunnic_centralization_increase_gov_desc: "bìNïSåN)R(ubìNÎNãl±Ì‘b—V„vTÕl'`ŒTáOûNÿÇb—eŒT cHYegb—VÿegÃOÛbìNO'YýV‹s»lN„v-N.YÆ–Cg0\n\n"
+ hunnic_appoint_logades_gov: "ûN‹Tm R·V"
+ hunnic_appoint_logades_gov_desc: "SºNTw¦„výV‹s	úQ”NMO«ˆðyHN0m R·V0„v'Yã0m R·Vâe=fúQ«Ž5ÏeÿmN=fàVŸRéuw«ˆ	úQ„vÿÖNìNNÅN1c%c›Q–ÿØ«ˆˆcˆN6eÖS!ÁT„vCg›R0\n\n"
+ hunnic_recruit_foreign_warriors_gov: "ÛbßRYýVbëX"
+ hunnic_recruit_foreign_warriors_gov_desc: "d–†NSºNßu»l6–µuÿTÍyvQÖN„vYýV‡eSÿ(WT*N0WHSý=fYpeŒTSpe‡eSÿmNòTÏu‡eQbìN„vTw¦0àVdkÿbìNïSåNìS2UÙ›N‡eS„vbëX„v›RÏ‘ÿuóÛbßRbìN¹LuåNYËS‹YèK„„vºNÿåNÊSbìNýV¶R…QƒS„v‡eSÿ‚Y(„SlšÐcšNºNŒT?–pQºN0\n\n"
+ gov_hunnic_logades_appointed: "m R·V«ˆûN‹T"
+ gov_hunnic_non_hunnic_leaders: "^—SºNbâV"
+ ability_pisan_republic_mechanic: "Æ–SO—e‰N"
+ pisan_support_famiglias: "=ec¶RÏe"
+ pisan_support_famiglias_desc: "Xb¯eaS³u„väSw0WIN¶RÏeÿbðy0¶RÏe0ÿ•gåNeg(WSV0Wåb	gèT'Y„vqVÍT›RÿN›N¶RÏe„vNˆßuïSåNý¯n0RWlš^ýV,g«Ž„v5Ïe0KS¡r×S0RFUºN6–BSåeÊvžX•„vqVÍT›RŒT0ÌR„vZÁwÿÙ›N5Ïe¶RÏeçuíuHN[Root.GetName]„v›Q–ŒTÎW!XÐc›OeˆÙu0\n\n"
+ pisan_support_mercanti: "=ecFUºN"
+ pisan_support_mercanti_desc: "[Root.GetName]„vFUºNŒTåT.S„v0WMOÅNGSÿ1uŽNbìNÎW^Aucƒ„v8fŒTKbåTNÿÖNìN„v0ÌRŒTqVÍT›RïSåNNçe5Ïeøv²ZŽ01uŽN5ÏeN?aaŠbCg›R©‹Ùu°eÌRºNÿÖNìNçuíuÇ	>NŒT9ei—egûRBl(WbìNÎW^„v?eœ^-Nôf'Y„vãNhˆCg0\n\n"
+ pisan_support_popolo: "=ecºNl"
+ pisan_support_popolo_desc: "HN†N”^ùRXb¯eaS³u„vçe5Ïe¶RÏeNTw„vFUºNŒTåT.S„v-NµN6–µuKNô•„v—e‰NÿnflOZwÆ–b†NN*NÖNìNêñT„v>mû|ÿbìNðyKNHN0ºNl00àVdkÿºNlŠegŠNánÿ‰BlÛLˆ'YO9ei—ÿv^(W[Root.GetAdjective]?eœ^-N·ƒ—Vôf‹Y„vãNhˆCg0\n\n"
+ gov_pisan_support_famiglias: "=ec5Ïe"
+ gov_pisan_support_mercanti: "=ecFUºN6–µu"
+ gov_pisan_support_popolo: "=ecs^lŒvÓY"
+ ability_presidential_doctrines_mechanic: "I`ßu6RfRô‹"
+ expansionist_doctrine_us: "ib.VININ"
+ expansionist_doctrine_us_desc: "9hnc-f-f)Y‹T„vtõVÿbìNèlšR‰ßu»lN*NO'Y„v'YF–ýV¶RÿÎN‰0RNÿ*jète*NŽ2mÿÎNwmm0RIQ‰„vwmm0HN†NýBlN^KˆNbìN„vÙNCg)RÿÇ‘(uI`ßu6R„vfRô‹SObìNýwYôf	gHe0WibUS0R°e„v¹Lu0\n\n"
+ internationalist_doctrine_us: "ýVE–ININfRô‹"
+ internationalist_doctrine_us_desc: "HN†NùR—b^ýVININRHVÿbìNÅV‰˜(Wå‹0WHSûRBl?e»lŒTÏuNmßvËSÿib'YbìN„vqVÍT›RN=fÇ›Q‹N›RÏ‘ÿw=fÇY²NŒTŽCQ0Ç‘(uýVE–ININ„vI`ßufRô‹SÃOÛŽ2mýV¶RKNô•„vê1u8fŒTTjO0\n\n"
+ non_interventionist_doctrine_us: "Nr^‰mININ"
+ non_interventionist_doctrine_us_desc: "1uŽNbìN(WŽ2m„v0WtMOnÿbìN(W0WtŒT?e»lNýN'k2m„v^ýV'YýV”–Ýu0ÙObìNýwYýBlNÍy^—r^‰mININ?eVrÿ‚YœgbìN?aaÿNèlŽNÑSUSbìN„výV¶RŒTåTNÿã‰³QýV…Qî•˜˜ÿwN=fÅbÃVwmY„vhQt²Qz0\n\n"
+ govmod_expansionist_doctrine_us: "ib.VININ…Q–?eVr"
+ desc_govmod_expansionist_doctrine_us: "9hnc-f-f)Y‹T„vtõVÿbìNèlšR‰ßu»lN*NO'Y„v'YF–ýV¶RÿÎN‰0RNÿ*jète*NŽ2mÿÎNwmm0RIQ‰„vwmm0(WýBlN^KˆNbìN„vÙNCg)R„vÇz-NÇ‘(uI`ßuININÿSObìNýwYôf	gHe0WibUS0R°e„v¹Lu0"
+ govmod_internationalist_doctrine_us: "ýVE–ININ…Q–?eVr"
+ desc_govmod_internationalist_doctrine_us: "HN†NùR—b^ýVININRHVÿbìNÅV‰˜(Wå‹0WHSûRBl?e»lŒTÏuNmßvËSÿib'YbìN„vqVÍT›RN=fÇ›Q‹N›RÏ‘ÿw=fÇY²NŒTŽCQ0Ç‘(uýVE–ININ„vI`ßuININtº‹SÃOÛŽ2mýV¶RKNô•„vê1u8fŒTTjO0"
+ govmod_non_interventionist_doctrine_us: "Nr^‰m…Q–?eVr"
+ desc_govmod_non_interventionist_doctrine_us: "1uŽNbìN(WŽ2m„v0WtMOnÿbìN(W0WtŒT?e»lNýN'k2m„v^ýV'YýV”–Ýu0ÙObìNýwYýBlNÍy^—r^‰mININ?eVrÿ‚YœgbìN?aaÿNèlŽNÑSUSbìN„výV¶RŒTåTNÿã‰³QýV…Qî•˜˜ÿwN=fÅbÃVwmY„vhQt²Qz0"
+ ability_mandala_system_mmetr_mechanic: "üf|ƒWßu»l"
+ mandala_domination_gov_mech: "üf|ƒWßu»l"
+ mandala_domination_gov_mech_desc: "üf|ƒWßu»l¦^ãNhˆ†NbìN„vßu»lwùRhT¹ÎW^„vµc6Rz¦^ÿ(W§R-60§!0R§G+60§!KNô•0üf|ƒWßu»l¦^mNO§M(Wßu»lw‰kTb`Y§!ÿàVHNg!ýV„vàVÚ‹NýV¶RàesQÿw=fNßu»lw*NºN	gTwû|0\n\n(W§R-60§!0R§G15§!„vüf|ƒWßu»l¦^KNô•ÿÎW^ÝOc†Nôf'Y„vê»l¦^ÿSVƒRM–0R§R0§!åNNöeÿôfß|„vb—îOckVËYib'Y0\n\n§g(W§!§Yüf|ƒWSOû|§!-Nÿ§gbìN„vßu»lw=fýV¶R„v-NÃV0ßu»l–™ýåNYÎW^„vSV0Wßu»lwÇšRgÛ!ŒTÐcØšVìSuQ±R“ŠHeàVÿbìNÏu8^²Nbc<yiregÝOcÖNìN„vàVÚ‹0àVdkÿbìN„vµc6RˆV'Yz¦^NOVŽNbìN„vßu»lw*NºNùRg!ýV„v`¦^0§!\n\n"
+ mandala_request_additional_tribute_gov: "‰Bl˜Y!K"
+ mandala_request_additional_tribute_gov_desc: "bìNòTÏuNbìNüf|ƒW-N„vßu»lwú^Ëz†NÆRR„vsQû|ŒT„UaÿÖNìNTbìNg!0ÙÍyg!8^åNÑ‘ö”6Rb„vNSKNÑ‘^Sh„vbVV=eØN01uŽNbìNib'Y†NqVÍT›RÿbìNïSåN(W—‰„vöePåNˆVS„v˜YãN÷N‰Bl˜Y„vg!ÿKS¡rbìNS1Y»SN›NbìNNÙ›NSV0Wg!ýVKNô•„vºNÅ`0"
+ mandala_renegotiate_levy_agreements_gov: "Í‘°eOSFUVuQOS®‹"
+ mandala_renegotiate_levy_agreements_gov_desc: "bìNïSåN)R(ubìN„vN›NºNÅ`ŒT*NºNqVÍTegÍ‘°eŒ2RbìN„vg!ýVßu»lw(WböeÐc›O„v›Q–ŒTeˆÙuÿÇ)R(uÖNìN.kbìN„vºNÅ`eg)R(u	g)RŽNbìN„vŒ2R0"
+ mandala_strengthen_ruler_relations_gov: " RHVNßu»lw„vsQû|"
+ mandala_strengthen_ruler_relations_gov_desc: "üf|ƒWSOû|(WˆV'Yz¦^NOVßu»lwŒTg!ýVKNô•*NºNsQû|„vHV¦^ÿwN=fg!ýVùRýV¶R„vàVÚ‹0Ç<yŒT²NêÜb¿‹bìN‹sýV„vg!ýVßu»lwÿbìNïSåN RHVÙÍysQû|ÿåNnxÝOÖNìNùRbìNÝOcàVÚ‹0"
+ gov_mandala_renegotiated_levies: "Í‘°eOSFUVìSuQ"

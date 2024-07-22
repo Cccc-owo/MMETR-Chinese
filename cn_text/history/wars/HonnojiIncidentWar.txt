@@ -1,0 +1,14 @@
+name = "HN«u0u·OïY«Nb" 	# War to Avenge Oda Nobunaga
+war_goal = {
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1020 	#  Kyoto
+}
+1582.6.21 = {
+  add_attacker = TYT
+  add_defender = AKE
+}
+1582.7.2 = {
+  rem_attacker = TYT 	# Akechi Mitsuhide defeated at Yamazaki
+  rem_defender = AKE
+}

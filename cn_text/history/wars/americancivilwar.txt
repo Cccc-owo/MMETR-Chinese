@@ -1,0 +1,14 @@
+name = "ŽýV…Qb" 	# American Civil War
+war_goal = {
+  type = civil_war_wargoal
+  casus_belli = cb_conclude_civil_war 	# New added in MMETR
+  tag = USA
+}
+1861.4.12 = {
+  add_attacker = USA 	# swapped attacker and defender for new CB
+  add_defender = CSA
+}
+1865.5.5 = {
+  rem_attacker = USA 	# swapped attacker and defender for new CB
+  rem_defender = CSA
+}

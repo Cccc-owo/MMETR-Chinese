@@ -1,0 +1,20 @@
+name = "™„äSßuNb‰N" 	# Mongol Unification War
+war_goal = {
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 2116
+}
+1201.1.1 = {
+  add_attacker = KMO 	# Khamag Mongol - Genghis Khan
+  add_attacker = KRE 	# Kereits
+  add_defender = TYC 	# Tayichiud	- Jamukha / Gur Khan
+  add_defender = NAI 	# Naimans
+}
+1203.1.1 = {
+  rem_attacker = KRE 	# Ong Khan killed
+}
+1204.1.1 = {
+  rem_attacker = KMO 	# Genghis defeats Jamukha and Tayang Khan
+  rem_defender = TYC
+  rem_defender = NAI
+}

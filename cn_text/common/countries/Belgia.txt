@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 181 181 97 }
+historical_idea_groups = {
+  early_religious_ideas
+  early_trade_ideas
+  early_mil_ideas
+  early_adm_ideas
+  defensive_ideas
+  offensive_ideas
+  administrative_ideas
+  economic_ideas
+  trade_ideas
+  religious_ideas
+  diplomatic_ideas
+  spy_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Acco #0" = 10
+  "Addedomarus #0" = 10
+  "Adiatuanus #0" = 10
+  "Adminius #0" = 10
+  "Aiorix #0" = 10
+  "Ambicatos #0" = 10
+  "Andecombogius #0" = 10
+  "Aneroestes #0" = 10
+  "Ariovistus #0" = 10
+  "Arverus #0" = 10
+  "Arvirargus #0" = 10
+  "Bellicianus #0" = 10
+  "Bellovesus #0" = 10
+  "Boiorix #0" = 10
+  "Bolgios #0" = 10
+  "Brennus #0" = 10
+  "Bricussa #0" = 10
+  "Britomaris #0" = 10
+  "Brucetius #0" = 10
+  "Caractacus #0" = 10
+  "Carvilius #0" = 10
+  "Cattulanus #0" = 10
+  "Cingetorix #0" = 10
+  "Comux #0" = 10
+  "Cottius #0" = 10
+  "Cunobelinus #0" = 10
+  "Diviciacus #0" = 10
+  "Donnus #0" = 10
+  "Dumnacus #0" = 10
+  "Dumnorix #0" = 10
+  "Galan #0" = 10
+  "Galba #0" = 10
+  "Guiderius #0" = 10
+  "Iacus #0" = 10
+  "Inamarcus #0" = 10
+  "Lucterius #0" = 10
+  "Orgetorix #0" = 10
+  "Sinatus #0" = 10
+  "Sinorix #0" = 10
+  "Sisillius #0" = 10
+  "Tasciovanus #0" = 10
+  "Taximagulus #0" = 10
+  "Tincomarus #0" = 10
+  "Vertiscus #0" = 10
+  "Venutius #0" = 10
+  "Viridorix #0" = 10
+  "Vosenius #0" = 10
+  "Sibylla #0" = -1
+  "Xenia #0" = -1
+  "Illica #0" = -1
+  "Lucilia #0" = -1
+  "Senica #0" = -1
+  "Boudica #0" = -1
+  "Bricta #0" = -1
+  "Verica #0" = -1
+  "Bodicacia #0" = -1
+  "Britivenda #0" = -1
+  "Catissena #0" = -1
+  "Deiana #0" = -1
+  "Titocuna #0" = -1
+  "Velbutena #0" = -1
+  "Veloriga #0" = -1
+  "Velibia #0" = -1
+}
+leader_names = {
+  Addedomarus
+  Galba
+  Venutius
+  Vertiscus
+  Viridorix
+  Sinorix
+  Sinatus
+  Orgetorix
+  Dumnorix
+  Dumnacus
+  Brucetius
+  Cingetorix
+  Aiorix
+}
+ship_names = {
+  "Agios Kyprianos"
+  Areopoli
+  Elika
+  Geronlimenas
+  Gytheio
+  Kardamyli
+  Kokkala
+  Kotronas
+  Skoutari
+  Vathia
+}

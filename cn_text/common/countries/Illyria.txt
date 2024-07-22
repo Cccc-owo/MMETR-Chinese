@@ -1,0 +1,85 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 255 71 43 }
+historical_idea_groups = {
+  early_religious_ideas
+  early_trade_ideas
+  early_mil_ideas
+  early_adm_ideas
+  religious_ideas
+  defensive_ideas
+  spy_ideas
+  trade_ideas
+  offensive_ideas
+  economic_ideas
+  diplomatic_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  eastern_medieval_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  ottoman_spahi
+  ottoman_sekban
+  ottoman_reformed_spahi
+  ottoman_reformed_janissary
+  ottoman_toprakli_hit_and_run
+  ottoman_nizami_cedid
+  ottoman_toprakli_dragoon
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  ottoman_new_model
+  ottoman_lancer
+}
+monarch_names = {
+  "Andinos #0" = 40
+  "Bardourios #0" = 20
+  "Daiekos #0" = 20
+  "Laidietis #0" = 10
+  "Statos #0" = 10
+  "Anadros #0" = 20
+  "Karbanios #0" = 5
+  "Germanos #0" = 5
+  "Verzaieos #0" = 5
+  "Touros #0" = 5
+  "Passalos #0" = 5
+  "Likkaios #0" = 5
+  "Laidietis #0" = 5
+  "Epikaris #0" = 5
+  "Laidos #0" = 5
+  "Sassaios #0" = 5
+  "Kourbania #0" = -10
+  "Genthena #0" = -10
+  "Barro #0" = -10
+  "Maxa #0" = -10
+  "Tritto #0" = -10
+  "Stataria #0" = -10
+  "Stato #0" = -10
+  "Mabida #0" = -10
+}
+leader_names = {
+  Andinos
+  Bardourios
+  Daiekos
+  Laidietis
+  Statos
+  Anadros
+  Karbanios
+  Verzaieos
+  Touros
+  Epikaris
+}
+ship_names = {
+  Hydra
+  Lesbos
+  Limnos
+  Mikonios
+  Pezopoulos
+  Salamis
+  Samos
+  Simitzopoulos
+  Themistoklis
+  Votsis
+}

@@ -1,0 +1,119 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = afghani
+religion = zunism
+technology_group = middle_eastern
+capital = 2229 	#  Zamindawar
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+650.1.1 = {
+  technology_group = muslim
+}
+#New rulers added in mod
+647.1.1 = {
+  monarch = {
+    name = "Rutbil"
+    dynasty = "Zunbil"
+    adm = 3
+    dip = 4
+    mil = 6
+  }
+}
+690.1.1 = {
+  monarch = {
+    name = "Khuras"
+    dynasty = "Zunbil"
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+  heir = {
+    name = "Alkhis"
+    monarch_name = "Alkhis"
+    dynasty = "Zunbil"
+    claim = 95
+    adm = 5
+    dip = 5
+    mil = 5
+  }
+}
+714.1.1 = {
+  monarch = {
+    name = "Alkhis"
+    dynasty = "Zunbil"
+    adm = 5
+    dip = 5
+    mil = 5
+  }
+}
+720.1.1 = {
+  monarch = {
+    name = "Shiquer"
+    dynasty = "Zunbil"
+    death_date = 738.12.31
+    adm = 4
+    dip = 5
+    mil = 4
+  }
+}
+738.12.31 = {
+  monarch = { 	# placeholder Zunbil dynast, name based on account by monk Hyecho
+    name = "Shatuokan"
+    dynasty = "Zunbil"
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+}
+770.1.1 = {
+  monarch = { 	# placeholder Zunbil dynast
+    dynasty = "Zunbil"
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+}
+800.1.1 = {
+  monarch = { 	# placeholder Zunbil dynast
+    dynasty = "Zunbil"
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+}
+835.1.1 = {
+  monarch = { 	# placeholder Zunbil dynast
+    dynasty = "Zunbil"
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}

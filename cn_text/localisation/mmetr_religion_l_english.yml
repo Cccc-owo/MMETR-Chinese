@@ -1,0 +1,155 @@
+﻿l_english:
+ daoism: "SYe"
+ daoism_religion_desc: "SYe²‹HNÿN*NºNÅV‰˜z˜vQê6qÿ=fHN0S00SYeÒbÝu?eœ^ŒT>yO„v^—ê6q¹eb—ÿøváONê6qŒTŒqQY0ÖNìN4ngNhTôV„vê6qNLuôf¥cÑÿÙüRô¸‹YS¶RbHN`Sf¶RŒT¼pÑ‘=gëXÿTwûRBlNKg„vÙNoƒ0KS¡rƒRŒSv`ºNHN„v6R¦^ÿFOêbýVöegåNegÿSYeNôvqVÍTNwNšNTýV„v?e»l0»ltŒTb‰N0"
+ daoism_rebels_demand: "9eØS$COUNTRYNAME$áOðN"
+ daoism_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ daoism_rebels_title: "—RYe"
+ daoism_rebels_name: "$RELIGION$Ârípw"
+ daoism_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ daoism_rebels_army: "$RELIGION$›Q–"
+ TIANSHIDAO: ")Y^S"
+ WUDOUMIDAO: "”N—es|S"
+ ZHENGYIDAO: "ckNS"
+ waaqism: "æt<hYe"
+ waaqism_religion_desc: "æt<hYe=f“^^yrlÏe„v,gWN^yº‹áOðNƒR„vý–wTÜbóØšàeN„v)YzzKN^yæt<h0ºNìNøváOæt<huIm(W)YXÿ(W±Ì‘ÖNåNè–4lŒTvQÖNi`à`kyyºNlÿnfºNýwYÇ?–lb±ƒ(WºN‰|ŒTæt<hKNô•EQSVŒã‰ºN„vÁNHa„vupB›Tæt<hhˆ¾ÖNìN„v2kg0"
+ waaqism_rebels_demand: "9eØS$COUNTRYNAME$áOðN"
+ waaqism_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ waaqism_rebels_title: "—RYe"
+ waaqism_rebels_name: "$RELIGION$Ârípw"
+ waaqism_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ waaqism_rebels_army: "$RELIGION$›Q–"
+ NIDARISM: "<S¾S>m"
+ mithraic: "ÆRyrÉb"
+ mithraic_religion_desc: "ÆRyrÉbYe=fùRÆRyrÉb^y„vTÜb09hnc0WHSŒT‡eSÿÖN„vTÜb	gYÍybVVÿjOHNNéy^ŒT*Y3–	gsQ„vbëX^yÿ(W^ÐcšNºNŒTOgSèˆV×S0kÎ0(WWlš^ýVÿTÜbåN^yØyTÜb„vbVVVËYÿ(WWlš>yO„vS›QŒT5Ïe-NˆV×S0kÎ0àVdkÿÆRyrÉb„vÙÍy¨R`«ŽýNüRôÖN(W—RYeŒT‡eSLu-N„v8TV›RÿFyYe’VSÆRyrÉbÆ‰HNkp0qŒTbëXšNNbTXÿÅN!kŽN?–áwÉb·lšyQ¾0"
+ mithraic_rebels_demand: "9eØS$COUNTRYNAME$áOðN"
+ mithraic_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ mithraic_rebels_title: "—RYe"
+ mithraic_rebels_name: "$RELIGION$Ârípw"
+ mithraic_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ mithraic_rebels_army: "$RELIGION$›Q–"
+ canaanite_religion: "æWS"
+ canaanite_religion_religion_desc: "æWSY^yYe=f1uS¹e„vTÍyê•s|yrN^y¿k0^yupŒTSV0WTÜbÄub„vÿvQ`N×O9hnc0WHSŒTlÏew	gNbNTÿ‚YÙS)RšNìryr„vôTSs|ÉbVŒT^—2m„v^?SV0å‹—RYeñm×S»Ñ„vŽ0tN¾s|šNŒTÃWÊSáOðN„vqVÍTÿØÇ‘(u†N?–Éb=OŒT^J„v^yupÿ‹O‚YôTSs|Éb„vâl^X¬QTÜb0æWSY^yYe„vI`SOÍ‘¹p=fW0W„vuµN›RŒTßu»lw„v?e»lTÕl'`0"
+ canaanite_religion_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ canaanite_religion_rebels_title: "—RYe"
+ canaanite_religion_rebels_name: "$RELIGION$Ârípw"
+ canaanite_religion_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ canaanite_religion_rebels_army: "$RELIGION$›Q–"
+ CULT_OF_YARHIBOL: "šNS^ZSSTÜb"
+ CULT_OF_ALLAT: "?–ÉbyrTÜb"
+ CULT_OF_POSEIDON: "âl^X¬QTÜb"
+ heptadic: "knfTX·V"
+ heptadic_religion_desc: "knfTXêKQÙ*NTWRc„v=f¯eúWðlŒT(„SlšÐcšNN^y¿k„vNMOIN‰^y0(„SlšÐcšN=fN*NpS¦^-Og„v(„ánYeÿƒR„v‡R™RfR1uTXÔkÐc†˜üRÿTXÔkÐc=f‡R™RÞ‹u„vŸSËYkp„vgIN‰sY^y0d–†N(„SlšÐcšN„vNMOIN‰^yÿå‹—RYemN=f‡T„v:vQÖNTÍy^ymN×S0RTÜbÿSìbÇNYýVºNl¥cæ‰ŒTVgw¥c×S„vàQ*Nr‚÷–¯e0ZS¯enfœ¯eŒT^J^y0"
+ heptadic_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ heptadic_rebels_title: "—RYe"
+ heptadic_rebels_name: "$RELIGION$Ârípw"
+ heptadic_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ heptadic_rebels_army: "$RELIGION$›Q–"
+ qarmati_school: "aSÉbs|TX"
+ qarmati_school_desc: "1uaSSlšyr„vYeINú^Ëz„vaSSlšyr>m=fNO¯e›sêN>mÀNöS>m„vi—‹TÐ¨RÿÒbÝu†N?–Ôb¯e‹sgŒTÕl‚„›s‹sg„vÈTÌ‘ÑS0ÖNìN	gN›NNvQÖNO¯epQfR>mNT„vó`Õlÿgf>f„v=faSSlšyr>m²‹HNMRŽV¦ž Rg1WêS=fNÍy÷áO0aSÉbs|TXØ‡T†NSV0W„váOðNÿ‚YFyYeâl¯eºN„váOðN0"
+ qarmati_scholar_modifier: "æWÆRYfRw"
+ desc_qarmati_scholar_modifier: "bìNSVMR>k…VæWÆRY>mfRw(WbýVÛLˆñmeQ„v^yfR¨‹º‹0"
+ icon_olga: "úW…„v1WeYS RÏP"
+ desc_icon_olga: "úW…„v1WeYS R=fúW…W¯e„vDd?eßu»lwÿmN=fN'kgéeˆvOúWcwYe„vºNKNN0(WMRŽVTëXfWN!XöeÿeYS R(W‡v^ŒTgr–™„v.^©RNˆvO†NúWcwYe0‹†6qW¯e„vúWcwSêS	gyY„vYRPRVÉbúWs|S'Y^MbwckžR°sÿFOeYS R=fW¯e,rN*NÛeQN^‹sýV„vºN01uŽNyYªR›ROW¯eºNlˆvOÿyY«ˆˆcˆN†Nle<y„vO(„âl¯eþVm¯eÿa`=f0NO’Vs^Ir00"
+ personal_deities_orthodox_icons_events_mmetr.1.t: "úW…„v1WeYS R"
+ personal_deities_orthodox_icons_events_mmetr.1.desc: "ÏuÇY!kYeO¨‹º‹ÿúW…„veYS R«ˆˆcˆN1W’V«ŽýN0úW…„v1WeYS R=fúW…W¯e„vDd?eßu»lwÿmN=fN'kgéeˆvOúWcwYe„vºNKNN0(WMRŽVTëXfWN!XöeÿeYS R(W‡v^ŒTgr–™„v.^©RNˆvO†NúWcwYe0‹†6qW¯e„vúWcwSêS	gyY„vYRPRVÉbúWs|S'Y^MbwckžR°sÿFOeYS R=fW¯e,rN*NÛeQN^‹sýV„vºN01uŽNyYªR›ROW¯eºNlˆvOÿyY«ˆˆcˆN†Nle<y„vO(„âl¯eþVm¯eÿa`=f0NO’Vs^Ir00"
+ personal_deities_orthodox_icons_events_mmetr.1.a: "?abìNÇHeÕl1WeYS Reg.O­dwck„váOðN0"
+ personal_deities_orthodox_icons_events_mmetr.1.tt: "ã‰•NckYe„v§TúW…„v1WeYS RÏP§!"
+ MUISM_ASPECTS_LONG: "^©R“^yrêNV"
+ MUISM_ASPECTS_SHORT: "“^yrêNV"
+ MUISM_ASPECTS_POWER_NAME: "(„ánCg¿R"
+ hwanin_kut_aspect: "ÎN“^yr0RætR"
+ desc_hwanin_kut_aspect: ")YN^yŒT)YINÿkNRÎNN)Yßu»lNwN*NO'Y„v)YýV0kNR=fäSgœœöeg„vW„T^yÿmN=fäSgœœ.Oô‹-N„výV6rŽjT„vVy6r0"
+ hwanin_kut_aspect.tt: "§G-10%§!8hÃVS±‚9ÿcíu§Y5§!t^"
+ dangun_kut_aspect: "ŽjT“^yr"
+ desc_dangun_kut_aspect: "ŽjT=fäSgœœ‹sýVÿ†SòSN,rN*Ngœœ‹sýV„v.OGY.wŒT^y‹sÿÖN=fTÜbŒTgœœ„š²P„vegn0^©RªuõVÖNw>NžR“^yrSKˆNbìNTÕl'`ŒTCgZ0"
+ dangun_kut_aspect.tt: "§G+10§!ckßu'`ŒT§G-10%§!øvT—RYe„vŒ˜î•±‚9ÿcíu§Y10§!t^"
+ munsin_kut_aspect: "è•^y“^yr"
+ desc_munsin_kut_aspect: "è•^y=fte*Ngœœ¶R­^„v^y1WˆR²bw0(WNmÞT›S2SvQzúQŒTHV'Yÿncô‹(WNmÞT›SÿNLuN¡l	gú^Qrir=fè•^yNåwS„v0"
+ munsin_kut_aspect.tt: "§G+10%§!hQNS2–¡VHe‡sŒT§G-10%§!ú^.±‚9ÿcíu§Y5§!t^"
+ yeongdeung_kut_aspect: "8l‰v“^yr"
+ desc_yeongdeung_kut_aspect: "jOHNÎ˜ŒTwmm„vsY^yÿ8l‰vÏkt^ýO¿‹î•NmÞT›Sÿ(u|œIrwmmß˜ir0NÌRå‹›S0(W(„ánYe„vêNV0“^yr0-NÿºNìN÷‹Bl8l‰v(uwaha„vÎ˜kyyºNl0"
+ yeongdeung_kut_aspect.tt: "§G+5§!wm›Q.OßuŒT§G+10%§!8fFUÁTÄ‰!jÿcíu§Y10§!t^"
+ samsin_halmeoni_kut_aspect: "(„ÆY›·ÈTS¨XÁ“^yr"
+ desc_samsin_halmeoni_kut_aspect: "(„ÆY›·ÈTS…heY<SaHN0	NMOsY^y„vVyÍk0ÿ=fR)ZŒT‹TÐ„v	NMOsY^yÿåN	NÍyNT„vbVVúQ°s0(„ÆY›(WR)ZöeåN'Ys|0q‘¹lŒTa„„R‘jOHNmyÁT×S0RSleÿ‰BlÙMO^yupÝO²bÏkN*NiRPRÿÎNúQu0RNS0"
+ samsin_halmeoni_kut_aspect.tt: "§G+70%§!çubºN‚i‡sŒT§G+10%§!TINÿR‹Tÿcíu§Y15§!t^"
+ bari_gongju_kut_aspect: "ôTÌ‘lQIN“^yr"
+ desc_bari_gongju_kut_aspect: "ôTÌ‘lQIN«ˆ²‹HN=f(„án„vˆR²b^yÿ‰kwupB›„vTüRÿ'YêÀs„vsY^y0(WyY„v6r²NÿN*NýV‹sÿ(WyYÍk²NÞíuu†NmQ*NsY?Qÿv^gg	gN*N?QPRTÿ«ˆNMOqS^yQe†NúQegÿyYVËY†NNag·ƒ—V^y'`„vSï0"
+ bari_gongju_kut_aspect.tt: "§G-5§!ŒSbÅ`êuÿ§G-10%§!3zšR¦^±‚9ŒT§G-1%§!ÛSqN¦^ÿcíu§Y5§!t^"
+ naerim_kut_aspect: "³u÷–ÆY-“^yr"
+ desc_naerim_kut_aspect: "³u÷–ÆY“^yrêNV=fN*NºNbHN(gSVÿb(„án„vêNV0Ù*NêNVmNOüRô«Ž«ˆupB›b^yup`Snc„v¶r`ˆm1Y01uŽN¸‹Y(gSV=f‡YsYÿ(„án„vÒ‰r‚AQ¸‹‡YsY(W—RYe‹N¡R-NINüRÿwN=fQ¶RÐc!P„v>yO6rCg6R0"
+ naerim_kut_aspect.tt: "·ƒ—V§G+1§!.OYeëXÿcíu§Y5§!t^ÿv^·ƒ—VNMO§Y˜bcb§!„vsY'`^yfR¶R"
+ sinjang_kut_aspect: "Kut to Sinjang"
+ desc_sinjang_kut_aspect: "Sinjang are the spirits of the great military generals of old. We perform kut, rituals, to the sinjang to ask for the strength to defend our homeland. Additionally, some sinjang inhabit the bodies of our own living generals today."
+ sinjang_kut_aspect.tt: "§G+10%§!F–›QëXlŒT§G+10%§!ëXlb`Yÿcíu§Y5§!t^"
+ sansin_kut_aspect: "“^yrqS^y"
+ desc_sansin_kut_aspect: "qS^y«ˆ²‹HNHNuIm(WÖNìNW0WN„v>yHSÐc›OÝO²bŒT0Nv™01uŽNqS	=fëTêN(„ánYeg^y1W„vê6qSOKNNÿÖNìN(Wnf¶R­^-N^Ûl„vTÜbHNbìN„vºNlb—V†NÖNìN„vkyy0"
+ sansin_kut_aspect.tt: "(WN*N–Hgåb	g§YqS	§!b§YNu–§!„vwýN·ƒ—V§G+1§!uµN"
+ buddha_kut_aspect: "Kut to the Buddha"
+ desc_buddha_kut_aspect: "‹†6qiOYegR=fNgœœ(„ánYeRV„v—RYeÿFOiOYeÊSvQYeIN„vVeQüRô†NiOYeŒTëTYe„v‡T0àVdkÿbìN„v(gZQÿb(„ánÿuóOHN^gTiOYe^yup.smy„viOYe’V>NLˆmyNy0(WiOYe.Oßu-Nÿgœœ)YzzKN^ykNR«ˆ²‹HN=f.TN–^yàVN–W0"
+ buddha_kut_aspect.tt: "(W¥cNeg§Y5§!t^…QÿNb	giOYewýN·ƒ—V§G-5§!R»yININŒT§G+1§!¹RÍV¦^"
+ jade_emperor_aspect: "Kut to the Jade Emperor"
+ desc_jade_emperor_aspect: "(W×SSYeqVÍT„vëTêNYeáO’V-Nÿ)YzzKN^ykNRmN«ˆðyHN0‰s^0ÿck=f(W-NýVO^y-Nßu»l)Y­^„v‰s^0àVdkÿSYe’VmNýwY^©RÖNìNêñT„v^yup0"
+ jade_emperor_aspect.tt: "§G+1§!Œ˜î•`lÿ§G+1§!QYe/SYewýN¹RÍVÿcíu§Y5§!t^"
+ tengri_kut_aspect: "Kut to Tengri"
+ desc_tengri_kut_aspect: "ŽjTÿ.Oô‹-N„v^y‹sŒTgœœ„vRËYºNÿmN=fgœœ(„ánYe-N)YzzKN^ykNR„v?QPRÿ(Wí‹nfRNNŒ<hÌ‘ÿ‰S8ngrlÏe„v)YzzKN^yøvT0àVdkÿbìNW0WNTÜbŒ<hÌ‘„vºNmNïSåN^©R“^yrTÖNìNêñT„v)YzzKN^y.smy0"
+ tengri_kut_aspect.tt: "(W•u)YwýN§G+1§!¹RÍV¦^ŒT§G-10%§!‘šuQ±‚9ÿcíu§Y5§!t^"
+ indra_kut_aspect: "Kut to Indra"
+ desc_indra_kut_aspect: "(WiOYe-gœœ.Oßu-Nÿgœœ)YzzKN^ykNRN.TN–^yàVN–WpS¦^Yeø‹^yŒT)YXKN‹søvNô0àVdkÿSVbìNŠbpS¦^Ye„vý–w‡eQbìN„v‹sýVöeÿbìNïSåN^©R“^yrTàVN–W.smyÿ‰Ršb^y1W„vàVN–WåNÊSbìNW0WN„vpS¦^Ye’V0"
+ indra_kut_aspect.tt: "(W¥cNeg§Y5§!t^Ì‘ÿpS¦^YewýN§G-5§!R»yININŒT§G+1§!¹RÍV¦^"
+ hwanin_kut_modifier: "kNR„vÁNHa"
+ dangun_kut_modifier: "ŽjTZg"
+ munsin_kut_modifier: "è•^y„vÝO²b"
+ yeongdeung_kut_modifier: "8l‰vKNÎ˜"
+ samsin_halmeoni_kut_modifier: "(„ÆY›·ÈTS¨XÁ„v^yP"
+ bari_gongju_kut_modifier: "‰kw«ˆôTÌ‘lQINÝO²b"
+ naerim_kut_modifier: "°e(gZQ"
+ sinjang_kut_modifier: "áOðN„vb—e¾|^y"
+ buddha_kut_modifier: "iON–„vzfga"
+ jade_emperor_kut_modifier: "‰s^„vkyy"
+ jade_emperor_kut_country_modifier: "‰s^KNzf"
+ tengri_kut_modifier: "•u)Y„vcV"
+ tengri_kut_country_modifier: "•u)Y„vcV"
+ indra_kut_modifier: "àVN–W„vkyy"
+ harmonized_daoism: "ŒTŒS¶R"
+ harmonized_confucianism: "ŒTŒQfR"
+ mmetr_harmonization.1.t: "ŒTŒS¶R"
+ mmetr_harmonization.1.desc: "‹†6qQ¶RŒTS¶R„vòTfR(W%fËy+ggjOHNŒv¶RfR>múQ°sÿFOÙ2NÍyòTfR„vÂ‰¹pXR(WN›NîTVÿÙüRôƒRìNbHNNNãNãN„vLeùRfR>m0\n6qwÿ1uŽNbìNªR›RÃOÛQ¶RŒTS¶R„vTwTÿbìN„vºNlòTÏuf‹vÿbìNý(WûRBl‰|<O„vŒTŒbVV0\nàVdkÿ‹†6qbìN„v?eœ^ŒTåe8^uIm×S0RQ¶RYeIN„vqVÍTÿFO˜RÚPŒTæ‚LˆwmNýSS¶R„v¥Qó`‡eQ†NÖNìN„våe8^uIm0"
+ mmetr_harmonization.1.a: "0glåNS·VÿnlåNYeS00"
+ mmetr_harmonization.2.t: "ŒTŒQ¶R`ó`"
+ mmetr_harmonization.2.desc: "‹†6qQ¶RŒTS¶R„vòTfR(W%fËy+ggjOHNŒv¶RfR>múQ°sÿFOÙ2NÍyòTfR„vÂ‰¹pXR(WN›NîTVÿÙüRôƒRìNbHNNNãNãN„vLeùRfR>m0\n6qwÿ1uŽNbìNªR›RÃOÛQ¶RŒTS¶R„vTwTÿbìN„vºNlòTÏuf‹vÿbìNý(WûRBl‰|<O„vŒTŒbVV0\nàVdkÿ‹†6qbìN„v?eœ^ŒTåe8^uIm×S0RQ¶RYeIN„vqVÍTÿFO˜RÚPŒTæ‚LˆwmNýSS¶R„v¥Qó`‡eQ†NÖNìN„våe8^uIm0"
+ mmetr_harmonization.2.a: "0glåNS·VÿnlåNYeS00"
+ sacrifice_messenger_button.tt: "§Y.smyNMOáOOÙuågid‰¯e§!\n§gbìNøváOupB›=fNKg„vÿbìNýNO‰kÿw=fO8lÜ ReQågid‰¯e„v)YX0àVdkÿÏkÛVt^bìNTågid‰¯e.smyNMOáOOÿÖN«ˆ	-Nv^Tb(W•ÛwNÿÙ7hÖN„vupB›1SïSåNçuíuTågid‰¯e¥bJTbìN—‰ÖNÀNHN0§!\n\nSbV—zãSeg÷‹Blågid‰¯e„v§Okyy§!\n§YQ!k¹pûQ§!Ù*N	c®”§YÖSˆm§!v^sQí•ƒR"
+ zalmoxis_sacrifice_blessing_economic.tt: "§Y0ÌRKN^y§!"
+ zalmoxis_sacrifice_blessing_agricultural.tt: "§Y0Nv™KN^y„vkyy§!"
+ zalmoxis_sacrifice_blessing_war.tt: "§Y›RÏ‘KN^y„vkyy§!"
+ sacrificed_messenger_wealth: "W0W„v0ÌR"
+ sacrificed_messenger_abundance: "0Nv™„v0u0W"
+ sacrificed_messenger_might: "ågid‰¯eKN›R"
+ zalmoxis_investiture_of_light_button.tt: "§YIQKNÙSûNCg§!\n§gºNìNøváOêS	gbëX6–BSMbýw¥c×Sågid‰¯eˆcˆNbìN„vNKgåwÆ‹01uŽNÙÍyåwÆ‹NIQfŒTkp	gsQÿS‹sPRŒT7uiRØSbýV‹sŒT7uºN„vêNVNÙ›N*NºN(W>yO-N„vêNVÍ‘u-N„vËpípÙSûNCg	gsQ0§!\n1uŽNbìNßu»lw„vCgZNÖN„vIQfŒTIQf	gsQÿÙ*NLˆ¨RêSýw(Wßu»lw	g³Y„v§Yckßu'`§!öeÇ‘ÖS0"
+ zalmoxis_royal_banquet_button.tt: "§Y>NžR‡v¶R´RO§!\n§g‡v¶R´ROùRbìN„v?e»lŒT¾|^yý^—8^Í‘‰0êS	gßu»lwgáOûN„vºNMbýw«ˆŽ÷‹ÂS RÙ›N´ROÿ´RO4O–Nw<yir„v²NbcåNÊSLkòfŒT‚HŽÿ(„ánÇÙ›NLkòfŒT‚HŽ.Oågid‰¯eKˆNÖNìN„vIQfŒT…Q(WÆ‰Î‘0§!\n1uŽNbìNßu»lw„vCgZNÖN„vIQf	gsQÿÙ*NLˆ¨RêS	g(Wßu»lw	g³Y„v§Yckßu'`§!öeMbýwÇ‘ÖS0"
+ zalmoxis_sponsor_soul_healers_button.tt: "§Y^©RupB›»l—u^§!\n§gbìN„v»l—u^(WNLuN«N	gÛvTÿàQ*NNªuåNegÿegêeÜW0W„v*NºNNôv(WûRBlbìNìryr„v»l—u¹eV0bìNøváOÿupB›N=fÅNÅN=f»la«ŽSOÿw=f«ŽSO-NNb	g„Uv`„vegnàVdkÿbìN„v»l—u^NèlŽNÇT1UŒTèleQzfgaeg»laupB›0§!\n1uŽNbìNßu»lw„vCgZNÖN„vIQfŒTIQf	gsQÿÙNLˆ¨RêS	g(Wßu»lw	g³Y„v§Yckßu'`§!öeMbýwÇ‘ÖS0"
+ zalmoxis_teachings_of_deceneus_button.tt: "§Y¨c^·VKQ…QLN¯e„vYeIN§!\n§g·VKQ…QLN¯e=fNMO	gqVÍT›R„vgr^ÿÖN(W^÷–Ôk¯eTXýV‹sßu»lgô•9ei—†NbìN„v—RYe0ÎNÃWÊSeg0R¾QYšNÿ·VKQ…QLN¯eÙubìN„vºNl&^eg†N°e„våwÆ‹ÖN‚u†N°e„v—RYeÕl‹VÿP–6R†Na„„R‘„vˆm9ÿv^YeÙubìNºNlòTfR0irtŒTvQÖNbìNåNMRNåwS„vÑyfR0§!\n1uŽNbìNßu»lw„vCgZNÖN„vIQfŒTIQf	gsQÿÙ*NLˆ¨RêSýw(Wßu»lw	g³Y„v§Yckßu'`§!öeÇ‘ÖS0"
+ zalmoxis_investiture_of_light_mod: "×S=Tê„vbëX"
+ zalmoxis_royal_banquet_mod: "<P—VáOV„vWPR"
+ zalmoxis_sponsor_soul_healers_mod: "upB›»l—uw"
+ zalmoxis_teachings_of_deceneus_mod: "·V‰<S„S¯e„vYeò‹"
+ waaqism_ayaanle_button.tt: "§Y?–šN‰RPN„vkyy§!\n\nÙ=f§Yæt<h„vkyy§!\nN!kêSýw	ébN*N§Ykyy§!ÿ	ébÙ*N§Ykyy§!Sûyd–ûNUOvQÖN§Ykyy§!„vHeœg\n§g?–šN‰RPN=fÁNHa„v^yupÿEQSVbìN„v)YzzKN^yæt<hŒTnfáQºN„v-Nô•ºN0?–šN‰RPNÙubìN&^eg‹YÐŒTkyyÿNLuNNb	gæt<h„v.irý	gN*NcšR„v?–šN‰RPNÿÖNìNãNhˆŒTuªVóØšàeN„v^yæt<hLˆ‹N0§!"
+ waaqism_nidar_button.tt: "§Y<S¾S„vckIN§!\n\nÙ=f§Yæt<h„v^yP§!\nN!kêSýw	ébN*N§Y^yP§!ÿ	ébÙ*N§Y^yP§!Sûyd–ûNUOvQÖN§Y^yP§!„vHeœg\n§g<S¾S=fN*N?–šN‰RPNÿÖNjOHNNIN„vckINwÿ=fûNUO«ˆºN‰|TÞweRJRbåNvQÖN¹eV2O³R„váQºN„vMckSw0àVdkÿºNìNøváO<S¾SSãNhˆæt<hÛLˆckINÿé`Z±›Nªv`„vºN0§!"
+ waaqism_huur_button.tt: "§YáwSKN`§!\n\nÙ=f§Yæt<h„vkyy§!\nN!kêSýw	ébNy˜§Ykyy§!ÿ	ébÙy˜§Ykyy§!Sûyd–ûNUOvQÖN§Ykyy§!„vHeœg\n§gáwS=fN*N?–šN‰RPNÿ=f‰k¡N„váOO0áwSåNNêS'Yž„vbVVÿHN±›N(WNu-N¯rN„vjºN&^egckINŒT‰k¡Nÿ(uóØš^yæt<h„v2a`M–4N0RÖNìN«ŽN0§!"
+ waaqism_wagar_button.tt: "§Yæt RS„vu²wýw›R§!\n\nÙ=f§Yæt<h„vkyy§!\nN!kêSýw	ébN*N§Ykyy§!ÿ	ébÙ*N§Ykyy§!Sûyd–ûNUOvQÖN§Ykyy§!„vHeœg\n§gNb	g‡YsYýÝOYuæt RS„v^y1W(gÕ–ÿàVdk(W‹sýV„vÏk*N¶R­^ýïSåNŒb0R0N^y1Wh(g„váOðNTwû|(WNwÿæt RSSbìN„v‡YsYNóØš)YN„v^yæt<hTwû|(WNwÿÖNkyyyYìNu²wŒTHVîX§!"
+ waaqism_amel_ali_button.tt: "§Y?–…hS·?–Ì‘sY‹s„vÅwc§!\n\nÙ=f§Yæt<h„vkyy§!\nN!kêSýw	ébN*N§Ykyy§!ÿ	ébÙ*N§Ykyy§!Sûyd–ûNUOvQÖN§Ykyy§!„vHeœg\n§g?–…hS·?–Ì‘=fäSãN¦yr„v.OGYsY‹sÿyY·ƒ—V†N1WºN0WMO0jOHNNMO	g¸‹Yb1S„vÇRbesY‹sÿyYg>fW„„v=fÿyY=fyY±*NöeãNgëV„vsYºN0§!"
+ waaqism_arawelo_button.tt: "§Y?–Ébæ—msY‹s„vCgZ§!\n\nÙ=f§Yæt<h„vkyy§!\nN!kêSýw	ébN*N§Ykyy§!ÿ	ébÙ*N§Ykyy§!Sûyd–ûNUOvQÖN§Ykyy§!„vHeœg\n§g?–Ébæ—msY‹sñm×SyY„vºNl„vP`ç`ÿéTúV†NTIN6R(WyY‹sýV„vCgZ0?–Ébæ—mKˆN†Nì„yr‡YsYCg›Rÿ1uŽNyYøváO‡YsY=f)Yu„vôuŒTwÿ©‹‡YsYÅbûNCg›RLwMO0æSN¹eb—ÿ7uºN«ˆM–µuHNåNMR1u‡YsYÅbûN„v¶R­^Ò‰r‚ÿûNUOÝ—byYŒTyY„vÕl‹V„v7uºNýO×S0R‹kw‘„vé`Z0§!"
+ waaqism_ayaanle_mod: "?–Å–‰RPN„vkyy"
+ waaqism_nidar_mod: "<S¾S„vckIN"
+ waaqism_huur_mod: "áwSKN`"
+ waaqism_wagar_mod: "ƒl RS„v¥wƒl"
+ waaqism_amel_ali_mod: "?–…hS·?–Ì‘sY‹s„vÅwc"
+ waaqism_arawelo_mod: "?–Ébæ—msY‹s„vCgZ"
+ kharijite: "ÈTæt)R	T>m"
+ kharijite_rebels_demand: "9eØS$COUNTRYNAME$áOðN"
+ kharijite_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹vQóØšàeN„v0WMOÿbwóSjPbk9eØSÖNìNáOðN„vªR›Rÿv^©‹ÖNìN‰RR0WÛLˆ<yÜb0"
+ kharijite_rebels_title: "—RYe"
+ kharijite_rebels_name: "$RELIGION$Ârípw"
+ kharijite_rebels_desc: "—RYeÂrípRPRŽVŽV(W«ˆNTáOðN„výV¶Rµc6R„vwýNwIN0ÖNìNÕ‹þV.O­dÖNìN„váOðNv^SbûQNb	gNáOw0"
+ kharijite_rebels_army: "$RELIGION$›Q–"
+ kharijite_religion_desc: "ÈTæt)R	T>m=fO¯epQYe,rN*NïSÆ‹+R„vYe>mÿƒR(W,rN!kòƒyr³ugô•jOHN?–Ì‘„v=ecwúQ°sÿFOÍS—b?–Ì‘¥c×SLN›sšN‹sg„vFz?–ôuöS„vòNÁˆOŒ0ÖNìN„vµ^óSí”=f0¡R2RêS^SŽNwIN00ÖNìNøváOûNUOS·VàeïScTR„vFz¯e—gýïSåN	gD<hÅbûNÈTÌ‘ÑSÿw“^÷–^yr„vTÔˆv^N—‰	gD<h0ÖNìNb²‹MRÛV*NckßuÈTÌ‘ÑS„vTÕl'`ÿN›N‹Yb„vÈTæt)R	T>m²‹HNFz¯e—g	g1ûNÍS—bN*NNlQck„v†˜üRºN0ôf)nŒT„vOôT·V>mÎNÈTæt)R	TÐ¨R-NúQ°s0"

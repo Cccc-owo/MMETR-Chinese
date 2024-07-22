@@ -1,0 +1,79 @@
+﻿l_english:
+ estate_eunuchs: "¦R˜R"
+ estate_eunuchs_desc: "1uŽNàeÕlu²wÿ¦R˜R×S0R‡v²R„vØš¦^áOûNÿÖNìN1gqŒ˜‡v²R¶R­^06qwÿ1uŽNÖNìNN‡v²R„vÆRRTwû|ÿÖNìN(W«R÷^-Nåb	gèT'Y„vqVÍT›RÿuóïSýw…Š«R÷^˜RXTêñT0àVdkÿINlQÅV‰˜áOûN2ýw„v¦R˜RÿTöeP–6R«R÷^-NÎ‘ÃVÃRÃR„v¦R˜R>mû|„vCg›R0"
+ eunuchs_loyalty_modifier: "¦R˜RàVÚ‹GWaˆ¹p"
+ eunuchs_influence_modifier: "¦R˜RqVÍT›R"
+ EST_VAL_EMPEROR_OF_CHINA: "=f)Yg‡v^"
+ EST_VAL_EMPEROR_OF_CHINA_LOW_MANDATE: "åb	g„v)Y‹TNOŽN50"
+ EST_VAL_EMPEROR_OF_CHINA_LOW_MANDATE_LOYALTY: "åb	g„v)Y‹TNOŽN50"
+ estate_eunuchs_land_rights: "$ESTATE_NAME$W0WCg"
+ estate_eunuchs_land_rights_desc: "‹†6q¦R˜RgRêS=f«R÷^Ì‘„vÆNºNÿFOÖNìNùR‡v^„váOûNz¦^åNÊSÖNìNN‡v²R„v²NÆRsQû|OÖNìNwQ	gˆV'Y„vqVÍT›RÿÖNìNNÅNÅN=f«R÷^OÎNÿØïSåNbHN	gqVÍT›R„v0WIN¾|ñ‚„vNèR0"
+ estate_eunuchs_noble_titles: "¦R˜R5Ïe4YTˆ"
+ estate_eunuchs_noble_titles_desc: "‹†6q¦R˜RN=f5ÏeúQ«ŽÿFOÖNìNïSýwOàVHNúQr‚„våTjOw«ˆˆcˆN5Ïe4YTˆbwÇôfàeIw„v¹eV0ˆcˆNÙ›N5Ïe4YTˆÏQS†N5Ïe„vqVÍTÿàVHN'YYpe5ÏeýÅV‰˜T¦R˜RêñTÐc²NN‡v^Ob—„v‰Bl0"
+ estate_eunuchs_inner_circle: "ú^Ëz8hÃVÆ–âV"
+ estate_eunuchs_inner_circle_desc: "1uŽN¦R˜R=f«R÷^-Ng<P—VáOV„vºNXTKNNÿàVdkßu»lwŒ˜î•ŒTgËS„v…QèWPRˆVïSýwOŒRhQ1uÖNìNg²NÑ„v¦R˜RÄub0"
+ estate_eunuchs_limit_rights_to_counsel: "P–6RŒ˜î•Cg"
+ estate_eunuchs_limit_rights_to_counsel_desc: "¦R˜RjOHN«R÷^OÎN„v0WMOOÖNìNbHN	gqVÍT›R„vŒ˜î•06qwÿÙÍyµu+R„vqVÍT›RïSýw=fqSi–„vÿNbåNùRÖNìN(W«R÷^-N„vÒ‰r‚¾‹šRfnx„vLuP–ïSýw	g©RŽN2–bkjo(W„vP%0"
+ estate_eunuchs_bureaucracy: "¦R˜R˜RÚP6R"
+ estate_eunuchs_bureaucracy_desc: "¦R˜RòTÏu(WýV¶R‹N¡R-NÑS%c†NÍ‘‰jO(uàVdkÿbìNïSåNKˆNÖNìNRú^êñT„v˜RÚPHg„g„výw›Rÿ(W–™ýìrËzŽNýV¶RÐjO0"
+ estate_eunuchs_command_palace_guard: "«R÷^kS–„vc%cCg"
+ estate_eunuchs_command_palace_guard_desc: "HN†NSbûQZÁw‹sMO„vÛS›QÿïSåNú^ËzN=e«R÷^kS–0d–†N±›NNýwu²wPRsYÿàVdkNýw	gN*N‹sgegcbbìN„vßu»lw„vºNÿØ	gŒôf<P—VáOûNegc%cÙ›NëXuQÿ"
+ estate_eunuchs_royal_tutor: "^ýVüR^"
+ estate_eunuchs_royal_tutor_desc: "âe6q¦R˜RòTÏu1gqŒ˜‡vT0O¾YŒT‡v^„viRPRÿbìNN¨YKˆNÖNìN…üRçubºN„výw›RÿÙ7hÖNìN1SïSåNíQêñT„výw›RbHN	gýw›R„vßu»lw0"
+ estate_eunuchs_royal_tutor.tt: "·ƒ—V³Q®‹§Y…üR§!NO£adm£Lˆ?eýw›R„vçubºNÿåNbcÖS£adm£Lˆ?eýw›RŒT6–BSqVÍT›R"
+ EST_EUNUCHS_TUTORED_HEIR_DECISION: "×S…üR„vçubºN"
+ eunuch_rebels_demand: "žX RyrCg"
+ eunuch_rebels_demand_desc: "¦R˜R‰Bl(Wg÷^-NžX RqVÍT›RŒTyrCg"
+ estate_holy_orders: "‘šëXâV"
+ estate_holy_orders_desc: "bìNW0WN„vTÍy‘šëXâVý—V0R†NYeO„vckVb²‹0(WŒTs^öegÿ‘šëXâVHNwzºNŒT«ˆ‹SëwÐc›OHa„Ug¡Rÿ(Wb‰NöegÿÖNìN=fR5„v›Q‹NDµNÿàVHNÖNìNW„T„v‘šëX=fÙGrW0WNgŸqÃu„v‘šuQKNN0"
+ holy_orders_loyalty_modifier: "‘šëXâVàVÚ‹GWaˆ¹p"
+ holy_orders_influence_modifier: "‘šëXâVqVÍT›R"
+ EST_VAL_STATE_MONASTIC_ORDER_IN_POWER: "îOSOŒcCg"
+ EST_VAL_HIGH_DEVOTION: "ØšIY.s¦^"
+ EST_VAL_HIGH_PAP_INFLUENCE: "ØšYe÷^qVÍT›R"
+ EST_VAL_WAR_WITH_RELIGIOUS_ENEMY: "NVYe’V²Nb"
+ estate_holy_orders_land_rights: "$ESTATE_NAME$W0WCg"
+ estate_holy_orders_land_rights_desc: "AQ¸‹‘šëXâV¡rtbìN†˜0W„vNèRNÅNïSåNM–NOôu²bŒT¡rt„vb,gÿØïSåN(WNwKSýV“^„vÅ`µQNÛNekVÑSÜ»y–™ý„vW0W0"
+ estate_holy_orders_financial_control: "0?eµc6R"
+ estate_holy_orders_financial_control_desc: "‘šëXâV=fgée„vÑ‘‡²NfŒTö”LˆNR°ewKNNÿàVdkyr+RÅd•ÇÖNìN(Wte*NúWcwYeNLu„vž^'YÏuNmQÜu¡rt'^0àVdkÿbìN,TÎNÖNìN„vú^®‹ÿuóŠbbìN„v0¡R²N0RÖNìNT†Ú‹„vKb-NïSýw=ffzf„v0"
+ estate_holy_orders_letters_of_credit: "áO(uÁ‹"
+ estate_holy_orders_letters_of_credit_desc: "N›N‘šëXâVÿ‚Y1W¿k‘šëXâVÿåNTMRŽV1W0W„vg1WwÑS>eáO(uÁ‹wû•Tÿ6qTÖNìNS(W0R¾1W0WT6e0Rbú‹„vDÑ‘0AQ¸‹ÖNìN(WbìN„vW0WNôf^Ûl0WÑS>eáO(uÁ‹ùRbìNmN	g‹YY0"
+ estate_holy_orders_holy_knights: "^y1W‘šëX"
+ estate_holy_orders_holy_knights_desc: "te*NúWcwYeNLu„vT*N‘šëXâV„v‘šëXìN=fte*NúWcwYeNLugŸqÃu„v‘šuQKNN0àVdkÿùRbìNegô‹ÿøváOÖNìN„vNNåwÆ‹ÿ©‹ÖNìNŒTÖNìN„vT4ON7hbHNbìN›Q–„vS›QÿmN¸‹=ffzf„v0"
+ estate_holy_orders_militaris_ordinis: "›Q‹N‘šëXâV"
+ estate_holy_orders_militaris_ordinis_desc: "‹†6q'YYpe‘šëXâVbXTNÂS RûNUO›Q‹N„vIm¨RÿFOte*NúWcwYeNLu	g¸‹Y›Q‹N‘šëXâVÿÖNìN=fñ‚ÇR„Ub„v‘šëXÿHNckIN‹NNNVYe’VLeºNjOb0(Wb‰NöegÿbìNmNïSåNìS2UÙ›N‘šëXegÝO²bbìN„vs^lMQ×Sb‰N„v´f›R0"
+ estate_holy_orders_grant_castles: "ˆcˆNÎW!X"
+ estate_holy_orders_grant_castles_desc: "1uŽNbìN„v¸‹Y†˜0WÜ»y–™ýÿ¾–åN2–ˆRÿmN¸‹fzf„vZPÕl=fÿNÅNS„^íVÿwNS°s	g„vÎW!XŒT2–¡VåT‹NˆcˆN›Q‹NYeâVÿ6qT1uÖNìN(uêñT0NÌR„vDÑ‘egôu²b0"
+ estate_holy_orders_heed_knightly_council: ",TÎN‘šëXâV"
+ estate_holy_orders_heed_knightly_council_desc: "‘šëXâV„vb—eŒT^—b—eÒ‰r‚ýåb	g0NÌR„vÏuŒšŒTzfgaÿÖNìN(WNLuT0WŒT1W0W„vASWR›QVb-Nïy=t†N0NÌR„vÏuŒš06qwÿ,TÎNÖNìN„vú^®‹wN=f5Ïe„vú^®‹ïSýwO©‹¸‹Y5Ïea0RNán0"
+ estate_holy_orders_heathen_estates: "VYe0WµN"
+ estate_holy_orders_heathen_estates_desc: "ÇS^—úWcwYe’V`SYpe„v«ˆVgW0WN„vW0WˆcˆN‘šëXâVÿbìNSŠbVYe’V„vðV¾–¡rtŒT.OYeåTjO²NÙu‘šëXâV0"
+ estate_holy_orders_colonial_domains: "–kl†˜"
+ estate_holy_orders_colonial_domains_desc: "	g†NbìN(W°e'YF–„v°e†˜0WÿmN¸‹bìNïSåNÇS–kl0W„v†˜0WˆcˆN‘šëXâVw·ƒÊv0ÙSOÖNìNýwYÇÖNìN	éb„vûNUOKbµkÿùRŸSOOlÛLˆ.OYeŒT‡eSTS0"
+ estate_ortogh: "¡eœ5g"
+ estate_ortogh_desc: "™„äS^ýVýV¶RD©R„vFUºN"
+ estate_vellalar: ".TWW"
+ estate_vellalar_desc: "pS¦^WSè„vÖNs|Wu„vN²ÍyÓYÿ=fQh RÆYöeg.T¨h)RK‘•„vTÔˆÿÖNìN„vTWRegêŽNÖNìNVyHQc	g„v0.TÒR04YTˆ0ÖNìN=f>yO-N„v	g0W5ÏeŒTœQN¶RÿmN=f›Q‹N†˜–ˆŒT˜RÚPÿ2SvQ=f(W1gW‹sgöegjOHNyrŠk„v.T¨hæW›Q–gyV0"
+ estate_mudang: "(gZQ"
+ estate_qaalluu: "aSbS"
+ estate_eunuchs_tutor_heir_adm_decision_title: "‹TäN¦R˜RYeüRçubºN"
+ estate_eunuchs_tutor_heir_adm_decision_desc: "bìN„vçubºN(WŒcácúW,g„vLˆ?eŒTýV¶R¡rt‚iõV¹eb—„vðV¾–=fbìN„vßu»lw^—8^sQR„v0àVdkÿbìNïSåN©‹çubºN„vOÎNÿsS«R÷^¦R˜RÿHNçubºNÐc›ON›NÁyºN…üRÿKS¡rÙS>fW„žX R¦R˜R>mû|(WýV¶R‹N¡R-N„vqVÍT›R0"
+ estate_holy_orders_invite_holy_orders_decision_title: "Ž÷‹‘šëXâV"
+ estate_holy_orders_invite_holy_orders_decision_desc: "SW0WˆcˆN‘šëXâVŒTÖNìN„v‘šëXïSýwOObìN×SÊvÿàVHNÖNìN„v0¡RN•ÿåNÊSÖNìNT†Ú‹wñ‚ÇR„v‘šëXÿÖNìN=fte*NúWcwYeNLugŸqÃu„v‘šuQKNN0TöeÿÙ7hZPSckVˆcˆNÖNìNN*N6–BSÿÎNw·ƒ—VÙÍy<yir&^eg„vqVÍT›R0"
+ estate_holy_orders_invite_holy_orders_decision.tt: "·ƒ—V§T‘šëXâV§!6–BS"
+ estate_church_send_son_to_monastery_decision_title: "Šb^—•PRÛîOSb–"
+ estate_church_send_son_to_monastery_decision_desc: "HN†NMQ(WçubŒTRrR†˜0W„vî•˜˜NÑSu²QzÿbìNïSåNŠb[Root.Monarch.GetTitle]„vgt^|^„v?QPR0RîOSb–ÅbûNvQb–•0"
+ estate_church_send_son_to_monastery_decision.tt: "N=fßu»lwIN‰çubºN„v§OgS„v?QPR§!O«ˆŽVîOSb–ÿNQwQ†(„)RKQçubÿMQ§M(„)RKQRÂˆ§!0"
+ estate_nobles_marry_consort_from_servant_class_decision_title: "NtY¶–6–µu„vM‘vPÓuZZ"
+ estate_nobles_marry_consort_from_servant_class_decision_desc: "(W¨Xm)n„v†SòSNÿ	g”NMOsY‹sÎNtY¶–«ŽýN-NTwÿbHNÕlpQKQ„vIN‰M‘vPŒTckVsY‹s0vQ-N2NMOsY‹sÿV÷–·V!·VŒTôTS‚„S·VÿíQPêñT„výw›RÁ‹f†NêñT=f*XðyxQƒ„vsY‹sŒT†˜–ˆÿKS¡rÖNìNÎN>yOIrµu„vÝuùR•^BSVËYÿFO(W†SòSNYuN†NêñT„vpS°‹0àVdkÿNvQÁZÙuegêÕlpQKQ5Ïe¶R­^„v*NºNÿbìNïSåN	éb(W—|Ù|-NûRŒb»”ówÿNwck	gýw›RŒTMbNS„vºNÓuZZÿàeº‹ÖNìN„v>yO6–µuNbìN„vßu»lw0"
+ estate_nobles_marry_consort_from_servant_class_decision.tt: "NN*N§MØšLˆ?ebY²N§!Žbýw„v§YM‘vP§!ÓuZZÿóS§G4§!	ÿ"
+ estate_church_synods_of_francia: "ÕlpQKQINYeO®‹"
+ estate_church_synods_of_francia_desc: "NÍyìryr„v0WHS^yLwºNXTÆ–OÿvQ-N'YèRêS1uÕlpQKQTINìSÆ–0ckàVHN‚Ydkÿ^yLwºNXTNýV‹s„vCgZTwû|(WNwÿib'Y†N‹s²RùRÕlpQKQ0WHSYeO„vqVÍT›R0"
+ estate_royal_abbots_francia: "‡v¶RîOSb–•"
+ estate_royal_abbots_francia_desc: "bìNïSåNÝOYuûN‹T‡v²RbXTåNÊSvQÖNàVŽNbìN)RÊv„v5ÏeHNhQýVîOSb–b–•„vCg)R0ÙasTNwbìNSýwYŠb,rŒNŒT,r	N*N?QPR»SîOSb–ÿåNMQßu»lw»SNT„v²Qz0"
+ estate_royal_abbots_francia.tt: "·ƒ—V§Y³Q®‹§!ÿåNZgŒT3zšRHNãN÷Nÿ>mc^—çubºN„v?QPRÅbûNîOSb–•ÿåN§MMQ(„)RKQRÂˆ§!"
+ estate_church_vow_of_ahimsa: "N³R“ŠŠ"
+ estate_church_vow_of_ahimsa_desc: "N³R=fc(uŽNNb	guir„vLˆHN„v^—´f›RŸSRÿsSN*NºNN”^å‹ùRvQÖNuir.bNÅV‰„v2O³R„vó`Õl0N³R=fiOYe0w±YeŒTpS¦^Ye„vqQT‚iõVÿ=fÙ›NáOðN„vúW,gŸSRKNN0àVdkÿbìNïSåN	ébÑSNN³R“ŠÿÑS“ŠN‹q¨RNÅV‰ŒTNˆe„v²Qzÿw=fNèlŽN9e„UbìNºNl„vuImÿ1SÏPfzf„vTRÀ–‹sg„v?–²w‹s¸‹YNªuMRNbÑS“Š„v±7h06qwÿ1SÏP?–²w‹sN7hÿ‚YœgYýV?eSObÛSqN>m+RZÁw0RbìNºNl„vu‹TŒT‰RhQÿbìNNO³R`ÿbwfkhV0"
+ estate_queens_once_slaves_francia: "sY‹sþf=ftY¶–"
+ estate_queens_once_slaves_francia_desc: "(W¨Xm)n„v†SòSNÿ	g”NMOsY‹sÎNtY¶–«ŽýN-NTwÿbHNÕlpQKQ„vIN‰M‘vPŒTckVsY‹s0vQ-N2NMOsY‹sÿV÷–·V!·VŒTôTS‚„S·VÿíQPêñT„výw›RÁ‹f†NêñT=f*XðyxQƒ„vsY‹sŒT†˜–ˆÿKS¡rÖNìNÎN>yOIrµu„vÝuùR•^BSVËYÿFO(W†SòSNYuN†NêñT„vpS°‹0àVdkÿNvQÁZÙuegêÕlpQKQ5Ïe¶R­^„v*NºNÿbìNïSåN	éb(W—|Ù|-NûRŒb»”ówÿNwck	gýw›RŒTMbNS„vºNÓuZZÿàeº‹ÖNìN„v>yO6–µuNbìN„vßu»lw0"
+ estate_queens_once_slaves_francia.tt: "·ƒ—VNtY¶–6–µu§YM‘vP§!ÓuZZ„v§Y³Q®‹§!"
