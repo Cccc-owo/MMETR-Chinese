@@ -1,0 +1,14 @@
+
+alliance = {
+	first = ROM		#Odaenathus was a de facto ally rather than vassal of Rome
+	second = PLM
+	start_date = 260.1.1
+	end_date = 270.1.1		#Zenobia's generals first move against Rome
+}
+
+alliance = {
+	first = VAN		#alliance between Alans and Vandals
+	second = AL0
+	start_date = 409.1.1
+	end_date = 418.1.1		#Alan kingdom falls
+}

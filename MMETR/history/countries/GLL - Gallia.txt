@@ -1,0 +1,82 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = gallian
+religion = hellenism
+technology_group = roman_group
+capital = 85
+100.1.1 = { add_government_reform = early_gov_reform_1 }
+230.1.1 = { add_government_reform = early_gov_reform_2 }
+
+
+260.1.1 = {
+	government_rank = 3
+	monarch = {
+		name = "Postumus"
+		dynasty = "Cassianius Latinius"
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
+
+269.2.1 = {
+	monarch = {
+		name = "Laelianus"
+		dynasty = "Cornelius"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}
+
+269.6.1 = {
+	monarch = {
+		name = "Marius"
+		dynasty = "Aurelius"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+269.9.1 = {
+	monarch = {
+		name = "Victorinus"
+		dynasty = "Piavonius"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+271.1.1 = {
+	monarch = {
+		name = "Tetricus"
+		dynasty = "Pius Esuvius"
+		adm = 4
+		dip = 5
+		mil = 4
+	}
+}
+271.1.1 = {
+	heir = {
+		name = "Tetricus"			#Tetricus II, son and co-ruler of Tetricus
+		monarch_name = "Tetricus II"
+		dynasty = "Pius Esuvius"
+		claim = 80
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+274.9.1 = { government_rank = 2 }	#Gallic Empire falls
+
+360.1.1 = { add_government_reform = early_gov_reform_3 }
+490.1.1 = { add_government_reform = early_gov_reform_4 }
+620.1.1 = { add_government_reform = early_gov_reform_5 }
+750.1.1 = { add_government_reform = early_gov_reform_6 }
+880.1.1 = { add_government_reform = early_gov_reform_7 }
+1010.1.1 = { add_government_reform = early_gov_reform_8 }
+1140.1.1 = { add_government_reform = early_gov_reform_9 }
+1270.1.1 = { add_government_reform = early_gov_reform_10 }

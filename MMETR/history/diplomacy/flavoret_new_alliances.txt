@@ -1,0 +1,102 @@
+## New diplomacy added in mod MMETR
+
+##########################################################
+#Ancient
+##########################################################
+
+#Zhang Lu and Liu Yan - broken when Liu Zhang succeeded Yan
+dependency = {
+	subject_type = "tributary_state"
+	first = SHU
+	second = HNZ			#Hanzhong
+	start_date = 191.1.1	#Zhang Lu seizes Hanzhong
+	end_date = 194.1.1		#Zhang Lu refuses to obey Liu Zhang, who executes Zhang's family
+}
+
+#Hyrcania as a client kingdom after short independence, from 160 to 224
+dependency = {
+	subject_type = "client_kingdom"
+	first = PRT
+	second = HYR
+	start_date = 160.1.1	#Hyrcania becomes a client kingdom of Parthia
+	end_date = 224.1.1		#Sassanids wage war on 
+}
+
+
+
+##########################################################
+# Modern
+##########################################################
+
+#Ha Tien as protectorate of Khmer
+dependency = {
+	subject_type = "tributary_state"
+	first = KHM
+	second = HTN
+	start_date = 1707.1.1
+	end_date = 1736.1.1
+}
+
+#1736 - Mac Thien Tu defeats Khmer and gains de facto independence
+
+#Ha Tien as protectorate of Rattanakosin
+dependency = {
+	subject_type = "tributary_state"
+	first = AYU
+	second = HTN
+	start_date = 1785.1.1
+	end_date = 1809.1.1
+}
+
+#Ha Tien as sole protectorate of Nguyen dynasty of Annam
+dependency = {
+	subject_type = "tributary_state"
+	first = ANN
+	second = HTN
+	start_date = 1809.1.1
+	end_date = 1832.1.1
+}
+
+
+
+# Qing tributaries - others once here are no longer listed due to being integrated into ET in file vanilla_era_changes
+
+#Breakaway states after fall of Ayutthaya
+dependency = {
+	subject_type = "tributary_state"
+	first = QNG
+	second = SWB		#Suwangburi
+	start_date = 1767.4.1
+	end_date = 1782.4.6
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = QNG
+	second = PHT		#Phitsanulok
+	start_date = 1767.4.1
+	end_date = 1782.4.6
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = QNG
+	second = LIG		#Ligor, breakaway kingdom of Nakhon Sri Thammarat
+	start_date = 1767.4.1
+	end_date = 1782.4.6
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = QNG
+	second = THB		#Thonburi, to avoid being surrounded by tributaries before officially recognized by Qing
+	start_date = 1767.4.1
+	end_date = 1782.4.6
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = QNG
+	second = AYU		#Ayutthaya prince rump state, to avoid being surrounded by tributaries before officially recognized by Qing
+	start_date = 1767.4.1
+	end_date = 1782.4.6
+}
+
+

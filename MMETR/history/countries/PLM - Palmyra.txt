@@ -1,0 +1,80 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = aramaic
+religion = canaanite_religion		#New MMETR religion
+technology_group = roman_group
+capital = 405
+
+100.1.1 = { add_government_reform = early_gov_reform_1 }
+230.1.1 = { add_government_reform = early_gov_reform_2 }
+
+#Palmyrene kingdom fights to win autonomy from both Rome and Sassanids
+260.1.1 = {
+	government_rank = 2
+	monarch = {
+		name = "Odaenathus"				#added, first Exarchos of Palmyra
+		dynasty = "Odaenathid"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 220.12.10
+		death_date = 267.1.1
+	}
+	
+	queen = {			#consort before becoming Queen Regent after Odaenathus' death
+        name = "Zenobia"
+        dynasty = "Odaenathid"
+        birth_date = 240.12.15
+        female = yes
+        adm = 4
+		dip = 5
+		mil = 6
+    }
+	
+	heir = {
+		name = "Vaballathus"
+		monarch_name = "Vaballathus"
+		dynasty = "Odaenathid"
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+		birth_date = 259.6.2
+	}
+}
+
+267.1.1 = {			#after death of Odaenathus
+	monarch = {
+		name = "Zenobia"				#Queen/regent of the Palmyrene Empire, de facto ruler of empire
+		dynasty = "Odaenathid"
+		adm = 4
+		dip = 5
+		mil = 6
+		female = yes
+		birth_date = 240.12.15
+	}
+	
+	heir = {
+		name = "Vaballathus"				#King under his mother's regency
+		monarch_name = "Vaballathus"
+		dynasty = "Odaenathid"
+		birth_date = 259.6.2
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+270.1.1 = { government_rank = 3 }	#becomes Palmyrene Empire
+
+273.3.1 = { government_rank = 2 }	#Palmyrene Empire falls
+
+360.1.1 = { add_government_reform = early_gov_reform_3 }
+490.1.1 = { add_government_reform = early_gov_reform_4 }
+620.1.1 = { add_government_reform = early_gov_reform_5 }
+750.1.1 = { add_government_reform = early_gov_reform_6 }
+880.1.1 = { add_government_reform = early_gov_reform_7 }
+1010.1.1 = { add_government_reform = early_gov_reform_8 }
+1140.1.1 = { add_government_reform = early_gov_reform_9 }
+1270.1.1 = { add_government_reform = early_gov_reform_10 }

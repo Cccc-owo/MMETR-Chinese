@@ -1,0 +1,78 @@
+﻿###########################################################
+# Events for Estates
+###########################################################
+
+namespace = mmetr_estate_events
+
+# Holy Orders Enter [Root.GetName]
+country_event = {
+	id = mmetr_estate_events.1
+	title = mmetr_estate_events.1.t
+	desc = mmetr_estate_events.1.desc
+	picture = BATTLE_VISTULA_LAGOON_eventPicture
+	
+	major = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = mmetr_estate_events.1.a
+		
+		custom_tooltip = estate_holy_orders_invite_holy_orders_decision.tt
+	}
+}
+
+# [Root.Monarch.GetTitle]'s Son Sent to Monastery
+country_event = {
+	id = mmetr_estate_events.2
+	title = mmetr_estate_events.2.t
+	desc = mmetr_estate_events.2.desc
+	picture = CHURCH_ESTATE_1_eventPicture
+	
+	major = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = mmetr_estate_events.2.a
+		
+		add_prestige = -70
+		add_stability = -2
+		if = {
+			limit = {
+				remove_country_modifier = three_sons
+			}
+			remove_country_modifier = three_sons
+		}
+		else = {
+			remove_country_modifier = two_sons
+		}
+		custom_tooltip = estate_church_send_son_to_monastery_decision.tt
+		
+		set_country_flag = estate_church_sent_son_to_monastery_flag		#potential to trigger pretender rebels upon monarch death; whether or not rebels spawn, the on_action must remove this flag anyways
+	}
+}
+
+# Royal Claimant Returns from Monastery
+country_event = {
+	id = mmetr_estate_events.3
+	title = mmetr_estate_events.3.t
+	desc = mmetr_estate_events.3.desc
+	picture = CIVIL_WAR_eventPicture
+	
+	major = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = mmetr_estate_events.3.a
+		
+		random_owned_province = {
+			limit = {
+				NOT = { is_capital_of = ROOT }
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 3
+				should_take_capital = yes
+			}
+		}
+	}
+}

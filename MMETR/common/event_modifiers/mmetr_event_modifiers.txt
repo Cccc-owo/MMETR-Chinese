@@ -1,0 +1,126 @@
+#Mission modifiers
+
+#Province modifiers can have Country modifiers, which will apply as long as they own the province 
+
+#################################################
+# Decision Modifiers
+#################################################
+
+fifth_rank_court_rank_japan_mod = {
+	global_manpower_modifier = 0.05
+}
+
+fourth_rank_court_rank_japan_mod = {
+	legitimacy = 0.5
+	global_manpower_modifier = 0.1
+}
+
+third_rank_court_rank_japan_mod = {
+	legitimacy = 0.5
+	global_manpower_modifier = 0.1
+	dip_advisor_cost = -0.1
+}
+
+second_rank_court_rank_japan_mod = {
+	legitimacy = 0.5
+	global_manpower_modifier = 0.1
+	dip_advisor_cost = -0.1
+	advisor_pool = 1
+}
+
+first_rank_court_rank_japan_mod = {
+	legitimacy = 0.5
+	global_manpower_modifier = 0.1
+	dip_advisor_cost = -0.1
+	advisor_pool = 1
+	diplomatic_reputation = 1
+}
+
+
+new_king_of_tara = {
+	diplomatic_reputation = 1
+	legitimacy = 0.5
+}
+
+#################################################
+# Disaster Modifiers
+#################################################
+
+disaster_eunuch_interference_of_rebel_reports = {
+	harsh_treatment_cost = 0.05
+}
+
+disaster_tax_reduction_accepted = {
+	global_tax_modifier = -0.15
+}
+disaster_rejected_independence_demands = {
+	local_unrest = 5
+	local_years_of_nationalism = 5
+}
+plague_of_justinian_province = {
+	local_development_cost = 1
+	local_manpower_modifier = -0.5
+	garrison_growth = -0.5
+	local_tax_modifier = -0.5
+	province_trade_power_modifier = -0.5
+}
+
+
+#################################################
+# Event Modifiers
+#################################################
+
+#Daoism
+mmetr_tianshi_state_recognition = {
+	local_missionary_strength = -2.0
+	min_local_autonomy = 20
+	local_unrest = -5
+	local_development_cost = -0.1
+}
+mmetr_tianshi_persecution = {
+	local_missionary_strength = 0.03
+	local_unrest = 10
+	local_autonomy = -0.05
+}
+mmetr_daoist_circle_dismissed = {
+	tolerance_heretic = -1
+}
+mmetr_local_daoist_alchemist = {
+	local_development_cost = -0.1
+	local_monthly_devastation = -0.1
+	local_production_efficiency = 0.1
+}
+mmetr_daoist_monasticism = {
+	global_unrest = -1
+	religion = yes
+}
+
+#Waaqism
+mmetr_rainfall_of_waaq = {
+	local_development_cost = -0.2
+	trade_goods_size_modifier = 0.2
+}
+mmetr_renovated_tomb_of_arawelo = {
+	local_unrest = -2
+	local_tax_modifier = 0.1
+}
+mmetr_respected_qaallitti = {
+	local_unrest = -5
+	local_monthly_devastation = -0.1
+	local_development_cost = -0.15
+}
+mmetr_river_alaanye_blessings = {
+	local_monthly_devastation = -0.1
+	local_development_cost = -0.1
+	local_production_efficiency = 0.2
+}
+mmetr_demon_repelled = {
+	local_unrest = -2
+}
+mmetr_local_concerns_ignored = {
+	local_unrest = 5
+}
+mmetr_alaanye_blessed_horses = {
+	cavalry_power = 0.1
+	religion = yes
+}

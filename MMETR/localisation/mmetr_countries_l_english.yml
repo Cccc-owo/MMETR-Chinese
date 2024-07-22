@@ -1,0 +1,158 @@
+﻿l_english:
+ ####################################################################
+ #Formables
+ ####################################################################
+ 
+ #European
+ MC1: "Macedonia"           #Ancient kingdom of Macedonia
+ MC1_ADJ: "Macedonian"
+ RO1: "Roman Kingdom"      #Germanic-led Roman kingdom, like a successful Odoacer
+ RO1_ADJ: "Roman"
+ 
+ AF0: "Africa"      #de jure Kingdom under Norman Sicily
+ AF0_ADJ: "African"
+ AH0: "Austria-Hungary"
+ AH0_ADJ: "Austro-Hungarian"
+ DM1: "Dual Monarchy"   #English-dominated
+ DM1_ADJ: "Anglois"
+ DM2: "Dual Monarchy"   #French-dominated
+ DM2_ADJ: "Anglois"
+ EN0: "England"
+ EN0_ADJ: "Anglo-Saxon"
+ HOE: "Holy Oriental Empire"
+ HOE_ADJ: "Holy Oriental Empire"
+ NGF: "North German Federation"
+ NGF_ADJ: "North German"
+ SGF: "South German Federation"
+ SGF_ADJ: "South German"
+ 
+ #Middle Eastern / Muslim
+ IT0: "Italiya"             #Muslim Sultanate of Italy
+ IT0_ADJ: "Italiyan"
+ PR1: "Persia"
+ PR1_ADJ: "Persian"
+ 
+ AMH: "Almohads"
+ AMH_ADJ: "Almohad"
+ 
+ #India
+ TML: "Tamilakam"
+ TML_ADJ: "Tamil"
+ 
+ #Americas
+ GC0: "Gran Colombia"
+ GC0_ADJ: "Gran Colombia"
+ 
+ 
+ ####################################################################
+ #Releasables
+ ####################################################################
+ HSS: "Hashashin"
+ HSS_ADJ: "Hashashin"
+ 
+ DHE: "Dahia"
+ DHE_ADJ: "Dahae"
+ 
+ WP1: "Western Protectorate"
+ WP1_ADJ: "Xiyu"
+ ZH1: "Zhao"
+ ZH1_ADJ: "Zhao"
+ 
+ BL0: "Belgia"      #Belgae
+ BL0_ADJ: "Belgian"
+ GLT: "Galatia"
+ GLT_ADJ: "Galatian"
+ ILY: "Illyria"
+ ILY_ADJ: "Illyrian"
+ 
+ VL0: "Valencia"
+ VL0_ADJ: "Valencian"
+ 
+ EIC: "East India Company"
+ EIC_ADJ: "East India Company"
+ 
+ 
+ 
+ ####################################################################
+ #Starting Tags
+ ####################################################################
+ THB: "Thonburi"
+ THB_ADJ: "Thonburi"
+ PHT: "Phitsanulok"
+ PHT_ADJ: "Phitsanulok"
+ SWB: "Sawangburi"
+ SWB_ADJ: "Sawangburi"
+ HTN: "Ha Tien"
+ HTN_ADJ: "Ha Tien"
+ 
+ HNZ: "Hanzhong"
+ HNZ_ADJ: "Hanzhong"
+ 
+ TYC: "Tayichiud"
+ TYC_ADJ: "Tayichiud"
+ TYT: "Toyotomi"
+ TYT_ADJ: "Toyotomi"
+ AKE: "Akechi"
+ AKE_ADJ: "Akechi"
+ SH1: "Shibata"
+ SH1_ADJ: "Shibata"
+ OD1: "Oda"
+ OD1_ADJ: "Oda"
+ SNX: "Sanada"
+ SNX_ADJ: "Sanada"
+ 
+ AL0: "Alania"
+ AL0_ADJ: "Alani"
+ 
+ GJR: "Saurashtra"
+ GJR_ADJ: "Saurashtran"
+ 
+ HYR: "Hyrcania"
+ HYR_ADJ: "Hyrcanian"
+ 
+ NZK: "Nezak Hunas"
+ NZK_ADJ: "Nezak"
+ 
+ 
+ #New country names / Name Changes (non-tag switch)
+ 
+ CARTHAGE_COUNTRY_NAME: "Carthage"
+ CARTHAGE_COUNTRY_NAME_ADJ: "Carthaginian"
+ LANGOBARDIA_COUNTRY_NAME: "Langobardia"
+ LANGOBARDIA_COUNTRY_NAME_ADJ: "Langobardian"
+ UNITED_KINGDOM_COUNTRY_NAME: "United Kingdom"
+ UNITED_KINGDOM_COUNTRY_NAME_ADJ: "British"
+ LATIN_EMPIRE_COUNTRY_NAME: "Latin Empire"
+ LATIN_EMPIRE_COUNTRY_NAME_ADJ: "Latin"
+ TARA_COUNTRY_NAME: "Tara"
+ TARA_COUNTRY_NAME_ADJ: "Tara"
+ MATSUMAE_COUNTRY_NAME: "Matsumae"
+ MATSUMAE_COUNTRY_NAME_ADJ: "Matsumae"
+ SOLOMONID_EMPIRE_COUNTRY_NAME: "Solomonid Empire"
+ SOLOMONID_EMPIRE_COUNTRY_NAME_ADJ: "Solomonid"
+ 
+ GERMANIA_NAME: "Germania"
+ GERMANIA_NAME_ADJ: "Germanic"
+ CELTICA_NAME: "Celtica"
+ CELTICA_NAME_ADJ: "Celtic"
+ 
+ KAMBUJA_COUNTRY_NAME: "Kambuja"
+ KAMBUJA_COUNTRY_NAME_ADJ: "Cambodian"
+ RATTANAKOSIN_COUNTRY_NAME: "Rattanakosin"
+ RATTANAKOSIN_COUNTRY_NAME_ADJ: "Rattanakosin"
+ 
+ SAKASTAN_NAME: "Sakastan"
+ SAKASTAN_NAME_ADJ: "Sakastani"
+ 
+ SHU_HAN_NAME: "Shu Han"
+ SHU_HAN_NAME_ADJ: "Shu Han"
+ ZHAO_NAME: "Zhao"
+ ZHAO_NAME_ADJ: "Zhao"
+ 
+ EMPIRE_OF_ZUN: "Empire of Zun"
+ EMPIRE_OF_ZUN_ADJ: "Zunist"
+ 
+ DRAVIDA_NAME: "Dravida"
+ DRAVIDA_NAME_ADJ: "Dravidian"
+ 
+ 
