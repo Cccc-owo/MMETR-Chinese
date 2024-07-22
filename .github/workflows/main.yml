@@ -1,0 +1,113 @@
+name: Release
+
+env:
+  TZ: Asia/Shanghai
+
+on:
+  push:
+    paths-ignore:
+      - "README.md"
+      - "CHANGELOG.md"
+      - ".gitignore"
+      - "steamDESC.txt"
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run integration script
+        run: ./main.bat
+
+      - name: Upload generated files
+        uses: actions/upload-artifact@v4
+        with:
+          name: MMETRC
+          path: MMETRC.zip
+
+  nightly-release:
+    permissions: write-all
+    needs: build
+    runs-on: windows-latest
+    if: startsWith(github.ref, 'refs/tags/') != true
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: MMETRC
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "nightly-release"
+          prerelease: true
+          title: "test Build"
+          files: |
+            MMETRC.zip
+
+  release:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: MMETRC
+
+      - name: Release Action
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            MMETRC.zip
+          body_path: CHANGELOG.md
+          discussion_category_name: "公告"
+
+  publish:
+    runs-on: windows-2019
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/')
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: MMETRC
+
+      - name: Unzip mod
+        run: |
+          mkdir output
+          7z.exe x MMETRC.zip -ooutput
+        shell: cmd
+
+      - name: Get steamcmd
+        run: |
+          dir
+          curl https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip --output steamcmd.zip
+          7z.exe e steamcmd.zip -osteamcmd
+          dir
+        shell: cmd
+
+      - name: Checkout steamcmd config
+        uses: actions/checkout@v4
+        with:
+          repository: Cccc-owo/steamcmd
+          token: ${{ secrets.STEAMCMD_TOKEN }}
+          path: steamcmd/config
+
+      - name: Upload Steam workshop
+        run: |
+          cd steamcmd
+          dir
+          steamcmd.exe -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% +workshop_build_item ..\resources\main.vdf +quit
+        env:
+          STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
+          STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
+        shell: cmd
+        continue-on-error: true
