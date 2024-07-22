@@ -3,8 +3,8 @@
 [![thumbnail](thumbnail.png)](https://paratranz.cn/projects/11020)
 
 [![GitHub all releases](https://img.shields.io/github/downloads/Cccc-owo/MMETR-Chinese/total?label=GitHub%20downloads&style=flat-square)](https://github.com/Cccc-owo/MMETR-Chinese/releases)
-[![Steam Downloads](https://img.shields.io/steam/downloads/2897275182?label=steam%20downloads&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=2897275182)
-[![Steam Views](https://img.shields.io/steam/views/2897275182?label=Steam%20views&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=2897275182)
+[![Steam Downloads](https://img.shields.io/steam/downloads/3294451905?label=steam%20downloads&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=3294451905)
+[![Steam Views](https://img.shields.io/steam/views/3294451905?label=Steam%20views&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=3294451905)
 [![GitHub tag](https://img.shields.io/github/v/release/Cccc-owo/MMETR-Chinese?style=flat-square)](https://github.com/Cccc-owo/MMETR-Chinese/tags)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cccc-owo/MMETR-Chinese?style=flat-square)](https://github.com/Cccc-owo/MMETR-Chinese/graphs/commit-activity)
 
@@ -15,7 +15,7 @@
 
 ## 下载 & 使用 / Download & Use
 
-你可以在 [Releases](https://github.com/Cccc-owo/MMETR-Chinese/releases) 中下载到本地版 Mod，或者你也可以在 [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2897275182)中找到本 Mod。
+你可以在 [Releases](https://github.com/Cccc-owo/MMETR-Chinese/releases) 中下载到本地版 Mod，或者你也可以在 [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3294451905)中找到本 Mod。
 
 <details><summary>本地版使用教程</summary>
 
