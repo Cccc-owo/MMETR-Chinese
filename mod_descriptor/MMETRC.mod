@@ -2,6 +2,7 @@ name="More Missions: Extended Timeline REDUX Chinese"
 version="v1.0"
 dependencies={
 	"Extended Timeline"
+	"More Missions: Extended Timeline REDUX (1.37)"
 	"延长时间线汉化 - Extended Timeline Chinese"
 	"Chinese Language Mod"
 	"Chinese Language Supplementary Mod"
