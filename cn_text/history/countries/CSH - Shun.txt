@@ -39,8 +39,8 @@ capital = 688 	#  Kaifeng
 }
 1627.1.1 = {
   monarch = {
-    name = "Zicheng"
-    dynasty = "Li"
+    name = "ÍÅb" 	# Zicheng
+    dynasty = "øNg" 	# Li
     adm = 2 	# buffed stats to vanilla nums
     dip = 3
     mil = 4

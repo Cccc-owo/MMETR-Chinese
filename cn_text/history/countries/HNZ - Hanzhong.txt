@@ -10,8 +10,8 @@ add_historical_friend = SHU 	# removed by on_action startup in 194 onwards
 }
 191.1.1 = {
   monarch = {
-    name = "Lu"
-    dynasty = "Zhang"
+    name = "Åú" 	# Lu
+    dynasty = "ø.V" 	# Zhang
     birth_date = 150.1.1
     adm = 5 	# humane and capable administration
     dip = 3

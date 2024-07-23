@@ -6,8 +6,8 @@ primary_culture = mongol
 capital = 717
 2.1.1 = {
   monarch = {
-    name = "Uchjulu"
-    dynasty = "Luandi" 	# New MMETR changed dynasty name to Luandi, clan name before changed to Liu
+    name = "LN‡sYu" 	# Uchjulu
+    dynasty = "øcÆó" 	# Luandi 	# New MMETR changed dynasty name to Luandi, clan name before changed to Liu
     adm = 4
     dip = 3
     mil = 4
@@ -15,8 +15,8 @@ capital = 717
 }
 13.1.1 = {
   monarch = {
-    name = "Ulei Hyan"
-    dynasty = "Luandi"
+    name = "∏T" 	# Ulei Hyan
+    dynasty = "øcÆó" 	# Luandi
     adm = 2
     dip = 3
     mil = 3
@@ -24,8 +24,8 @@ capital = 717
 }
 18.1.1 = {
   monarch = {
-    name = "Huduershi"
-    dynasty = "Luandi"
+    name = "|T˝êw8S" 	# Huduershi
+    dynasty = "øcÆó" 	# Luandi
     adm = 4
     dip = 3
     mil = 6
@@ -33,8 +33,8 @@ capital = 717
 }
 46.1.1 = {
   monarch = {
-    name = "Punu"
-    dynasty = "Luandi"
+    name = "≤ÑtY" 	# Punu
+    dynasty = "øcÆó" 	# Luandi
     adm = 3
     dip = 3
     mil = 4
@@ -42,8 +42,8 @@ capital = 717
 }
 89.1.1 = {
   monarch = {
-    name = "Pei"
-    dynasty = "Luandi"
+    name = "S" 	# Pei
+    dynasty = "øcÆó" 	# Luandi
     adm = 2
     dip = 3
     mil = 1
