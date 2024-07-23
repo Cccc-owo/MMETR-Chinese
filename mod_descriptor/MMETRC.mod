@@ -1,5 +1,5 @@
 name="More Missions: Extended Timeline REDUX Chinese"
-version="v1.0"
+version="v1.1"
 dependencies={
 	"Extended Timeline"
 	"More Missions: Extended Timeline REDUX (1.37)"
