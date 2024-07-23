@@ -504,7 +504,7 @@ national_focus = DIP
 }
 1380.1.1 = {
   leader = {
-    name = "Robert Knolles"
+    name = "W=Oyr ˙ãSSØe" 	# Robert Knolles
     type = general
     fire = 1
     shock = 3
@@ -535,7 +535,7 @@ national_focus = DIP
     dip = 2
     mil = 5
     leader = {
-      name = "Henry V"
+      name = "®N)R V" 	# Henry V
       type = general
       fire = 4
       shock = 4
@@ -553,7 +553,7 @@ national_focus = DIP
     dip = 2
     mil = 5
     leader = {
-      name = "Henry V"
+      name = "®N)R V" 	# Henry V
       type = general
       fire = 4
       shock = 4
@@ -564,7 +564,7 @@ national_focus = DIP
 }
 1414.1.1 = {
   leader = {
-    name = "Earl of Warwick"
+    name = "ÉlÃëKQ=O5r" 	# Earl of Warwick
     type = general
     fire = 3
     shock = 3
@@ -575,7 +575,7 @@ national_focus = DIP
 }
 1414.2.1 = {
   leader = {
-    name = "Earl of Shrewsbury"
+    name = "¿NÅúØe=OÃë=O5r" 	# Earl of Shrewsbury
     type = general
     fire = 2
     shock = 4
@@ -586,7 +586,7 @@ national_focus = DIP
 }
 1418.1.1 = {
   leader = {
-    name = "Duke of Clarence"
+    name = "KQ…b&OØelQ5r" 	# Duke of Clarence
     type = general
     fire = 2
     shock = 2
@@ -610,7 +610,7 @@ national_focus = DIP
 }
 1422.8.31 = {
   leader = {
-    name = "Duke of Bedford"
+    name = "ç∑Vèy∑VlQ5r" 	# Duke of Bedford
     type = general
     fire = 3
     shock = 3
@@ -634,7 +634,7 @@ national_focus = DIP
 #1434.1.1 = { leader = {	name = "Richard Neville"	type = general		fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1460.12.31 } }
 1435.1.1 = {
   leader = {
-    name = "Richard Plantagenet"
+    name = "tÂg∑V —ë¿ñ±Ç" 	# Richard Plantagenet
     type = general
     fire = 2
     shock = 4
@@ -824,7 +824,7 @@ national_focus = DIP
 }
 1471.4.11 = {
   leader = {
-    name = "Richard Plantagenet"
+    name = "tÂg∑V —ë¿ñ±Ç" 	# Richard Plantagenet
     type = general
     fire = 2
     shock = 4
