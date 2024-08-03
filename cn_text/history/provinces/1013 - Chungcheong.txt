@@ -39,7 +39,7 @@ is_city = yes
   controller = SLL
   add_core = SLL
   remove_core = BKJ
-  capital = "Gongju"
+  capital = "lQÞT" 	# Gongju
 }
 892.1.1 = {
   owner = BKJ
