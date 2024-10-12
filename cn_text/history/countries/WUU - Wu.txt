@@ -33,14 +33,22 @@ capital = 684
     mil = 5
   }
 }
-191.1.1 = { 	# added MMETR, Sun Ben temporarily controls Sun Jian's veterans
+191.1.1 = { 	# 	monarch = {
+  #		name = "Ben"		#added MMETR, Sun Ben leads Sun Jian's veterans
+  #		dynasty = "Sun"
+  #		birth_date = 174.1.1		#according to kongming.net circa 174
+  #		adm = 3
+  #		dip = 3
+  #		mil = 2
+  #	}
   monarch = {
-    name = "2ç" 	# Ben
-    dynasty = "øYR" 	# Sun
-    birth_date = 174.1.1 	# according to kongming.net circa 174
-    adm = 3
-    dip = 3
-    mil = 2
+    name = "Kang" 	# Lu Kang of Lujiang before he dies during war with Sun Ce
+    dynasty = "Lu"
+    birth_date = 126.1.1
+    death_date = 195.1.1
+    adm = 4
+    dip = 4
+    mil = 4
   }
 }
 194.1.1 = { 	# changed, when Sun Ce is granted Sun Jian's former forces by Yuan Shu

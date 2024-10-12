@@ -3,7 +3,7 @@ owner = SIR
 controller = SIR
 add_core = SIR
 is_city = yes
-culture = alan
+culture = sarmatian 	# MMETR, Aorsi pops before Alan invasion
 religion = heptadic 	# New MMETR religion
 capital = "Majar"
 trade_goods = livestock
@@ -23,7 +23,8 @@ base_manpower = 1
   add_core = CIR
   remove_core = SIR
   religion = tengri_pagan_reformed
-}
+  culture = alan
+} 	# MMETR added Alan culture
 420.1.1 = {
   owner = HNS
   controller = HNS

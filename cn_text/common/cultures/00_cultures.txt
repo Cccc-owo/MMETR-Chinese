@@ -49258,12 +49258,52 @@ iranian = {
     }
   }
   scythian = { 	# EU Rome
-    dynasty_names = {
+    dynasty_names = { 	# MMETR added names
       Abeacid
       Galatid
       Madyid
       Palacid
       Partatid
+      Kausal
+      Kausalid
+      Gank
+      Gankari
+      Tenare
+      Tenarian
+      Ytarim
+      Ytarimid
+      Tripuskar
+      Tripuskaran
+      Dantapur
+      Dantapurian
+      Baransi
+      Baransian
+      Yurpaska
+      Yurpaskan
+      Rohini
+      Rohinian
+      Vaideh
+      Vaidan
+      Vaisali
+      Vaisalian
+      Iksvaku
+      Iksvakuian
+      Kausika
+      Kausikan
+      Sakke
+      Sakkan
+      Kasake
+      Kasakid
+      Yarkam
+      Yarkamid
+      Bharuka
+      Bharukid
+      Cadota
+      Cadotid
+      Lyam
+      Lyamid
+      Kunlyu
+      Kunlayad
     }
     male_names = {
       Abeacus
@@ -49283,12 +49323,345 @@ iranian = {
       Tasius
       Zanticus
       Respendial
+      Airawanta
+      Ajatasatru
+      Ajite
+      Alp
+      Ambare
+      Ampratasarme
+      Amrataraksite
+      Amratodane
+      Anande
+      Anathapindike
+      Aniruddhe
+      Andhave
+      Anktsas
+      Arjune
+      Aranemi
+      Arnyartate
+      Arslam
+      Arthadarsi
+      Aryamarg
+      Aryaske
+      Aryatewe
+      Aryawarme
+      Aryottame
+      Asokamitre
+      Asokaraksite
+      Asoke
+      Asarte
+      Astawi
+      Atakke
+      Atidivakare
+      Atyuccagami
+      Atraikatte
+      Bimbasare
+      Caitike
+      Caiytiska
+      Cakravar
+      Cakule
+      Candramukhe
+      Candravasu
+      Candre
+      Caracate
+      Cina
+      Cinatyuti
+      Citre
+      Cittaraksite
+      Cowaske
+      Dandakamal
+      Devarakste
+      Dhanike
+      Dipankar
+      Dirghanakhe
+      Dravyasvare
+      Durmukhe
+      Ekasrinke
+      Erkatsole
+      Esmine
+      Etrise
+      Gayakasyape
+      Gayasirs
+      Gaye
+      Gunacamdre
+      Gunasampade
+      Hariscandre
+      Hastake
+      Hetubalike
+      Indradhvaje
+      Indratewe
+      Indre
+      Indriske
+      Issapake
+      Jatisrone
+      Jetavam
+      Jnanacamndre
+      Jnanaghose
+      Jnanakame
+      Jnanakupte
+      Jnanamokse
+      Jnanasene
+      Jnanasome
+      Jnanasthite
+      Jnanawirye
+      Kadike
+      Kalodaye
+      Kalyanamokse
+      Kalyanavraddhi
+      Kalyanawartane
+      Kanake
+      Kanaske
+      Kanthake
+      Kapilavarne
+      Kapilavastu
+      Kas
+      Kasyap
+      Katakarni
+      Kaundinye
+      Kauravye
+      Kausal
+      Kemarcune
+      Kentarske
+      Kercampey
+      Kercapiske
+      Kerdipole
+      Kereptanne
+      Kimne
+      Klenkarako
+      Klpapatre
+      Klyotiska
+      Kotile
+      Koysam
+      Ksemankare
+      Ksmarjune
+      Ksmawarme
+      Ksmate
+      Ksmateworsa
+      Ksmika
+      Kulkera
+      Kumarapunye
+      Kumpante
+      Kunacamttrakau
+      Kunacamttre
+      Kwirapabhadra
+      Lariska
+      Mahasammate
+      Mahisvare
+      Manisvare
+      Mitrakseme
+      Mitraske
+      Mitre
+      Moksasene
+      Moksasome
+      Moksawarme
+      Molyoke
+      Mukalanti
+      Munkhare
+      Murdhagate
+      Nandabala
+      Nandake
+      Nande
+      Nandipale
+      Nasme
+      Natte
+      Naradeve
+      Nirot
+      Nupura
+      Nyagrodhe
+      Padmakesar
+      Padmottare
+      Pakacandre
+      Pancasikhi
+      Pawaske
+      Pesane
+      Prabhankare
+      Prabhase
+      Pranada
+      Prasamnake
+      Pravare
+      Priyadeve
+      Ptompile
+      Punaiyse
+      Punakame
+      Punaraksite
+      Punicamndre
+      Punyamitre
+      Purtas
+      Rahule
+      Raktadewe
+      Ratnacuda
+      Ratnasikhi
+      Rsivadam
+      Rudramukhe
+      Rudrasarme
+      Sagare
+      Samantatir
+      Samcite
+      Samghatrate
+      Sanavasi
+      Sanghasarme
+      Sankene
+      Sanum
+      Saputanase
+      Sarasike
+      Sarmacamdre
+      Sarsire
+      Satuma
+      Satyake
+      Satyaraksite
+      Sidhasamgha
+      Siladewe
+      Silamitre
+      Silarakite
+      Silaraksi
+      Silasoma
+      Silavande
+      Silawarne
+      Silayase
+      Silopake
+      Simpraye
+      Sincake
+      Sinke
+      Sinku
+      Skanatatte
+      Skwarle
+      Slacamndre
+      Solarke
+      Some
+      Srestake
+      Sudarse
+      Sudas
+      Suddhodane
+      Sujate
+      Sukase
+      Suklodane
+      Sunaksatre
+      Sunetre
+      Sutasome
+      Sutate
+      Swarnabuspe
+      Swarnatepe
+      Tarmacandre
+      Tarmaraksite
+      Tenare
+      Tohkem
+      Tonke
+      Tukik
+      Tunka
+      Tusi
+      Udanalankar
+      Udayi
+      Ulkamukhe
+      Uluke
+      Upage
+      Upagupte
+      Upanande
+      Uposathe
+      Urbilvakasyape
+      Uttaraphalguni
+      Uttare
+      Vaisravane
+      Vaitike
+      Varddhane
+      Vidusake
+      Vimalapuspe
+      Vinaise
+      Visale
+      Wamsok
+      Warwattaske
+      Waryaruci
+      Waryasene
+      Wasampile
+      Wasave
+      Wiryadewe
+      Wiryamitre
+      Wiryasanti
+      Wiryasini
+      Wisikke
+      Wrauske
+      Yanayase
+      Yarpalaske
+      Yasa
+      Yasawine
+      Yase
+      Yasonaka
+      Yastare
+      Yonge
+      Yonu
+      Ype
+      Yudhisthire
+      Yugaraje
+      Ishpaka
+      Madea
+      Eruvand
+      Tigran
+      Tar
+      Torram
+      Tarem
+      Tiermes
+      Terem
+      Tarsua
+      Sco
+      Ra
+      Pada
+      Ada
     }
     female_names = {
       Amage
       Ghadani
       Opoin
       Polemakratia
+      Ampratasene
+      Amratasene
+      Arjuna
+      Arunavati
+      Aryakose
+      Aryaraksite
+      Ayardhyame
+      Bhadra
+      Canca
+      Dhrtirastre
+      Jnati
+      Kolite
+      Kosthile
+      Malika
+      Maya
+      Nagasene
+      Priyasarini
+      Punyasene
+      Purike
+      Purnaya
+      Purohite
+      Putere
+      Raknaska
+      Revati
+      Roce
+      Saci
+      Santa
+      Santisene
+      Sari
+      Sthulananda
+      Sudarsane
+      Sumagati
+      Sumaise
+      Sumati
+      Sundari
+      Suwarte
+      Tarmawirne
+      Tartvisara
+      Tati
+      Tisye
+      Upatisye
+      Uppal
+      Uppalavarna
+      Vasisthe
+      Vitasake
+      Yasaraksite
+      Yasodhara
+      Tabiti
+      "P'ha"
+      Anya
+      Ana
     }
   }
   saka = {
@@ -50711,6 +51084,114 @@ iranian = {
       Zahida
       Zahra
       Haniyya
+    }
+  }
+  #MMETR added
+  dahaean = {
+    primary = DHE
+    dynasty_names = {
+      Aramid
+      Arid
+      Arkhid
+      Asinid
+      Arsacid
+      Deiocid
+      Menid
+      Pacorid
+      Savacid
+      Vardanid
+    }
+    male_names = {
+      Abdagas
+      Ara
+      Aram
+      Aramu
+      Arbaces
+      Ardashir
+      Argishti
+      Ariovast
+      Arkha
+      Armin
+      Arsaces
+      Arsames
+      Artabanus
+      Artabazus
+      Artasyras
+      Artavazd
+      Artaxias
+      Aryanes
+      Asheri
+      Asina
+      Ashina
+      Astashpa
+      Astyages
+      Atamaita
+      Aturpat
+      Bagayash
+      Bayad
+      Chosroes
+      Cyaxares
+      Cyrus
+      Darius
+      Deioces
+      Evagoras
+      Fravarti
+      Gaumata
+      Gobryas
+      Gotarzes
+      Haldita
+      Hidarnes
+      Hydarnes
+      Manchihr
+      Mardonius
+      Martiya
+      Mazaces
+      Megabyzus
+      Menua
+      Nambed
+      Napad
+      Orodes
+      Orxines
+      Osroes
+      Oxydates
+      Pacorus
+      Peucestas
+      Phraates
+      Phraortes
+      Rusa
+      Sames
+      Sarduri
+      Sarsamas
+      Savaces
+      Shapur
+      Sinatruces
+      Tigraios
+      Tigranes
+      Tiridates
+      Umamaita
+      Upadarma
+      Vahbarz
+      Vardanes
+      Vologases
+      Vonones
+      Xerxes
+    }
+    female_names = {
+      Amestris
+      Amytis
+      Anzaza
+      Artazostre
+      Artystone
+      Atossa
+      Barsine
+      Damaspia
+      Mandane
+      Parmys
+      Parysatis
+      Phaedymia
+      Rinu
+      Stateira
+      Vashti
     }
   }
   dynasty_names = {
@@ -61167,7 +61648,36 @@ east_asian = {
   korean_new = {}
   tibetan_new = {}
   altaic_new = {}
-  sino_khmer_new = {} 	# New in mod MMETR
+  #New in mod MMETR
+  sino_khmer_new = {}
+  mien = {
+    dynasty_names = { 	# surnames after King Pan plus Hmong/Miao surnames
+      "Pan"
+      "Phan"
+      "Fang"
+      "Hang"
+      "Hue"
+      "Khang"
+      "Kong"
+      "Soung"
+      "Kue"
+      "Lo"
+      "Lor"
+      "Li"
+      "Moua"
+      "Pha"
+      "Tang"
+      "Thao"
+      "Chang"
+      "Cheng"
+      "Chu"
+      "Vang"
+      "Vue"
+      "Xiong"
+      "Yang"
+    }
+    #adopted Chinese names
+  }
   east_asian_canadian = {}
   east_asian_east_american = {}
   east_asian_louisianan = {}
@@ -62117,7 +62627,8 @@ japanese_g = {
   }
 }
 southeastasian_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   khmer = {
     primary = KHM
     dynasty_names = {
@@ -63863,9 +64374,18 @@ southeastasian_group = {
       "Thanh Thao"
     }
   }
+  #New MMETR, moved from Tai-Kradai group
+  nanyue = {
+    primary = NYU
+    dynasty_names = { 	# ruled by the Trieu dynasty, also known in Chinese as 'Zhao'
+      "Trieu"
+      "Lu"
+    }
+  }
 }
 malay = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   cham = {
     primary = CHA
     dynasty_names = {
@@ -65058,7 +65578,8 @@ malay = {
   }
 }
 filipino_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   filipino = {
     primary = TDO
   }
@@ -65081,6 +65602,10 @@ filipino_group = {
   filipino_brazilian = {}
   filipino_australian = {}
   filipino_oceanian = {}
+  #MMETR new added
+  minyue = {
+    primary = MYU
+  }
   dynasty_names = {
     Salamat
     Amarlangagui
@@ -65167,7 +65692,8 @@ filipino_group = {
   }
 }
 thai_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx
+  second_graphical_culture = asiangfx
   central_thai = {
     primary = SIA
     dynasty_names = {
@@ -65481,6 +66007,61 @@ thai_group = {
   thai_brazilian = {}
   thai_australian = {}
   thai_oceanian = {}
+  #New MMETR added
+  hlai = { 	# Hainan Li people
+    primary = HLI
+    dynasty_names = {
+      Gei
+      Ha
+      Zwn
+      Tai
+      Moifau
+    }
+    male_names = {
+      "Thadominbya"
+      "Nga Nu"
+      "Swasawke"
+      "Tarabya"
+      "Nga Nauk Hsan"
+      "Minkhaung"
+      "Thihathu"
+      "Minhlange"
+      "Kale Kyetaungnyo"
+      "Minyekyawswa"
+      "Narapati"
+      "Thihathura"
+      "Shwenankyawshin"
+      "Thohanbwa"
+      "Hkonmaing"
+      "Mobye Narapati"
+      "Sao Sit Pan Tu"
+      "Sao Ai Awn"
+      "Ai Wu Hsa"
+      "Yi Hkam Hka"
+      "Sao Hsam"
+      "Sao Kham Mu"
+      "Hpaya Kiao"
+      "Sao Mong Hka"
+      "Sao Hkam Tao"
+      "Sao Mong Hkak"
+      "Sao On"
+      "Sao In Hkam"
+      "Sao Awk"
+      "Sao Mong Saik"
+      "Sao Hsam Hpi"
+      "Maung Nyo"
+      "Sao Mong Sin"
+      "Sao Mong Hsam"
+      "Sao Kawng Tai"
+      "Sao Maha Hkanan"
+    }
+    female_names = { "Thou Umma" "Thin Bohme" }
+  }
+  shanyue = { 	# Baiyue tribes, were either Tai-Kradai or Austroasiatic
+    primary = SNY
+  }
+  #minyue moved to Austronesian/Filipino culture group
+  #nanyue moved to Austroasiatic culture group
   dynasty_names = {
     "Mangrai"
     "Chaochetton"
@@ -66286,7 +66867,8 @@ burman = {
   }
 }
 pacific = {
-  graphical_culture = asiangfx
+  graphical_culture = polynesiangfx
+  second_graphical_culture = northamericagfx
   papuan = {
     primary = PNG
     male_names = {
@@ -66737,6 +67319,8 @@ pacific = {
   }
 }
 aboriginal_australian = {
+  graphical_culture = aboriginalgfx
+  second_graphical_culture = africangfx
   aboriginal = { 	# (Kuric) Eora/East Coast
     primary = EOR
     male_names = { 	# pre-mandala names
@@ -79557,6 +80141,7 @@ khoisan = {
 }
 evenks = {
   graphical_culture = inuitgfx
+  second_graphical_culture = asiangfx
   yukagyr = {
     primary = HOD
     dynasty_names = { Uygulaan Khorints }

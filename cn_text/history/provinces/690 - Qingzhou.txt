@@ -16,7 +16,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = HND
-add_core = WEI
+#add_core = WEI
 9.1.10 = {
   owner = XIN
   controller = XIN
@@ -41,12 +41,12 @@ add_core = WEI
   controller = JI0
   add_core = JI0
 }
-207.10.1 = {
+200.11.1 = {
   owner = WEI
   controller = WEI
   add_core = WEI
   remove_core = JI0
-}
+} 	# MMETR changed date, Qing taken after Battle of Guandu
 265.2.4 = {
   owner = JIN
   controller = JIN
@@ -102,6 +102,9 @@ add_core = WEI
   add_core = LSO
   remove_core = JIN
 }
+424.1.1 = {
+  religion = daoism
+} 	# MMETR, Northern Celestial Masters and Chongxuan school
 479.1.1 = {
   owner = WEI
   controller = WEI
@@ -168,12 +171,25 @@ add_core = WEI
   add_core = SNG
   remove_core = CZH
 }
+1080.1.1 = {
+  religion = confucianism
+} 	# MMETR, Neo-Confucianism of Northern Song
 1127.1.1 = {
   owner = CJN
   controller = CJN
   add_core = CJN
   remove_core = SNG
 }
+1130.1.1 = {
+  owner = QIC
+  controller = QIC
+  add_core = QIC
+} 	# MMETR, Da Qi established as puppet buffer state of Jin
+1138.1.1 = {
+  owner = CJN
+  controller = CJN
+  remove_core = QIC
+} 	# MMETR, Da Qi is dissolved after 8 years
 1234.1.1 = {
   owner = KHA
   controller = KHA

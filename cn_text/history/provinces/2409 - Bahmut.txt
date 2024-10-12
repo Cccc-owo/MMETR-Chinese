@@ -44,11 +44,24 @@ capital = "Belgorod"
   add_core = BUL
   remove_core = ONG
 }
+668.1.1 = {
+  owner = ONG
+  controller = ONG
+  add_core = ONG
+  remove_core = BUL
+} 	# Fall of Old Bulgaria
+690.1.1 = {
+  owner = KHZ
+  controller = KHZ
+  add_core = KHZ
+} 	# Death of Batbayan
 720.1.1 = {
   owner = HUN
   controller = HUN
   add_core = HUN
-  remove_core = BUL
+}
+750.1.1 = {
+  remove_core = ONG
   culture = hungarian
 }
 840.1.1 = {

@@ -3,21 +3,23 @@
 # country
 on_startup = { 	# New added in MMETR mod
   #Name Changes
-  #Removed due to tag change in 1.36 update - Khmer to Kambuja (sanskrit) / Kampuchea / Cambodia for after 1431
-  #if = {
-  #	limit = {
-  #		tag = KHM
-  #		started_in = 1431.1.1		#post-Angkor period begins
-  #	}
-  #	override_country_name = KAMBUJA_COUNTRY_NAME
-  #}
-  #Ayutthaya to Rattanakosin
+  #Khmer to Kambuja (sanskrit) after 1431 - Removed due to tag change in 1.36 update
+  #Ayutthaya to Rattanakosin - removed due to new RTN tag in ET
+  #Gaetulia to Godala
   if = {
     limit = {
-      tag = AYU
-      dynasty = "NbKQÌ‘" 	# Chakri
+      tag = GAE
+      started_in = 957.1.1
     }
-    override_country_name = RATTANAKOSIN_COUNTRY_NAME
+    override_country_name = GODALA_COUNTRY_NAME
+  }
+  if = {
+    limit = {
+      tag = MOR
+      dynasty = "Fzæt^·V" 	# Almohad
+      ai = yes
+    }
+    change_tag = AMH
   }
   #Diplomacy changes
   #Hanzhong
@@ -34,6 +36,35 @@ on_startup = { 	# New added in MMETR mod
       started_in = 194.1.1 	# Liu Zhang and Zhang Lu falling out
     }
     remove_historical_friend = HNZ
+  }
+  #Terra Incognita
+  #Godala and Sanhaja/Massufa
+  if = {
+    limit = {
+      OR = {
+        tag = GAE
+        tag = SAN
+      }
+      started_in = 957.1.1
+    }
+    sahel_region = {
+      limit = {
+        is_empty = no
+      }
+      discover_country = ROOT
+    }
+    guinea_region = {
+      limit = {
+        is_empty = no
+      }
+      discover_country = ROOT
+    }
+    niger_region = {
+      limit = {
+        is_empty = no
+      }
+      discover_country = ROOT
+    }
   }
   #Great Project / Monuments
   if = {
@@ -54,6 +85,16 @@ on_startup = { 	# New added in MMETR mod
     1951 = {
       destroy_great_project = {
         type = sarmizegetusa_regia
+      }
+    }
+  }
+  if = {
+    limit = {
+      started_in = 577.1.1
+    } 	# Bronze Bird Terrace destroyed by Northern Zhou 
+    1951 = {
+      destroy_great_project = {
+        type = bronze_bird_terrace
       }
     }
   }
@@ -105,6 +146,31 @@ on_startup = { 	# New added in MMETR mod
       type = cb_conclude_civil_war
       months = 360 	# 30 years to wage war before the Gallia gains de facto independence
     }
+  }
+  #Mission flags to set, prevents MMETR Chinese warlord missions from being lost upon becoming Emperor of China
+  if = {
+    limit = {
+      has_mission = genchinese_weathering_uncertain_times_mission
+    }
+    set_country_flag = mmetr_keep_chinese_warlord_missions_flag
+  }
+  events = {
+    mmetrFlavor_jainism_events.1 	# Choose Jain school
+  }
+}
+on_religion_change = {
+  events = {
+    mmetrFlavor_jainism_events.1 	# Choose Jain school
+  }
+}
+on_new_monarch = {
+  events = {
+    mmetrFlavor_jainism_events.1 	# Choose Jain school
+  }
+}
+on_bi_yearly_pulse_3 = {
+  events = {
+    mmetrFlavor_jainism_events.1 	# Choose Jain school
   }
 }
 # country
@@ -198,7 +264,9 @@ on_siege_lost_province = {
     mmetrFlavor_War.1 	# Siege of Basra, is in LOST since starts as POV for Abbasids / Basra owner
   }
 }
+##########################################################################
 # New MMETR on_actions for religion harmonization
+##########################################################################
 on_harmonized_daoism = {
   on_harmonized_effect = yes
   on_harmonized_religion_estate_privileges_effect = yes
@@ -208,6 +276,21 @@ on_harmonized_confucianism = {
   on_harmonized_effect = yes
   on_harmonized_religion_estate_privileges_effect = yes
   events = { mmetr_harmonization.2 }
+}
+on_harmonized_sasanea_yang = {
+  on_harmonized_effect = yes
+  on_harmonized_religion_estate_privileges_effect = yes
+  events = { mmetr_harmonization.3 }
+}
+on_harmonized_natic = {
+  on_harmonized_effect = yes
+  on_harmonized_religion_estate_privileges_effect = yes
+  events = { mmetr_harmonization.4 }
+}
+on_harmonized_moism = {
+  on_harmonized_effect = yes
+  on_harmonized_religion_estate_privileges_effect = yes
+  events = { mmetr_harmonization.5 }
 }
 on_monarch_death = {
   if = {

@@ -1,0 +1,72 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = bambara
+religion = shamanism
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 2259
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+#Sosso kings split from Ghana in Kaniaga province
+1087.1.1 = {
+  monarch = {
+    name = "Gumana Fade"
+    dynasty = "Diarisso"
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+}
+1180.1.1 = {
+  monarch = {
+    name = "Diara Kante"
+    dynasty = "Diarisso"
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+}
+1200.1.1 = {
+  monarch = {
+    name = "Soumaoro Kante"
+    dynasty = "Diarisso"
+    adm = 3
+    dip = 3
+    mil = 5
+  }
+}
+1203.1.1 = {
+  capital = 2246 	#  Koumbi Saleh, Soumaoro Kante seizes the capital of Ghana
+  primary_culture = soninke
+  add_accepted_culture = bambara
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}

@@ -37,6 +37,7 @@ capital = "Poltava"
   controller = ULI
   add_core = ULI
   remove_core = AVR
+  religion = slavic
   culture = ruthenian
 }
 632.1.1 = {
@@ -44,16 +45,20 @@ capital = "Poltava"
   controller = BUL
   add_core = BUL
 }
+668.1.1 = {
+  owner = ULI
+  controller = ULI
+  add_core = ULI
+  remove_core = BUL
+} 	# Fall of Old Bulgaria
 750.1.1 = {
   owner = HUN
   controller = HUN
   add_core = HUN
-  remove_core = BUL
 }
 780.1.1 = {
   owner = ULI
   controller = ULI
-  add_core = ULI
   remove_core = HUN
 }
 800.1.1 = {

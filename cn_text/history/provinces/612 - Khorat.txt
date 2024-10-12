@@ -2,7 +2,7 @@
 owner = CMB
 controller = CMB
 culture = khmer
-religion = animism
+religion = sasanea_yang
 capital = "Khorat"
 trade_goods = silk
 hre = no

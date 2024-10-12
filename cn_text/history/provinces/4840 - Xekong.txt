@@ -1,6 +1,6 @@
 #608 - Champassak
 culture = katu
-religion = animism
+religion = sasanea_yang
 capital = "Sekong"
 trade_goods = unknown
 hre = no

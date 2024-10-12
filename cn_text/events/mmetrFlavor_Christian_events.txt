@@ -1,0 +1,546 @@
+namespace = mmetr_christian.1
+# Montanism to Hellenic provinces
+province_event = {
+  id = mmetr_christian.1
+  title = "mmetr_christian.1.t"
+  desc = "mmetr_christian.1.desc"
+  picture = RELIGIOUS_CONVERSION_eventPicture
+  trigger = {
+    NOT = {
+      religion = montanism
+    }
+    NOT = {
+      religion = chalcedonism
+    }
+    NOT = {
+      religion = reformed_chalcedonism
+    }
+    owner = {
+      religion = hellenism
+    }
+    religion = hellenism
+    is_year = 135
+    OR = {
+      area = germiyan_area
+      province_id = 326 	# Galatia
+    }
+    NOT = {
+      is_year = 550
+    }
+  }
+  mean_time_to_happen = {
+    months = 1200
+    modifier = {
+      factor = 0.7
+      owner = {
+        has_global_flag = mmetr_montanus_appeared_flag
+      }
+    }
+    modifier = {
+      factor = 1.5
+      owner = {
+        has_country_modifier = christianity_banned
+      }
+    }
+    modifier = {
+      factor = 0.6
+      is_religion_enabled = coptic
+    }
+    modifier = {
+      factor = 2
+      NOT = {
+        is_religion_enabled = arianism
+      }
+    }
+    modifier = {
+      factor = 1.5
+      NOT = {
+        is_religion_enabled = nestorian
+      }
+    }
+    modifier = {
+      factor = 10
+      is_year = 600
+    }
+    modifier = {
+      factor = 0.5
+      owner = {
+        OR = {
+          tag = ROM
+          any_owned_province = {
+            OR = {
+              religion = montanism
+              religion = chalcedonism
+              religion = reformed_chalcedonism
+            }
+          }
+        }
+      }
+    }
+    modifier = {
+      factor = 3
+      owner = {
+        has_country_flag = lateclassical_resist_christianity_flag
+      }
+    }
+    modifier = {
+      factor = 3
+      owner = {
+        has_country_modifier = reformed_clergy
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.1.a"
+    change_religion = montanism
+    add_province_modifier = {
+      name = "religious_zeal_at_conv"
+      duration = 3650
+    }
+  }
+}
+# Montanism to neighbouring province
+province_event = {
+  id = mmetr_christian.2
+  title = "mmetr_christian.2.t"
+  desc = "mmetr_christian.2.desc"
+  picture = RELIGIOUS_CONVERSION_eventPicture
+  trigger = {
+    NOT = {
+      religion = montanism
+    }
+    NOT = {
+      religion = coptic
+    }
+    NOT = {
+      religion = nestorian
+    }
+    any_neighbor_province = {
+      religion = montanism
+    }
+    NOT = {
+      is_year = 550
+    }
+    OR = {
+      area = germiyan_area
+      area = karaman_area
+      area = ankara_area
+    }
+  }
+  mean_time_to_happen = {
+    months = 2000
+    modifier = {
+      factor = 1.5
+      owner = {
+        has_country_modifier = christianity_banned
+      }
+    }
+    modifier = {
+      factor = 0.3
+      any_neighbor_province = {
+        has_province_modifier = mmetr_quintillians 	# from Quintilla prophetess event
+      }
+    }
+    modifier = {
+      factor = 0.7
+      owned_by = ROM
+    }
+    modifier = {
+      factor = 0.7
+      owner = {
+        has_global_flag = mmetr_montanus_appeared_flag
+      }
+    }
+    modifier = {
+      factor = 2
+      OR = {
+        owner = {
+          religion = zoroastrian
+        }
+        owner = {
+          religion = arianism
+        }
+      }
+    }
+    modifier = {
+      factor = 3
+      owner = {
+        religion_group = muslim
+      }
+    }
+    modifier = {
+      factor = 6
+      OR = {
+        owner = {
+          religion_group = dharmic
+        }
+        owner = {
+          religion_group = eastern
+        }
+      }
+    }
+    modifier = {
+      factor = 0.7
+      OR = {
+        religion = hellenism
+        religion = shamanism
+        religion = druidism
+      }
+    }
+    modifier = {
+      factor = 2
+      OR = {
+        religion = zoroastrian
+        religion = arianism
+      }
+    }
+    modifier = {
+      factor = 3
+      religion_group = muslim
+    }
+    modifier = {
+      factor = 6
+      OR = {
+        religion_group = dharmic
+        religion_group = eastern
+      }
+    }
+    modifier = {
+      factor = 0.7
+      owner = {
+        any_owned_province = {
+          religion = montanism
+        }
+      }
+    }
+    modifier = {
+      factor = 3
+      owner = {
+        has_country_flag = lateclassical_resist_christianity_flag
+      }
+    }
+    modifier = {
+      factor = 3
+      owner = {
+        NOT = {
+          religion_group = christian
+        }
+        has_country_modifier = reformed_clergy
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.2.a"
+    change_religion = montanism
+    add_province_modifier = {
+      name = "religious_zeal_at_conv"
+      duration = 3650
+    }
+  }
+}
+# The Prophetess Quintilla of Pepuza
+province_event = {
+  id = mmetr_christian.3
+  title = "mmetr_christian.3.t"
+  desc = "mmetr_christian.3.desc"
+  picture = RELIGIOUS_CONVERSION_eventPicture
+  trigger = {
+    province_id = 322 	# Phrygia
+    is_year = 200
+    NOT = {
+      is_year = 300
+    }
+  }
+  mean_time_to_happen = {
+    months = 100
+    modifier = {
+      factor = 0.7
+      owned_by = ROM
+    }
+    modifier = {
+      factor = 0.7
+      religion = montanism
+    }
+    modifier = {
+      factor = 0.7
+      owner = {
+        religion = montanism
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.3.a"
+    ai_chance = {
+      factor = 100
+    }
+    trigger = {
+      owner = {
+        NOT = {
+          religion = montanism
+        }
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          religion = montanism
+        }
+      }
+      change_religion = montanism
+    }
+    add_province_modifier = {
+      name = "mmetr_quintillians"
+      duration = 5475
+    }
+  }
+  option = {
+    name = "mmetr_christian.3.b"
+    ai_chance = {
+      factor = 100
+    }
+    trigger = {
+      owner = {
+        religion = montanism
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          religion = montanism
+        }
+      }
+      change_religion = montanism
+    }
+    add_province_modifier = {
+      name = "mmetr_quintillians"
+      duration = 5475
+    }
+    owner = {
+      add_country_modifier = {
+        name = "mmetr_arrival_of_the_prophetess_quintilla"
+        duration = 5475
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.3.c"
+    ai_chance = {
+      factor = 0
+    }
+    highlight = yes
+    trigger = {
+      owner = {
+        religion = montanism
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          religion = montanism
+        }
+      }
+      change_religion = montanism
+    }
+    add_province_modifier = {
+      name = "mmetr_quintillians"
+      duration = 5475
+    }
+    owner = {
+      define_advisor = {
+        type = theologian
+        name = "fSÉb" 	# Quintilla
+        skill = 3
+        female = yes
+        religion = montanism
+        location = 322
+        discount = yes
+      }
+      add_country_modifier = {
+        name = "mmetr_arrival_of_the_prophetess_quintilla"
+        duration = 5475
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.3.d"
+    ai_chance = {
+      factor = 0
+    }
+    highlight = yes
+    trigger = {
+      owner = {
+        NOT = {
+          religion = montanism
+        }
+      }
+    }
+    change_religion = montanism
+    owner = {
+      define_advisor = {
+        type = theologian
+        name = "fSÉb" 	# Quintilla
+        skill = 3
+        female = yes
+        religion = montanism
+        location = 322
+        discount = yes
+      }
+      add_country_modifier = {
+        name = "mmetr_arrival_of_the_prophetess_quintilla"
+        duration = 5475
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          religion = montanism
+        }
+      }
+      change_religion = montanism
+    }
+    add_province_modifier = {
+      name = "mmetr_quintillians"
+      duration = 5475
+    }
+  }
+}
+# Montanus of Pepuza
+province_event = {
+  id = mmetr_christian.4
+  title = "mmetr_christian.4.t"
+  desc = "mmetr_christian.4.desc"
+  picture = RELIGIOUS_CONVERSION_eventPicture
+  trigger = {
+    province_id = 322 	# Phrygia
+    is_year = 135
+    NOT = {
+      is_year = 180
+    }
+    OR = {
+      owned_by = ROM
+      owner = {
+        num_of_cities = 40
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 100
+    modifier = {
+      factor = 0.7
+      owned_by = ROM
+    }
+    modifier = {
+      factor = 0.25
+      owner = {
+        religion_group = christian
+      }
+    }
+    modifier = {
+      factor = 0.7
+      owner = {
+        NOT = {
+          stability = 0
+        }
+      }
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_global_flag = mmetr_montanus_appeared_flag
+    }
+  }
+  option = {
+    name = "mmetr_christian.4.a"
+    ai_chance = {
+      factor = 100
+    }
+    change_religion = montanism
+    add_province_modifier = {
+      name = "religious_zeal_at_conv"
+      duration = 9125
+    }
+  }
+  option = {
+    name = "mmetr_christian.4.b"
+    ai_chance = {
+      factor = 0
+    }
+    highlight = yes
+    trigger = {
+      owner = {
+        religion_group = christian
+      }
+    }
+    owner = {
+      change_religion = montanism
+      add_stability = -1
+    }
+    change_religion = montanism
+    add_province_modifier = {
+      name = "religious_zeal_at_conv"
+      duration = 9125
+    }
+  }
+}
+# The Montanist Controversy
+country_event = {
+  id = mmetr_christian.5
+  title = "mmetr_christian.5.t"
+  desc = "mmetr_christian.5.desc"
+  picture = RELIGION_eventPicture
+  trigger = {
+    religion_group = christian
+    NOT = {
+      religion = montanism
+    }
+    any_owned_province = {
+      religion = montanism
+    }
+  }
+  mean_time_to_happen = {
+    months = 200
+    modifier = {
+      factor = 0.7
+      owned_by = ROM
+    }
+    modifier = {
+      factor = 0.5
+      num_of_owned_provinces_with = {
+        value = 3
+        religion = montanism
+      }
+    }
+  }
+  option = {
+    name = "mmetr_christian.5.a"
+    every_owned_province = {
+      limit = {
+        religion = montanism
+      }
+      add_province_modifier = {
+        name = "mmetr_montanists_denounced_as_heresy"
+        duration = 3650
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_church
+      loyalty = 5
+    }
+  }
+  option = {
+    name = "mmetr_christian.5.b"
+    every_owned_province = {
+      limit = {
+        religion = montanism
+      }
+      add_province_modifier = {
+        name = "mmetr_montanists_tolerated"
+        duration = 5475
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_church
+      loyalty = -10
+    }
+  }
+}

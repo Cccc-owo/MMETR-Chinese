@@ -20,12 +20,29 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 add_core = PRT
-224.4.24 = {
+50.1.1 = {
+  owner = MGN
+  controller = MGN
+  add_core = MGN
+  remove_core = PRT
+} 	# MMETR, Margiana independence from rival king
+65.1.1 = {
+  owner = PRT
+  controller = PRT
+  add_core = PRT
+} 	# MMETR, keep Margiana as a core for rebels since rebel later
+200.1.1 = {
+  owner = MGN
+  controller = MGN
+  add_core = MGN
+  remove_core = PRT
+} 	# MMETR, Margiana regains autonomy as a de facto independent state
+260.1.1 = {
   owner = ERS
   controller = ERS
   add_core = ERS
-  remove_core = PRT
-}
+  remove_core = MGN
+} 	# fully annexed from vassal kingdom to province by Sassanids
 349.1.1 = {
   religion = zoroastrian
 } 	# New MMETR, heresies punished by Shapur II and Avesta codified by high priest Adurbad-i Mahraspand

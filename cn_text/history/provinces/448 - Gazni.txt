@@ -2,7 +2,7 @@
 owner = IPA
 controller = IPA
 culture = afghani
-religion = mahayana
+religion = dharmaguptaka 	# MMETR early sect
 capital = "Gazni"
 trade_goods = grain
 hre = no
@@ -26,6 +26,9 @@ add_core = IPA
   add_core = KUS
   remove_core = IPA
 }
+150.1.1 = {
+  religion = sarvastivada
+} 	# MMETR, converts under Kanishka from dharmaguptaka to sarvastivada sect
 230.1.1 = {
   owner = KSA
   controller = KSA
@@ -43,7 +46,8 @@ add_core = IPA
   controller = KAP
   add_core = KAP
   remove_core = KDT
-}
+  religion = mahayana
+} 	# MMETR, converts to Mahayana when the Kapisa splits from Kidarites
 484.1.1 = {
   owner = NZK
   controller = NZK

@@ -36,10 +36,11 @@ add_core = SRT
   controller = HNS
   add_core = HNS
   remove_core = OST
-  religion = tengri_pagan_reformed
 }
 420.1.1 = {
   add_core = ONG
+  culture = bulgar
+  religion = tengri_pagan_reformed
 }
 469.1.1 = {
   owner = ONG
@@ -59,15 +60,23 @@ add_core = SRT
   add_core = BUL
   remove_core = ONG
 }
-750.1.1 = {
+668.1.1 = {
+  owner = ONG
+  controller = ONG
+  add_core = ONG
+  remove_core = BUL
+} 	# Fall of Old Bulgaria
+690.1.1 = {
   owner = KHZ
   controller = KHZ
   add_core = KHZ
-  remove_core = BUL
+} 	# Death of Batbayan
+740.1.1 = {
+  remove_core = ONG
+  culture = khazar
 }
 800.1.1 = {
   base_manpower = 2
-  culture = khazar
 }
 867.1.1 = {
   religion = orthodox

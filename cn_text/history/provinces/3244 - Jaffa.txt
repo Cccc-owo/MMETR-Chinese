@@ -86,6 +86,9 @@ add_core = JUD
 313.1.1 = {
   unrest = 0
 } 	#  Christianity legalized
+350.1.1 = {
+  culture = aramaic
+} 	# MMETR added, Aramaic migrations from 350-400
 395.1.17 = {
   controller = BYZ
   owner = BYZ

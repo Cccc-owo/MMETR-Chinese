@@ -21,9 +21,10 @@ add_core = ROM
 132.1.1 = {
   religion = hellenism
 } 	# Baal Hamon assimilated as Saturnus Augustus with Punic practices remaining
-320.1.1 = {
-  religion = chalcedonism
-}
+311.1.1 = {
+  religion = donatist
+} 	# MMETR
+#320.1.1 = { religion = chalcedonism }
 395.1.17 = {
   controller = ROW
   owner = ROW
@@ -38,7 +39,6 @@ add_core = ROM
   controller = VAN
   add_core = VAN
   remove_core = ROW
-  religion = arianism
 }
 534.3.1 = {
   owner = BYZ
@@ -46,9 +46,7 @@ add_core = ROM
   add_core = BYZ
   remove_core = VAN
 }
-560.1.1 = {
-  religion = chalcedonism
-}
+#560.1.1 = { religion = chalcedonism }
 697.1.1 = {
   owner = UMA
   controller = UMA

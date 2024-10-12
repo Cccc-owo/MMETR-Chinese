@@ -1,9 +1,9 @@
 #2264 - Khundzia
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = LGE 	# MMETR Legae
+controller = LGE
+add_core = LGE
 is_city = yes
-culture = avar
+culture = scythian 	# MMETR, last Scythian provinces
 religion = heptadic 	# New MMETR religion
 capital = "Kumukh"
 trade_goods = iron
@@ -17,6 +17,13 @@ discovered_by = muslim
 base_tax = 1
 base_production = 1
 base_manpower = 1
+200.1.1 = {
+  owner = ALN
+  controller = ALN
+  add_core = ALN
+  remove_core = LGE
+  culture = avar
+} 	# MMETR
 448.1.1 = {
   owner = KHZ
   controller = KHZ

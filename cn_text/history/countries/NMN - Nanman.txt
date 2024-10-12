@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = early_chinese
+religion = moism 	# MMETR new Zhuang religion
+primary_culture = zhuang
+capital = 663
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+#Yong Kai and Meng Huo lead the Nanman tribes in rebellion after Liu Bei's death
+223.6.10 = {
+  monarch = {
+    name = "Kai"
+    dynasty = "Yong"
+    adm = 2
+    dip = 3
+    mil = 3
+  }
+}
+225.1.1 = {
+  monarch = {
+    name = "Huo"
+    dynasty = "Meng"
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+750.1.1 = {
+  technology_group = chinese
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}

@@ -1,0 +1,572 @@
+namespace = mmetr_HND_mission_events
+# The Northern Army
+country_event = {
+  id = mmetr_HND_mission_events.1
+  title = "mmetr_HND_mission_events.1.t"
+  desc = "mmetr_HND_mission_events.1.desc"
+  picture = east_asian_LAND_MILITARY_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.1.a"
+    add_country_modifier = {
+      name = me_hnd_beijun
+      duration = 7300
+    }
+  }
+}
+# The End of the Northern Wars
+country_event = {
+  id = mmetr_HND_mission_events.2
+  title = "mmetr_HND_mission_events.2.t"
+  desc = "mmetr_HND_mission_events.2.desc"
+  picture = MMETR_GREAT_WALL_CONSTRUCTION_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.2.a"
+    add_prestige = 20
+    add_country_modifier = {
+      name = me_hnd_harsher_tribute
+      duration = 10950
+    }
+  }
+}
+# The Five Barbarians
+country_event = {
+  id = mmetr_HND_mission_events.3
+  title = "mmetr_HND_mission_events.3.t"
+  desc = "mmetr_HND_mission_events.3.desc"
+  picture = MONGOL_BANNERS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.3.a"
+    create_subject = {
+      subject_type = client_kingdom
+      subject = QIA
+    }
+  }
+}
+# The Jade Gate
+country_event = {
+  id = mmetr_HND_mission_events.4
+  title = "mmetr_HND_mission_events.4.t"
+  desc = "mmetr_HND_mission_events.4.desc"
+  picture = MMETR_GREAT_WALL_CONSTRUCTION_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.4.a"
+    707 = {
+      add_permanent_province_modifier = {
+        name = me_hnd_jade_gate
+        duration = -1
+      }
+    }
+  }
+}
+# Four Commanderies of Han
+country_event = {
+  id = mmetr_HND_mission_events.5
+  title = "mmetr_HND_mission_events.5.t"
+  desc = "mmetr_HND_mission_events.5.desc"
+  picture = MMETR_CHINESE_GENERAL_JOIN_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.5.a"
+    add_dip_power = 100
+    2744 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+    1845 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+    733 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+    4231 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+    4232 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+    732 = {
+      add_province_modifier = {
+        name = "me_hnd_commandery_administration"
+        duration = 9125
+      }
+    }
+  }
+}
+# Visitors from Wa
+country_event = {
+  id = mmetr_HND_mission_events.6
+  title = "mmetr_HND_mission_events.6.t"
+  desc = "mmetr_HND_mission_events.6.desc"
+  picture = MMETR_CHINESE_COURT_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.6.a"
+    define_advisor = {
+      type = philosopher
+      skill = 2
+      culture = japanese
+      religion = shinto
+    }
+  }
+}
+# The Protectorate of the Western Regions
+country_event = {
+  id = mmetr_HND_mission_events.7
+  title = "mmetr_HND_mission_events.7.t"
+  desc = "mmetr_HND_mission_events.7.desc"
+  picture = LAND_MILITARY_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.7.a"
+    kashgaria_area = {
+      limit = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      cede_province = WP1 	# Western Protectorate
+      add_core = WP1
+    }
+    tarim_basin_area = {
+      limit = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      cede_province = WP1
+      add_core = WP1
+    }
+    shanshan_area = {
+      limit = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      cede_province = WP1
+      add_core = WP1
+    }
+    create_march = WP1
+  }
+  option = {
+    name = "mmetr_HND_mission_events.7.b"
+  }
+}
+#Post-189 Dong Zhuo events
+# The Puppet or the Tyrant?
+country_event = {
+  id = mmetr_HND_mission_events.8
+  title = "mmetr_HND_mission_events.8.t"
+  desc = "mmetr_HND_mission_events.8.desc"
+  picture = MMETR_CHINESE_COURT_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.8.a"
+    set_country_flag = hnd_branching_missions_sided_tyrant_flag
+    if = {
+      limit = {
+        has_country_flag = hnd_branching_missions_sided_han_flag
+      }
+      clr_country_flag = hnd_branching_missions_sided_han_flag
+    }
+    custom_tooltip = mmetr_HND_mission_events.8.tt1
+    swap_non_generic_missions = yes
+  }
+  option = {
+    name = "mmetr_HND_mission_events.8.b"
+    set_country_flag = hnd_branching_missions_sided_han_flag
+    if = {
+      limit = {
+        has_country_flag = hnd_branching_missions_sided_tyrant_flag
+      }
+      clr_country_flag = hnd_branching_missions_sided_tyrant_flag
+    }
+    custom_tooltip = mmetr_HND_mission_events.8.tt2
+    swap_non_generic_missions = yes
+  }
+}
+# Tombs of the Han Emperors
+country_event = {
+  id = mmetr_HND_mission_events.9
+  title = "mmetr_HND_mission_events.9.t"
+  desc = "mmetr_HND_mission_events.9.desc"
+  picture = MMETR_GREAT_WALL_CONSTRUCTION_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.9.a"
+    add_country_modifier = {
+      name = "me_hnd_successor_of_ancestral_emperors"
+      duration = 10950
+    }
+    if = {
+      limit = {
+        NOT = {
+          capital = 1836
+        }
+      }
+      set_capital = 1836
+    }
+    1836 = {
+      add_base_tax = 1
+    }
+  }
+  option = {
+    name = "mmetr_HND_mission_events.9.b"
+    add_prestige = -20
+    add_treasury = 250
+    if = {
+      limit = {
+        1836 = {
+          base_production = 2
+        }
+      }
+      1836 = {
+        add_base_production = -1
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          capital = 700
+        }
+      }
+      set_capital = 700
+    }
+    700 = {
+      add_base_manpower = 1
+    }
+    add_country_modifier = {
+      name = "me_hnd_plundering_armies"
+      duration = 10950
+    }
+  }
+  option = {
+    name = "mmetr_HND_mission_events.9.c"
+    add_country_modifier = {
+      name = "me_hnd_successor_of_ancestral_emperors"
+      duration = 10950
+    }
+  }
+  option = {
+    name = "mmetr_HND_mission_events.9.d"
+    add_prestige = -20
+    add_treasury = 250
+    if = {
+      limit = {
+        1836 = {
+          base_production = 2
+        }
+      }
+      1836 = {
+        add_base_production = -1
+      }
+    }
+    add_country_modifier = {
+      name = "me_hnd_plundering_armies"
+      duration = 10950
+    }
+  }
+}
+# Han Restoration
+country_event = {
+  id = mmetr_HND_mission_events.10
+  title = "mmetr_HND_mission_events.10.t"
+  desc = "mmetr_HND_mission_events.10.desc"
+  picture = MMETR_CHINESE_COURT_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.10.a"
+    if = {
+      limit = {
+        OR = {
+          NOT = {
+            dynasty = "¿R" 	# Liu
+          }
+          has_regency = yes
+        }
+      }
+      kill_ruler = yes
+      define_ruler = {
+        name = "OS" 	# Xie
+        dynasty = "¿R" 	# Liu
+        claim = 95
+        adm = 5
+        dip = 5
+        mil = 4
+        age = 20
+      }
+    }
+    if = {
+      limit = {
+        is_emperor_of_china = no
+        NOT = {
+          has_reform = chinese_claimant_empire_reform
+        }
+      }
+      add_government_reform = chinese_claimant_empire_reform
+      set_country_flag = established_claimant_empire_dec_flag
+    }
+    if = {
+      limit = {
+        NOT = {
+          government_rank = 3
+        }
+      }
+      set_government_rank = 3
+    }
+    add_ruler_modifier = {
+      name = "me_hnd_han_restoration"
+      duration = -1
+    }
+  }
+}
+# A New Dynasty?
+country_event = {
+  id = mmetr_HND_mission_events.11
+  title = "mmetr_HND_mission_events.11.t"
+  desc = "mmetr_HND_mission_events.11.desc"
+  picture = MMETR_CHINESE_COURT_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "mmetr_HND_mission_events.11.a"
+  }
+  option = {
+    name = "et_china.1.CHC"
+    trigger = {
+      NOT = {
+        exists = CHC
+      }
+      capital_scope = {
+        OR = {
+          area = huguang_area
+          area = hunan_area
+        }
+      }
+    }
+    change_tag = CHC
+  }
+  option = {
+    name = "et_china.1.HND"
+    trigger = {
+      NOT = {
+        exists = HND
+      }
+    }
+    change_tag = HND
+  }
+  option = {
+    name = "et_china.1.JIN"
+    trigger = {
+      NOT = {
+        exists = JIN
+      }
+    }
+    change_tag = JIN
+  }
+  option = {
+    name = "et_china.1.LNG"
+    trigger = {
+      NOT = {
+        exists = LNG
+      }
+      capital_scope = {
+        OR = {
+          area = gansu_area
+          area = west_gansu_area
+        }
+      }
+    }
+    change_tag = LNG
+  }
+  option = {
+    name = "et_china.1.CMI"
+    trigger = {
+      NOT = {
+        exists = CMI
+      }
+      primary_culture = miao
+    }
+    change_tag = CMI
+  }
+  option = {
+    name = "et_china.1.MIN"
+    trigger = {
+      NOT = {
+        exists = MIN
+      }
+      primary_culture = chimin
+    }
+    change_tag = MIN
+  }
+  option = {
+    name = "et_china.1.MNG"
+    trigger = {
+      NOT = {
+        exists = MNG
+      }
+    }
+    change_tag = MNG
+  }
+  option = {
+    name = "et_china.1.NNG"
+    trigger = {
+      NOT = {
+        exists = NNG
+      }
+    }
+    change_tag = NNG
+  }
+  option = {
+    name = "et_china.1.QIC"
+    trigger = {
+      NOT = {
+        exists = QIC
+      }
+    }
+    change_tag = QIC
+  }
+  option = {
+    name = "et_china.1.QIN"
+    trigger = {
+      NOT = {
+        exists = QIN
+      }
+    }
+    change_tag = QIN
+  }
+  option = {
+    name = "et_china.1.SHU"
+    trigger = {
+      NOT = {
+        exists = SHU
+      }
+      capital_scope = {
+        OR = {
+          area = sichuan_area
+          area = chuanbei_area
+        }
+      }
+    }
+    change_tag = SHU
+  }
+  option = {
+    name = "et_china.1.SNG"
+    trigger = {
+      NOT = {
+        exists = SNG
+      }
+    }
+    change_tag = SNG
+  }
+  option = {
+    name = "et_china.1.SUI"
+    trigger = {
+      NOT = {
+        exists = SUI
+      }
+    }
+    change_tag = SUI
+  }
+  option = {
+    name = "et_china.1.TNG"
+    trigger = {
+      NOT = {
+        exists = TNG
+      }
+    }
+    change_tag = TNG
+  }
+  option = {
+    name = "et_china.1.WEI"
+    trigger = {
+      NOT = {
+        exists = WEI
+      }
+      capital_scope = {
+        OR = {
+          area = north_henan_area
+          area = henan_area
+        }
+      }
+    }
+    change_tag = WEI
+  }
+  option = {
+    name = "et_china.1.WUU"
+    trigger = {
+      NOT = {
+        exists = WUU
+      }
+      primary_culture = wu
+    }
+    change_tag = WUU
+  }
+  option = {
+    name = "et_china.1.XIA"
+    trigger = {
+      NOT = {
+        exists = XIA
+      }
+    }
+    change_tag = XIA
+  }
+  option = {
+    name = "et_china.1.XIN"
+    trigger = {
+      NOT = {
+        exists = XIN
+      }
+    }
+    change_tag = XIN
+  }
+  option = {
+    name = "et_china.1.YAN"
+    trigger = {
+      NOT = {
+        exists = YAN
+      }
+      capital_scope = {
+        OR = {
+          area = hebei_area
+          area = liaoning_area
+        }
+      }
+    }
+    change_tag = YAN
+  }
+  option = {
+    name = "et_china.1.ZAO"
+    trigger = {
+      NOT = {
+        exists = ZAO
+      }
+      capital_scope = {
+        OR = {
+          area = shanxi_area
+          area = inner_mongolia_area
+        }
+      }
+    }
+    change_tag = ZAO
+  }
+  option = {
+    name = "et_china.1.CZH"
+    trigger = {
+      NOT = {
+        exists = CZH
+      }
+    }
+    change_tag = CZH
+  }
+}

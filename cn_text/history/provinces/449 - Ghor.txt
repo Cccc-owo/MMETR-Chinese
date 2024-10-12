@@ -1,8 +1,8 @@
 #449 - Ghor
-owner = KUS
-controller = KUS
+owner = PRT
+controller = PRT
 culture = afghani
-religion = mahayana
+religion = dharmaguptaka 	# MMETR early sect
 capital = "Ahangaran"
 trade_goods = wool
 hre = no
@@ -19,7 +19,16 @@ base_tax = 2
 base_production = 2
 base_manpower = 4
 is_city = yes
-add_core = KUS
+add_core = PRT
+50.1.1 = {
+  owner = KUS
+  controller = KUS
+  add_core = KUS
+  remove_core = PRT
+}
+150.1.1 = {
+  religion = sarvastivada
+} 	# MMETR, converts under Kanishka from dharmaguptaka to sarvastivada sect
 230.1.1 = {
   owner = KSA
   controller = KSA
@@ -37,7 +46,8 @@ add_core = KUS
   controller = KAP
   add_core = KAP
   remove_core = KDT
-}
+  religion = mahayana
+} 	# MMETR, converts to Mahayana when the Kapisa splits from Kidarites
 484.1.1 = {
   owner = NZK
   controller = NZK

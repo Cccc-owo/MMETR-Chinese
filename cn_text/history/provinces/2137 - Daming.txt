@@ -75,6 +75,9 @@ add_core = WEI
   add_core = WEI
   remove_core = YAN
 }
+424.1.1 = {
+  religion = daoism
+} 	# MMETR, Northern Celestial Masters and Chongxuan school
 550.6.7 = {
   owner = QIC
   controller = QIC
@@ -144,12 +147,35 @@ add_core = WEI
   add_core = SNG
   remove_core = CZH
 }
+1080.1.1 = {
+  religion = confucianism
+} 	# MMETR, Neo-Confucianism of Northern Song
 1127.1.1 = {
   owner = CJN
   controller = CJN
   add_core = CJN
   remove_core = SNG
 }
+1127.4.20 = {
+  owner = CHC
+  controller = CHC
+  add_core = CHC
+} 	# MMETR, Da Chu established as puppet buffer state of Jin
+1127.5.23 = {
+  owner = CJN
+  controller = CJN
+  remove_core = CHC
+} 	# MMETR, Da Chu is dissolved after only one month
+1130.1.1 = {
+  owner = QIC
+  controller = QIC
+  add_core = QIC
+} 	# MMETR, Da Qi established as puppet buffer state of Jin
+1138.1.1 = {
+  owner = CJN
+  controller = CJN
+  remove_core = QIC
+} 	# MMETR, Da Qi is dissolved after 8 years
 1234.1.1 = {
   owner = KHA
   controller = KHA

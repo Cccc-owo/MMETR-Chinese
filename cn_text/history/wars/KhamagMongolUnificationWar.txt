@@ -1,8 +1,8 @@
 name = "™„äSßuNb‰N" 	# Mongol Unification War
 war_goal = {
-  type = take_claim
-  casus_belli = cb_conquest
-  province = 2116
+  type = civil_war_wargoal
+  casus_belli = cb_conclude_civil_war 	# New added in MMETR
+  tag = KMO
 }
 1201.1.1 = {
   add_attacker = KMO 	# Khamag Mongol - Genghis Khan

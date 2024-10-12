@@ -1,0 +1,87 @@
+#2314 - Wagadu
+culture = soninke
+base_manpower = 1
+religion = shamanism
+capital = "Dia"
+trade_goods = unknown
+hre = no
+discovered_by = sub_saharan
+base_tax = 2
+base_production = 2
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+350.1.1 = {
+  owner = GHA
+  controller = GHA
+  add_core = GHA
+  is_city = yes
+  trade_goods = wool
+}
+1077.1.1 = {
+  owner = DRR
+  controller = DRR
+  add_core = DRR
+  base_tax = 3
+  base_manpower = 2
+} 	# MMETR, Diarra under Mana Maga of Niakhate dynasty breaks away and becomes powerful due to trade routes
+1203.1.1 = {
+  remove_core = GHA
+} 	# MMETR, Ghana is conquered by Sosso
+#1230.1.1 = { owner = MAL controller = MAL add_core = MAL remove_core = GHA }
+#1389.1.1 = { owner = ZAF controller = ZAF add_core = ZAF remove_core = MAL }
+1400.1.1 = {
+  base_production = 3
+  base_manpower = 3
+} 	# MMETR, Diawara clan breaks off Mali vassalage and becomes one of the most powerful in the Sahel
+1512.1.1 = {
+  owner = SON
+  controller = SON
+  add_core = SON
+} 	# MMETR changed, swears fealty to Diarra Askiya Muhammad of Songhai
+1591.3.15 = {
+  owner = FUL
+  controller = FUL
+  add_core = FUL
+} 	# Songhai collapse after Tondibi
+1670.1.1 = {
+  owner = SOF
+  controller = SOF
+  add_core = SOF
+  remove_core = FUL
+} 	# Massa establish the Massassi dynasty, Bambara expands
+1830.1.1 = {
+  religion = sunni
+}
+1860.1.1 = {
+  discovered_by = western
+}
+1890.1.1 = {
+  owner = FR2
+  controller = FR2
+  add_core = FR2
+  capital = "Nioro du Sahel"
+}
+1920.1.1 = {
+  discovered_by = eastern
+  discovered_by = muslim
+  discovered_by = ottoman
+  discovered_by = asian
+}
+1940.6.14 = {
+  owner = FRV
+  controller = FRV
+  add_core = FRV
+} 	#  Vichy France
+1942.11.16 = {
+  owner = FR2
+  controller = FR2
+  remove_core = FRV
+} 	#  Under Free French control after Operation Torch
+1960.6.20 = {
+  owner = MAL
+  controller = MAL
+  add_core = MAL
+  remove_core = FR2
+  remove_core = SOF
+}

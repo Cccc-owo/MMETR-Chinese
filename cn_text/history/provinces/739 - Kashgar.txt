@@ -24,8 +24,8 @@ base_manpower = 2
 is_city = yes
 center_of_trade = 2
 200.1.1 = {
-  religion = mahayana
-}
+  religion = dharmaguptaka
+} 	# MMETR
 440.1.1 = {
   owner = HEP
   controller = HEP
@@ -89,10 +89,16 @@ center_of_trade = 2
   remove_core = KKT
 }
 1260.1.1 = {
+  owner = CGT
+  controller = CGT
+  add_core = CGT
+  remove_core = KHA
+}
+1347.1.1 = {
   owner = CHG
   controller = CHG
   add_core = CHG
-  remove_core = KHA
+  remove_core = CGT
 }
 1350.1.1 = {
   religion = sunni

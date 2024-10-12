@@ -87,6 +87,9 @@ add_core = SHU
   add_core = COU
   remove_core = QIN
 }
+424.1.1 = {
+  religion = daoism
+} 	# MMETR, Northern Celestial Masters and Chongxuan school
 442.1.1 = {
   owner = LSO
   controller = LSO
@@ -167,6 +170,9 @@ add_core = SHU
 1000.1.1 = {
   base_manpower = 3
 }
+1080.1.1 = {
+  religion = confucianism
+} 	# MMETR, Neo-Confucianism of Northern Song
 1200.1.1 = {
   base_tax = 4
   base_production = 4

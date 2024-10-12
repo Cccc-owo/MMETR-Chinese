@@ -45,8 +45,8 @@ religious_school = hanafi_school
   add_government_reform = early_gov_reform_1
 }
 180.1.1 = {
-  religion = mahayana
-}
+  religion = dharmaguptaka
+} 	# MMETR
 230.1.1 = {
   add_government_reform = early_gov_reform_2
 }

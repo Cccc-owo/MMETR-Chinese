@@ -74,6 +74,8 @@ capital = 410 	#  Ctesiphon
   monarch = {
     name = "Pacorus II"
     dynasty = "Arsacid"
+    birth_date = 62.1.1 	# MMETR added
+    death_date = 110.1.1
     adm = 5
     dip = 4
     mil = 3
@@ -82,49 +84,8 @@ capital = 410 	#  Ctesiphon
 100.1.1 = {
   add_government_reform = early_gov_reform_1
 }
-105.1.1 = {
-  monarch = {
-    name = "Osroes I"
-    dynasty = "Arsacid"
-    adm = 6
-    dip = 6
-    mil = 6
-  }
-}
-116.1.1 = {
-  capital = 414
-} 	#  Ecbatana
-116.1.1 = {
-  monarch = {
-    name = "Parthamaspates"
-    dynasty = "Arsacid"
-    adm = 6
-    dip = 6
-    mil = 6
-  }
-}
-117.1.1 = {
-  monarch = {
-    name = "Osroes I"
-    dynasty = "Arsacid"
-    adm = 3
-    dip = 1
-    mil = 4
-  }
-}
-118.1.1 = {
-  capital = 410
-} 	#  Ctesiphon
-129.1.1 = {
-  monarch = {
-    name = "Mithridates IV"
-    dynasty = "Arsacid"
-    adm = 2
-    dip = 1
-    mil = 3
-  }
-}
-140.1.1 = {
+#MMETR removed Osroes I, etc., instead moved to Media tag for rival kings in civil war
+110.1.1 = {
   monarch = {
     name = "Vologases III"
     dynasty = "Arsacid"
@@ -153,11 +114,20 @@ capital = 410 	#  Ctesiphon
 }
 208.1.1 = {
   monarch = {
-    name = "Vologases V"
+    name = "Vologases VI" 	# MMETR edit name and stats
     dynasty = "Arsacid"
-    adm = 6
+    adm = 4
     dip = 6
     mil = 6
+  }
+}
+213.1.1 = { 	# MMETR, Artabanus IV takes control of most of the empire and acknowledged by the Romans
+  monarch = {
+    name = "Artabanus IV"
+    dynasty = "Arsacid"
+    adm = 4
+    dip = 6
+    mil = 4
   }
 }
 230.1.1 = {

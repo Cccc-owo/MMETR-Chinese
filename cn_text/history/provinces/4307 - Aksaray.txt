@@ -32,21 +32,31 @@ add_core = ROM
   add_core = ROM
   remove_core = PLM
 }
+340.1.1 = {
+  religion = montanism
+} 	# MMETR
 395.1.17 = {
   controller = BYZ
   owner = BYZ
   add_core = BYZ
   remove_core = ROM
 } 	#  Final division of the empire
-440.1.1 = {
+550.1.1 = {
   religion = chalcedonism
-}
+} 	# Montanists persecuted by Justinian
+680.1.1 = {
+  religion = paulician
+} 	# MMETR
 750.1.1 = {
   culture = greek
 }
-867.1.1 = {
+#867.1.1 = { religion = orthodox }
+873.1.1 = {
+  religion = iconoclast
+} 	# MMETR
+930.1.1 = {
   religion = orthodox
-}
+} 	# MMETR
 1071.8.26 = {
   owner = DNI
   controller = DNI

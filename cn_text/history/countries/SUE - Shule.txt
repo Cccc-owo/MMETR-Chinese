@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = tribal_kingdom
 technology_group = early_chinese
 religion = heptadic 	# New MMETR religion
-secondary_religion = mahayana
+secondary_religion = dharmaguptaka 	# MMETR
 primary_culture = saka
 capital = 739 	#  Kashgar
 2.1.1 = {
@@ -54,8 +54,8 @@ capital = 739 	#  Kashgar
   }
 }
 180.1.1 = {
-  religion = mahayana
-}
+  religion = dharmaguptaka
+} 	# MMETR
 230.1.1 = {
   add_government_reform = early_gov_reform_2
 }
@@ -89,6 +89,9 @@ capital = 739 	#  Kashgar
 880.1.1 = {
   add_government_reform = early_gov_reform_7
 }
+1000.1.1 = {
+  religion = mahayana
+} 	# MMETR
 1010.1.1 = {
   add_government_reform = early_gov_reform_8
 }

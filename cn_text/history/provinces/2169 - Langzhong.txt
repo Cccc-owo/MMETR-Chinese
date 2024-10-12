@@ -62,7 +62,8 @@ add_core = SHU
   controller = CEG
   add_core = CEG
   remove_core = JIN
-}
+  religion = daoism
+} 	# MMETR, Li family of Cheng-Han were Daoists of Five Pecks of Rice sect
 338.1.1 = {
   owner = HND
   controller = HND
@@ -156,6 +157,9 @@ add_core = SHU
   add_core = SNG
   remove_core = SHU
 }
+1080.1.1 = {
+  religion = confucianism
+} 	# MMETR, Neo-Confucianism of Northern Song
 1279.3.19 = {
   owner = YUA
   controller = YUA

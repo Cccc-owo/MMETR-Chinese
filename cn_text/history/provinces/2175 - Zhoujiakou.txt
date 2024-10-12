@@ -16,7 +16,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = HND
-add_core = WEI
+#add_core = WEI
 9.1.10 = {
   owner = XIN
   controller = XIN
@@ -35,7 +35,21 @@ add_core = WEI
   controller = ZHO
   add_core = ZHO
   remove_core = HND
-}
+} 	# MMETR, Yuan Shu before he is driven out in 193
+193.1.1 = {
+  owner = CEN
+  controller = CEN
+  add_core = CEN
+  remove_core = ZHO
+  capital = "Chen"
+} 	# MMETR change, Prince Liu Chong of Chen
+197.1.1 = {
+  owner = ZHO
+  controller = ZHO
+  add_core = ZHO
+  remove_core = CEN
+  capital = "Runing"
+} 	# MMETR, Yuan Shu assassinates Liu Chong
 199.6.1 = {
   owner = WEI
   controller = WEI
@@ -111,6 +125,26 @@ add_core = WEI
   add_core = CJN
   remove_core = SNG
 }
+1127.4.20 = {
+  owner = CHC
+  controller = CHC
+  add_core = CHC
+} 	# MMETR, Da Chu established as puppet buffer state of Jin
+1127.5.23 = {
+  owner = CJN
+  controller = CJN
+  remove_core = CHC
+} 	# MMETR, Da Chu is dissolved after only one month
+1130.1.1 = {
+  owner = QIC
+  controller = QIC
+  add_core = QIC
+} 	# MMETR, Da Qi established as puppet buffer state of Jin
+1138.1.1 = {
+  owner = CJN
+  controller = CJN
+  remove_core = QIC
+} 	# MMETR, Da Qi is dissolved after 8 years
 1234.2.9 = {
   owner = KHA
   controller = KHA

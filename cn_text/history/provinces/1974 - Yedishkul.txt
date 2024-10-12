@@ -49,19 +49,22 @@ add_core = SRT
   controller = BUL
   add_core = BUL
   remove_core = GCR
+}
+668.1.1 = {
+  owner = ONG
+  controller = ONG
+  add_core = ONG
+  remove_core = BUL
+  culture = bulgar
   religion = tengri_pagan_reformed
-}
-700.1.1 = {
-  base_tax = 2
-  base_production = 2
-}
-750.1.1 = {
+} 	# Fall of Old Bulgaria
+690.1.1 = {
   owner = KHZ
   controller = KHZ
   add_core = KHZ
-  remove_core = BUL
-}
-800.1.1 = {
+} 	# Death of Batbayan
+740.1.1 = {
+  remove_core = ONG
   culture = khazar
 }
 867.1.1 = {

@@ -1,0 +1,1356 @@
+###########################################################
+# Events for Uprising of the Five Hu Disaster
+###########################################################
+namespace = uprising_of_five_hu
+# Five Hu Migrations
+country_event = {
+  id = uprising_of_five_hu.1
+  title = "uprising_of_five_hu.1.t"
+  desc = "uprising_of_five_hu.1.desc"
+  picture = MONGOL_BANNERS_eventPicture
+  major = yes 	# makes notification pop up for others
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      set_country_flag = uprising_of_five_hu_started_flag
+      if = {
+        limit = {
+          NOT = {
+            tag = CEG
+          }
+        }
+        every_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          add_core = CEG 	# Cheng Han
+          add_nationalism = 20
+        }
+      }
+      if = {
+        limit = {
+          tag = CEG
+        }
+        every_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          add_core = SHU 	# Cheng Han
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+          add_core = ZAO 	# Han Zhao
+        }
+      }
+      if = {
+        limit = {
+          tag = ZAO
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+          add_core = HND 	# Han Zhao
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = LNG
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = gansu_area
+              area = west_gansu_area
+            }
+          }
+          add_core = LNG 	# Former Liang
+        }
+      }
+      if = {
+        limit = {
+          tag = LNG
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = gansu_area
+              area = west_gansu_area
+            }
+          }
+          add_core = WLI 	# Western Liang
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = QIC
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shandong_area
+              area = west_shandong_area
+            }
+          }
+          add_core = QIC 	# Qizhou
+        }
+      }
+      if = {
+        limit = {
+          tag = QIC
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shandong_area
+              area = west_shandong_area
+            }
+          }
+          add_core = QIN 	# Qizhou
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = COU
+          }
+          owns = 689
+        }
+        689 = { 	# Hanzhong
+          add_core = COU 	# Chouchi
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = DAX
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              region = mongolia_region
+              province_id = 2181
+              province_id = 2179
+            }
+          }
+          add_core = DAX 	# Dai
+        }
+      }
+      if = {
+        limit = {
+          tag = DAX
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              region = mongolia_region
+              province_id = 2181
+              province_id = 2179
+            }
+          }
+          add_core = WEI
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = YAN
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = liaoning_area
+              region = korea_region
+            }
+          }
+          add_core = YAN 	# Later Yan
+        }
+      }
+      if = {
+        limit = {
+          tag = YAN
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = liaoning_area
+              region = korea_region
+            }
+          }
+          add_core = WYA 	# Western Yan
+        }
+      }
+      if = {
+        limit = {
+          NOT = {
+            tag = WUU
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = south_jiangsu_area
+              area = jiangxi_area
+              area = fujian_area
+            }
+          }
+          add_core = WUU 	# Wu
+        }
+      }
+      if = {
+        limit = {
+          tag = WUU
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = south_jiangsu_area
+              area = jiangxi_area
+              area = fujian_area
+            }
+          }
+          add_core = YNG 	# Yang
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.1.a"
+    add_stability = -6
+    add_mandate = -20
+    custom_tooltip = uprising_of_five_hu.1.tt
+  }
+}
+# End of the Upheaval - End Event
+country_event = {
+  id = uprising_of_five_hu.2
+  title = "uprising_of_five_hu.2.t"
+  desc = "uprising_of_five_hu.2.desc"
+  picture = MMETR_BATTLEFIELD_AFTERMATH_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      set_country_flag = uprising_of_five_hu_happened
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.2.a"
+    add_mandate = 10
+  }
+}
+# Qi Wannian Rebels
+country_event = {
+  id = uprising_of_five_hu.3
+  title = "uprising_of_five_hu.3.t"
+  desc = "uprising_of_five_hu.3.desc"
+  picture = MONGOL_BANNERS_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        area = west_gansu_area
+        area = gansu_area
+      }
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = LNG
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = west_gansu_area
+              area = gansu_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 2
+            leader = "Qi Wannian"
+            win = yes
+            separatists_target = LNG 	# associates with Liang tag
+            friend = LNG
+          }
+        }
+      }
+      else = {
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = west_gansu_area
+              area = gansu_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 2
+            leader = "Qi Wannian"
+            win = yes
+            separatists_target = WLI 	# associates with Western Liang tag
+            friend = WLI 	# associates with Western Liang tag
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.3.a"
+    custom_tooltip = uprising_of_five_hu.3.tt
+  }
+}
+# Li Te Rebels in Bashu
+country_event = {
+  id = uprising_of_five_hu.4
+  title = "uprising_of_five_hu.4.t"
+  desc = "uprising_of_five_hu.4.desc"
+  picture = MMETR_YELLOW_TURBANS_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        region = xinan_region
+      }
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 365 	# 1 year at least
+    }
+    NOT = {
+      has_country_flag = uprising_of_five_hu_cheng_han_start_flag
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = CEG
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Li Te"
+            win = yes
+            separatists_target = CEG 	# associates with Liang tag
+            friend = CEG 	# associates with Liang tag
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          spawn_rebels = {
+            size = 2
+            separatists_target = CEG 	# associates with Liang tag
+            friend = CEG 	# associates with Liang tag
+          }
+        }
+      }
+      else = {
+        random_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Li Te"
+            win = yes
+            separatists_target = SHU 	# associates with Western Liang tag
+            friend = SHU 	# associates with Western Liang tag
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = xinan_region
+          }
+          spawn_rebels = {
+            size = 2
+            separatists_target = SHU 	# associates with Liang tag
+            friend = SHU 	# associates with Liang tag
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.4.a"
+    custom_tooltip = uprising_of_five_hu.4.tt
+    set_country_flag = uprising_of_five_hu_cheng_han_start_flag
+  }
+}
+# Li Clan Establishes Cheng-Han
+country_event = {
+  id = uprising_of_five_hu.5
+  title = "uprising_of_five_hu.5.t"
+  desc = "uprising_of_five_hu.5.desc"
+  picture = MMETR_YELLOW_TURBANS_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        region = xinan_region
+      }
+    }
+    has_country_flag = uprising_of_five_hu_cheng_han_start_flag
+    OR = {
+      had_country_flag = {
+        flag = uprising_of_five_hu_started_flag
+        days = 1825 	# 5 years auto-fires
+      }
+      num_of_owned_provinces_with = {
+        value = 5
+        region = xinan_region
+        controlled_by = REB
+      }
+      AND = {
+        NOT = {
+          num_of_owned_provinces_with = {
+            value = 5
+            region = xinan_region
+          }
+        }
+        num_of_owned_provinces_with = {
+          value = 4
+          region = xinan_region
+          controlled_by = REB
+        }
+      }
+      AND = {
+        NOT = {
+          num_of_owned_provinces_with = {
+            value = 4
+            region = xinan_region
+          }
+        }
+        num_of_owned_provinces_with = {
+          value = 3
+          region = xinan_region
+          controlled_by = REB
+        }
+      }
+      AND = {
+        NOT = {
+          num_of_owned_provinces_with = {
+            value = 3
+            region = xinan_region
+          }
+        }
+        num_of_owned_provinces_with = {
+          value = 2
+          region = xinan_region
+          controlled_by = REB
+        }
+      }
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = CEG
+          }
+        }
+        xinan_region = {
+          limit = {
+            owned_by = ROOT
+          }
+          cede_province = CEG
+        }
+        CEG = {
+          define_ruler = {
+            name = "Xiong"
+            dynasty = "Li"
+            adm = 4
+            dip = 4
+            mil = 5
+            age = 30
+            claim = 95
+          }
+          add_country_modifier = {
+            name = "five_hu_uprising_bonus"
+            duration = 18250 	# 50 years
+          }
+          build_to_forcelimit = {
+            infantry = 0.6
+            cavalry = 0.4
+          }
+          save_event_target_as = cheng_new_kingdom
+        }
+        event_target:cheng_new_kingdom = {
+          change_tag = CEG 	# avoids dynasty immediately changing on spawn!
+        }
+      }
+      else = {
+        xinan_region = {
+          limit = {
+            owned_by = ROOT
+          }
+          cede_province = SHU
+        }
+        SHU = {
+          define_ruler = {
+            name = "Xiong"
+            dynasty = "Li"
+            adm = 4
+            dip = 4
+            mil = 5
+            age = 30
+            claim = 95
+          }
+          add_country_modifier = {
+            name = "five_hu_uprising_bonus"
+            duration = 18250 	# 50 years
+          }
+          build_to_forcelimit = {
+            infantry = 0.6
+            cavalry = 0.4
+          }
+          save_event_target_as = cheng_new_kingdom
+        }
+        event_target:cheng_new_kingdom = {
+          change_tag = SHU 	# avoids dynasty immediately changing on spawn!
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.5.a"
+    custom_tooltip = uprising_of_five_hu.5.tt
+  }
+}
+# Rebellions in Hebei
+country_event = {
+  id = uprising_of_five_hu.6
+  title = "uprising_of_five_hu.6.t"
+  desc = "uprising_of_five_hu.6.desc"
+  picture = CIVIL_WAR_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        area = shanxi_area
+        area = south_hebei_area
+        area = hebei_area
+        area = west_shandong_area
+        area = north_henan_area
+      }
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 365 	# 1 year at least
+    }
+    NOT = {
+      has_country_flag = uprising_of_five_hu_hebei_rebels_start_flag
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = uprising_of_five_hu_hebei_rebels_start_flag
+      if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shanxi_area
+              area = south_hebei_area
+              area = hebei_area
+              area = west_shandong_area
+              area = north_henan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Bogen"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shanxi_area
+              area = south_hebei_area
+              area = hebei_area
+              area = west_shandong_area
+              area = north_henan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Gongshi Fan"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+      }
+      else = {
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shanxi_area
+              area = south_hebei_area
+              area = hebei_area
+              area = west_shandong_area
+              area = north_henan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Bogen"
+            win = yes
+            separatists_target = HND
+            friend = HND
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shanxi_area
+              area = south_hebei_area
+              area = hebei_area
+              area = west_shandong_area
+              area = north_henan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Gongshi Fan"
+            win = yes
+            separatists_target = HND
+            friend = HND
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.6.a"
+    custom_tooltip = uprising_of_five_hu.6.tt
+  }
+}
+# Rebel Remnants Strike Qing and Xu
+country_event = {
+  id = uprising_of_five_hu.7
+  title = "uprising_of_five_hu.7.t"
+  desc = "uprising_of_five_hu.7.desc"
+  picture = CIVIL_WAR_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      region = north_china_region
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 1095 	# 3 years at least
+    }
+    has_country_flag = uprising_of_five_hu_hebei_rebels_start_flag
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+          any_owned_province = {
+            OR = {
+              area = west_shandong_area
+              area = shandong_area
+              area = jiangsu_area
+              area = south_jiangsu_area
+              area = anhui_area
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = west_shandong_area
+              area = shandong_area
+              area = jiangsu_area
+              area = south_jiangsu_area
+              area = anhui_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Wang Mi"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+      }
+      else_if = {
+        limit = {
+          tag = ZAO
+          NOT = {
+            any_owned_province = {
+              OR = {
+                area = west_shandong_area
+                area = shandong_area
+                area = jiangsu_area
+                area = south_jiangsu_area
+                area = anhui_area
+              }
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = north_china_region
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Wang Mi"
+            win = yes
+            separatists_target = HND
+            friend = HND
+          }
+        }
+      }
+      else_if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+          NOT = {
+            any_owned_province = {
+              OR = {
+                area = west_shandong_area
+                area = shandong_area
+                area = jiangsu_area
+                area = south_jiangsu_area
+                area = anhui_area
+              }
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = north_china_region
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Wang Mi"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+      }
+      else = {
+        limit = {
+          tag = ZAO
+          any_owned_province = {
+            OR = {
+              area = west_shandong_area
+              area = shandong_area
+              area = jiangsu_area
+              area = south_jiangsu_area
+              area = anhui_area
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = west_shandong_area
+              area = shandong_area
+              area = jiangsu_area
+              area = south_jiangsu_area
+              area = anhui_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Wang Mi"
+            win = yes
+            separatists_target = HND
+            friend = HND
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.7.a"
+    custom_tooltip = uprising_of_five_hu.7.tt
+  }
+}
+# Chen Min Revolts in Jiangnan
+country_event = {
+  id = uprising_of_five_hu.8
+  title = "uprising_of_five_hu.8.t"
+  desc = "uprising_of_five_hu.8.desc"
+  picture = CIVIL_WAR_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        area = zhejiang_area
+        area = south_anhui_area
+        area = fujian_area
+        area = jiangxi_area
+      }
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 1095 	# 3 years at least
+    }
+    NOT = {
+      has_country_flag = uprising_of_five_hu_chen_min_start_flag
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = uprising_of_five_hu_chen_min_start_flag
+      if = {
+        limit = {
+          NOT = {
+            tag = WUU
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = fujian_area
+              area = jiangxi_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Chen Min"
+            win = yes
+            separatists_target = WUU
+            friend = WUU
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = fujian_area
+              area = jiangxi_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 2
+            separatists_target = WUU
+            friend = WUU
+          }
+        }
+      }
+      else = {
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = fujian_area
+              area = jiangxi_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Chen Min"
+            win = yes
+            separatists_target = YNG
+            friend = YNG
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = zhejiang_area
+              area = south_anhui_area
+              area = fujian_area
+              area = jiangxi_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 2
+            separatists_target = YNG
+            friend = YNG
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.8.a"
+    custom_tooltip = uprising_of_five_hu.8.tt
+  }
+}
+# Zhang Chang Rebels in Jingzhou
+country_event = {
+  id = uprising_of_five_hu.9
+  title = "uprising_of_five_hu.9.t"
+  desc = "uprising_of_five_hu.9.desc"
+  picture = CIVIL_WAR_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      OR = {
+        area = huguang_area
+        area = hunan_area
+      }
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 183 	# 6 months at least
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = JNG
+          }
+        }
+        huguang_area = {
+          limit = {
+            owned_by = ROOT
+          }
+          add_core = JNG
+        }
+        hunan_area = {
+          limit = {
+            owned_by = ROOT
+          }
+          add_core = JNG
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = huguang_area
+              area = hunan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Zhang Chang"
+            win = yes
+            separatists_target = JNG
+            friend = JNG
+          }
+        }
+      }
+      else = {
+        huguang_area = {
+          limit = {
+            owned_by = ROOT
+          }
+          add_core = NNG 	# Ning
+        }
+        hunan_area = {
+          limit = {
+            owned_by = ROOT
+          }
+          add_core = NNG
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = huguang_area
+              area = hunan_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Zhang Chang"
+            win = yes
+            separatists_target = NNG
+            friend = NNG
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.9.a"
+    custom_tooltip = uprising_of_five_hu.9.tt
+  }
+}
+# Liu Yuan Invades the North
+country_event = {
+  id = uprising_of_five_hu.10
+  title = "uprising_of_five_hu.10.t"
+  desc = "uprising_of_five_hu.10.desc"
+  picture = MONGOL_BANNERS_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    any_owned_province = {
+      region = north_china_region
+      is_capital = no
+    }
+    had_country_flag = {
+      flag = uprising_of_five_hu_started_flag
+      days = 183 	# 6 months at least
+    }
+    NOT = {
+      has_country_flag = liu_yuan_han_zhao_invasion_flag
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+          any_owned_province = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Yuan"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Xuan"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+      }
+      else_if = {
+        limit = {
+          tag = ZAO
+          any_owned_province = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Yuan"
+            win = yes
+            separatists_target = HND
+            friend = HND 	# Han Zhao
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Xuan"
+            win = yes
+            separatists_target = HND
+            friend = HND 	# Han Zhao
+          }
+        }
+      }
+      else_if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+          NOT = {
+            any_owned_province = {
+              OR = {
+                area = shaanxi_area
+                area = shanxi_area
+                area = north_henan_area
+                area = south_hebei_area
+              }
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = north_china_region
+            is_capital = no
+          }
+          add_core = ZAO
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Yuan"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Xuan"
+            win = yes
+            separatists_target = ZAO
+            friend = ZAO
+          }
+        }
+      }
+      else_if = {
+        limit = {
+          tag = ZAO
+          any_owned_province = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+            }
+          }
+        }
+        random_owned_province = {
+          limit = {
+            region = north_china_region
+            is_capital = no
+          }
+          add_core = HND
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Yuan"
+            win = yes
+            separatists_target = HND
+            friend = HND 	# Han Zhao
+          }
+          spawn_rebels = {
+            type = nationalist_rebels
+            size = 3
+            leader = "Liu Xuan"
+            win = yes
+            separatists_target = HND
+            friend = HND 	# Han Zhao
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.10.a"
+    custom_tooltip = uprising_of_five_hu.10.tt
+    set_country_flag = liu_yuan_han_zhao_invasion_flag
+  }
+}
+# Liu Yuan Conquers Luoyang / Disaster of Yongjia
+country_event = {
+  id = uprising_of_five_hu.11
+  title = "uprising_of_five_hu.11.t"
+  desc = "uprising_of_five_hu.11.desc"
+  picture = MMETR_MONGOL_THRONEROOM_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    owns = 1836 	# Luoyang
+    has_country_flag = liu_yuan_han_zhao_invasion_flag
+    1836 = {
+      controlled_by = REB
+    }
+    num_of_rebel_armies = 1
+    any_owned_province = {
+      OR = {
+        AND = {
+          NOT = {
+            is_core = ZAO
+          }
+          region = north_china_region
+        }
+        NOT = {
+          region = north_china_region
+        }
+      }
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            tag = ZAO
+          }
+        }
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+              AND = {
+                is_core = ZAO
+                region = north_china_region
+              }
+            }
+          }
+          cede_province = ZAO
+          add_core = ZAO
+          change_controller = ZAO
+          add_nationalism = -20
+        }
+        ZAO = {
+          define_ruler = {
+            name = "Yuan"
+            dynasty = "Liu"
+            adm = 5
+            dip = 3
+            mil = 4
+            age = 30
+            claim = 95
+          }
+          add_country_modifier = {
+            name = "five_hu_uprising_bonus"
+            duration = 18250 	# 50 years
+          }
+          build_to_forcelimit = {
+            infantry = 0.6
+            cavalry = 0.4
+          }
+        }
+      }
+      else = {
+        every_owned_province = {
+          limit = {
+            OR = {
+              area = shaanxi_area
+              area = shanxi_area
+              area = north_henan_area
+              area = south_hebei_area
+              AND = {
+                is_core = HND
+                region = north_china_region
+              }
+            }
+          }
+          cede_province = HND
+          add_core = HND
+          change_controller = HND
+          add_nationalism = -20
+        }
+        HND = {
+          define_ruler = {
+            name = "Yuan"
+            dynasty = "Liu"
+            adm = 5
+            dip = 3
+            mil = 4
+            age = 30
+            claim = 95
+          }
+          add_country_modifier = {
+            name = "five_hu_uprising_bonus"
+            duration = 18250 	# 50 years
+          }
+          build_to_forcelimit = {
+            infantry = 0.6
+            cavalry = 0.4
+          }
+        }
+      }
+    }
+  }
+  option = {
+    name = "uprising_of_five_hu.11.a"
+    custom_tooltip = uprising_of_five_hu.11.tt
+    add_prestige = -40
+    kill_ruler = yes 	# the Emperor was historically captured and executed two years later
+  }
+}

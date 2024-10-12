@@ -11,9 +11,9 @@ discovered_by = eastern_nomad_group
 discovered_by = chinese
 discovered_by = asian
 discovered_by = early_chinese
-base_tax = 8
-base_production = 8
-base_manpower = 4
+base_tax = 5
+base_production = 4 	# decreased MMETR dev due to lesser importance and low pop during Han period
+base_manpower = 3
 is_city = yes
 add_core = HND
 add_core = WEI
@@ -36,7 +36,10 @@ fort_15th = yes
   controller = WEI
   add_core = WEI
   remove_core = HND
-}
+  capital = "Xuchang"
+  base_production = 5
+  base_manpower = 4
+} 	# MMETR added Xuchang capital name
 265.2.4 = {
   owner = JIN
   controller = JIN
@@ -82,6 +85,9 @@ fort_15th = yes
   add_core = WEI
   remove_core = YAN
 }
+424.1.1 = {
+  religion = daoism
+} 	# MMETR, Northern Celestial Masters and Chongxuan school
 550.6.7 = {
   owner = QIC
   controller = QIC
@@ -100,6 +106,11 @@ fort_15th = yes
   add_core = SUI
   remove_core = CZH
 }
+609.1.1 = {
+  base_tax = 7
+  base_production = 6
+  base_manpower = 3
+} 	# increased MMETR, Kaifeng grows due to connection with new Grand Canal
 617.4.1 = {
   owner = WEI
   controller = WEI
@@ -118,6 +129,9 @@ fort_15th = yes
   add_core = TNG
   remove_core = SUI
 }
+781.1.1 = {
+  capital = "Bian"
+} 	# MMETR added, city is reconstructed and named Bian
 907.6.1 = {
   owner = LNG
   controller = LNG
@@ -153,13 +167,49 @@ fort_15th = yes
   controller = SNG
   add_core = SNG
   remove_core = CZH
+  base_tax = 8
+  base_production = 8 	# increased MMETR, Kaifeng becomes world's largest city and is renamed to Dongjing
+  base_manpower = 4
+  capital = "Dongjing"
 }
+1080.1.1 = {
+  religion = confucianism
+} 	# MMETR, Neo-Confucianism of Northern Song
 1127.1.1 = {
   owner = CJN
   controller = CJN
   add_core = CJN
   remove_core = SNG
+  base_tax = 7
+  base_production = 6 	# MMETR, two outer city rings are abandoned after Jurchen conquest
+  base_manpower = 3
+  capital = "Kaifeng"
 }
+1127.4.20 = {
+  owner = CHC
+  controller = CHC
+  add_core = CHC
+} 	# MMETR, Da Chu established as puppet buffer state of Jin
+1127.5.23 = {
+  owner = CJN
+  controller = CJN
+  remove_core = CHC
+} 	# MMETR, Da Chu is dissolved after only one month
+1130.1.1 = {
+  owner = QIC
+  controller = QIC
+  add_core = QIC
+} 	# MMETR, Da Qi established as puppet buffer state of Jin
+1138.1.1 = {
+  owner = CJN
+  controller = CJN
+  remove_core = QIC
+} 	# MMETR, Da Qi is dissolved after 8 years
+1157.1.1 = {
+  base_tax = 8
+  base_production = 8
+  base_manpower = 4
+} 	# increased MMETR, Kaifeng is rebuilt by Jin and made a capital
 1234.1.1 = {
   owner = KHA
   controller = KHA

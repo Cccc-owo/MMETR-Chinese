@@ -2,7 +2,7 @@
 owner = CAP
 controller = CAP
 culture = cappadocian
-religion = hellenism
+religion = mithraic 	# MMETR, adopted by Cilician pirates after subjugation by Pompey
 capital = "Zephyrium"
 trade_goods = naval_supplies
 hre = no

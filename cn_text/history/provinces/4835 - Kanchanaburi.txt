@@ -2,7 +2,7 @@
 owner = MNX
 controller = MNX
 culture = mon
-religion = mahayana
+religion = mahasamghika 	# MMETR, early Buddhism from Ashoka's missionaries
 capital = "Kanchanaburi"
 trade_goods = ivory
 hre = no
@@ -28,6 +28,9 @@ add_core = MNX
   add_core = DVA
   remove_core = FUN
 }
+400.1.1 = {
+  religion = mahayana
+} 	# MMETR
 550.1.1 = {
   religion = mahayana
 }

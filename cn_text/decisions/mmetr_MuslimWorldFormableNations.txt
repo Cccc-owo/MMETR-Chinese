@@ -286,7 +286,7 @@ country_decisions = { 	# Sultanate of Italy / Italiya
   almohad_caliphate_formable_nation = {
     major = yes
     potential = {
-      dynasty = "Fzæt^·V" 	# Almohad 	# for any of the Saudi dynasty
+      dynasty = "Fzæt^·V" 	# Almohad 	# for any of the Almohad dynasty
       OR = {
         tag = MOR
         was_tag = MOR

@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 graphical_culture = muslimgfx
-color = { 131 175 103 }
+color = { 34 99 98 }
 historical_idea_groups = {
   early_adm_ideas
   early_mil_ideas
