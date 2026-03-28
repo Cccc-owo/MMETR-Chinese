@@ -50,16 +50,26 @@ add_core = CAP
   base_tax = 3
   base_production = 3
 }
+680.1.1 = {
+  religion = paulician
+} 	# MMETR
 700.1.1 = {
   base_manpower = 3
 }
+715.1.1 = {
+  religion = iconoclast
+} 	# Iconoclasm begins locally
 800.1.1 = {
   base_tax = 4
   base_production = 4
 }
-867.1.1 = {
+#867.1.1 = { religion = orthodox }
+800.1.1 = {
+  religion = paulician
+} 	# Icons restored
+930.1.1 = {
   religion = orthodox
-}
+} 	# MMETR
 900.1.1 = {
   base_manpower = 4
 }

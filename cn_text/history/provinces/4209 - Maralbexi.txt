@@ -20,8 +20,8 @@ base_manpower = 1
 is_city = yes
 add_core = KAS
 200.1.1 = {
-  religion = mahayana
-}
+  religion = dharmaguptaka
+} 	# MMETR
 440.1.1 = {
   owner = HEP
   controller = HEP

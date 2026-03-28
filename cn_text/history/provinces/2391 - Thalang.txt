@@ -59,11 +59,8 @@ base_manpower = 1
 1405.1.1 = {
   discovered_by = MNG
 }
-1509.1.1 = {
+1535.1.1 = {
   discovered_by = POR
-}
-1521.1.1 = {
-  discovered_by = SPA
 }
 1570.1.1 = {
   owner = AYU
@@ -76,17 +73,22 @@ base_manpower = 1
 1768.1.1 = {
   remove_core = AYU
 }
-1769.1.1 = { 	# conquered by Phraya Taksin of Thonburi
+1769.1.1 = {
   owner = THB
   controller = THB
-  remove_core = LIG
 }
-1782.4.6 = {
+1770.1.1 = {
+  owner = LIG
+  controller = LIG
+  add_core = LIG
+  remove_core = THB
+} 	# added, Ligor is given tributary status once more under Nara Suriwong and then Nakhon Nu
+1784.1.1 = {
   owner = RTN
   controller = RTN
   add_core = RTN
-  remove_core = THB
-} 	# Taksin overthrown by Rattanakosin
+  remove_core = LIG
+} 	# changed, Nu is sacked in 1784 and Ligor is made a province
 1809.1.1 = {
   add_core = TAU
 }

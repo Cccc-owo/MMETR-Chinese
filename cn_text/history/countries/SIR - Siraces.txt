@@ -1,6 +1,7 @@
 government = tribal
 add_government_reform = steppe_horde
-primary_culture = circassian
+primary_culture = sarmatian 	# MMETR
+add_accepted_culture = circassian 	# Circassian made an accepted culture instead for early starts
 religion = heptadic 	# New MMETR religion
 technology_group = western_nomad_group
 capital = 2195
@@ -33,6 +34,8 @@ capital = 2195
     dip = 3
     mil = 4
   }
+  remove_accepted_culture = circassian
+  primary_culture = circassian 	# kingdom of Zichia
 }
 200.1.1 = {
   monarch = {

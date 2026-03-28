@@ -74,7 +74,9 @@ add_province_triggered_modifier = promised_land_modifier
 135.1.1 = {
   revolt = {}
   controller = ROM
-}
+  culture = aramaic
+  religion = hellenism
+} 	# added MMETR culture change, Jews dispersed by Hadrian
 136.1.1 = {} 	#  Temple to Venus built
 138.1.1 = {
   unrest = 4
@@ -85,14 +87,12 @@ add_province_triggered_modifier = promised_land_modifier
   controller = PLM
   owner = PLM
   add_core = PLM
-  culture = aramaic
 }
 273.3.1 = {
   controller = ROM
   owner = ROM
   add_core = ROM
   remove_core = PLM
-  culture = israeli
 }
 313.1.1 = {
   unrest = 0

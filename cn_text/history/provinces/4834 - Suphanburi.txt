@@ -2,7 +2,7 @@
 owner = MNX
 controller = MNX
 culture = mon
-religion = mahayana
+religion = mahasamghika 	# MMETR, early Buddhism from Ashoka's missionaries
 capital = "U Thong"
 trade_goods = grain
 hre = no

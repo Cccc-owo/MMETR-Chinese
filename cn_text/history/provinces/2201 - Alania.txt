@@ -1,9 +1,9 @@
 #463 - Alania
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = GL1 	# MMETR Gelae
+controller = GL1
+add_core = GL1
 is_city = yes
-culture = alan
+culture = scythian 	# MMETR, last Scythian provinces
 religion = heptadic 	# New MMETR religion; in this province it lasts all the way until Christianization!
 capital = "Maghas"
 trade_goods = wool
@@ -19,6 +19,13 @@ discovered_by = muslim
 base_tax = 1
 base_production = 1
 base_manpower = 1
+200.1.1 = {
+  owner = ALN
+  controller = ALN
+  add_core = ALN
+  remove_core = GL1
+  culture = alan
+} 	# MMETR
 932.1.1 = {
   religion = orthodox
 }

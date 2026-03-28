@@ -1,5 +1,5 @@
 #2292 - Kizil-Su
-culture = turkmeni
+culture = dahaean 	# MMETR Dahae
 religion = mithraic 	# New MMETR
 capital = "Kizil-Su"
 trade_goods = fish
@@ -16,15 +16,26 @@ discovered_by = muslim
 base_tax = 1
 base_production = 1
 base_manpower = 1
+owner = DHE
+controller = DHE 	# MMETR tag Dahia
+add_core = DHE
 349.1.1 = {
-  religion = zoroastrian
+  religion = heptadic
 } 	# New MMETR, heresies punished by Shapur II and Avesta codified by high priest Adurbad-i Mahraspand
+593.1.1 = {
+  owner = XXX
+  controller = XXX
+  remove_core = DHE
+} 	# MMETR
 750.1.1 = {
   owner = OGH
   controller = OGH
   add_core = OGH
   is_city = yes
-}
+  religion = tengri_pagan_reformed
+  culture = turkmeni
+  remove_core = DHE
+} 	# MMETR added Tengri
 920.1.1 = {
   religion = sunni
 }

@@ -1,0 +1,83 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = khitan
+religion = tengri_pagan_reformed
+technology_group = eastern_nomad_group
+capital = 4672
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+#MMETR added Wuhuan rulers
+180.1.1 = {
+  monarch = {
+    name = "Qiuliju" 	# King Qiuliju 
+    dynasty = "Wuhuan"
+    birth_date = 144.1.1
+    death_date = 195.1.1
+    adm = 2
+    dip = 4 	# close allies in marriage with Yuan Shao, reached height of power and considered best the cavalry in China under his rule
+    mil = 5 	# wiped out 60% of Gongsun Zan's army in a counterattack, according to kongming.net
+  }
+  heir = {
+    name = "Louban"
+    monarch_name = "Louban"
+    dynasty = "Wuhuan"
+    birth_date = 185.1.1
+    death_date = 207.10.1
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+}
+195.1.1 = {
+  monarch = {
+    name = "Tadun" 	# made chieftain since Louban was too young, Louban instead fought alongside Tadun at White Wolf Mountain
+    dynasty = "Wuhuan"
+    birth_date = 160.1.1
+    death_date = 207.10.1 	# Battle of White Wolf Mountain
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+}
+207.10.1 = {
+  monarch = {
+    name = "Pufulu" 	# made acting Chanyu under Cao Cao, but rebelled in 218 and was quelled by Cao Zhang
+    dynasty = "Wuhuan"
+    birth_date = 165.1.1
+    death_date = 220.1.1
+    adm = 2
+    dip = 2
+    mil = 4
+  }
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+750.1.1 = {
+  technology_group = nomad_group
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}

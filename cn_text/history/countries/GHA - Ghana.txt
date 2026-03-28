@@ -88,34 +88,6 @@ capital = 2246 	#  Koumbi Saleh
     mil = 1
   }
 }
-#Added, Sosso kings take over Ghana
-1076.1.1 = {
-  monarch = {
-    name = "Gumana Fade"
-    dynasty = "Diarisso"
-    adm = 3
-    dip = 3
-    mil = 4
-  }
-}
-1180.1.1 = {
-  monarch = {
-    name = "Diara Kante"
-    dynasty = "Diarisso"
-    adm = 3
-    dip = 3
-    mil = 4
-  }
-}
-1203.1.1 = {
-  monarch = {
-    name = "Soumaoro Kante"
-    dynasty = "Diarisso"
-    adm = 2
-    dip = 3
-    mil = 3
-  }
-}
 1270.1.1 = {
   add_government_reform = early_gov_reform_10
 }

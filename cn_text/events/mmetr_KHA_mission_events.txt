@@ -44,13 +44,14 @@ country_event = {
   option = {
     name = "mmetr_KHA_mission_events.3.a"
     capital_scope = {
+      add_base_tax = 1
       add_base_production = 1
     }
     define_advisor = {
       type = artist
       skill = 2
       culture = persian
-      religion = shiite
+      religion = sunni
       discount = yes
     }
   }
@@ -114,14 +115,29 @@ country_event = {
   is_triggered_only = yes
   option = {
     name = "mmetr_KHA_mission_events.7.a"
-    add_prestige = 5
+    add_prestige = 10
     define_advisor = {
       type = statesman
       name = "TXTXßu?–" 	# Tata-tunga
-      skill = 3
+      skill = 2
       culture = uyghur
       religion = tengri_pagan_reformed
       discount = yes
+    }
+    if = {
+      limit = {
+        capital_scope = {
+          NOT = {
+            writing = 100
+          }
+        }
+      }
+      capital_scope = {
+        add_institution_embracement = {
+          which = writing
+          value = 100
+        }
+      }
     }
   }
 }
@@ -130,7 +146,7 @@ country_event = {
   id = mmetr_KHA_mission_events.8
   title = "mmetr_KHA_mission_events.8.t"
   desc = "mmetr_KHA_mission_events.8.desc"
-  picture = SIEGE_eventPicture
+  picture = MMETR_CHINESE_COURT_eventPicture
   is_triggered_only = yes
   option = {
     name = "mmetr_KHA_mission_events.8.a"
@@ -178,7 +194,7 @@ country_event = {
   option = {
     name = "mmetr_KHA_mission_events.10.a"
     custom_tooltip = mmetr_KHA_mission_events.10.tt
-    add_years_of_income = 0.5
+    add_years_of_income = 0.75
   }
 }
 # The Eradication of the Western Xia
@@ -411,7 +427,7 @@ country_event = {
     name = "mmetr_KHA_mission_events.22.a"
     custom_tooltip = kha_et_establish_the_yam_mission.tt
     hidden_effect = {
-      set_country_flag = enables_estate_burghers_flag
+      set_country_flag = mmetr_enable_burghers_estate_flag
     }
     add_country_modifier = {
       name = "kha_et_yam"

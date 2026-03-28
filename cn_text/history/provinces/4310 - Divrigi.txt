@@ -55,9 +55,13 @@ add_core = CAP
 626.1.1 = {
   controller = BYZ
 }
-867.1.1 = {
+680.1.1 = {
+  religion = paulician
+} 	# MMETR
+#867.1.1 = { religion = orthodox }
+930.1.1 = {
   religion = orthodox
-}
+} 	# MMETR
 1071.8.26 = {
   owner = DIV
   controller = DIV

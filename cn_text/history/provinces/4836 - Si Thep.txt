@@ -2,7 +2,7 @@
 owner = KUY
 controller = KUY
 culture = khmer
-religion = animism
+religion = sasanea_yang
 capital = "Si Thep"
 trade_goods = grain
 hre = no

@@ -23,6 +23,9 @@ center_of_trade = 2
 240.1.1 = {
   religion = chalcedonism
 }
+311.1.1 = {
+  religion = donatist
+} 	# MMETR
 395.1.17 = {
   controller = ROW
   owner = ROW
@@ -34,7 +37,6 @@ center_of_trade = 2
   controller = VAN
   add_core = VAN
   remove_core = ROW
-  religion = arianism
 }
 533.10.15 = {
   controller = BYZ
@@ -44,9 +46,7 @@ center_of_trade = 2
   owner = BYZ
   remove_core = VAN
 }
-540.1.1 = {
-  religion = chalcedonism
-}
+#540.1.1 = { religion = chalcedonism }
 698.1.1 = {
   owner = UMA
   controller = UMA

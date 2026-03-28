@@ -123,10 +123,10 @@ add_historical_friend = HNZ 	# Hanzhong, removed by on_action startup in 194 onw
 880.1.1 = {
   add_government_reform = early_gov_reform_7
 }
-907.6.1 = {
+885.1.1 = {
   monarch = {
-    name = "ú^" 	# Jian
-    dynasty = "¿‹s" 	# Wang
+    name = "Jian"
+    dynasty = "Wang"
     birth_date = 847.1.1
     adm = 4
     dip = 1
@@ -135,9 +135,9 @@ add_historical_friend = HNZ 	# Hanzhong, removed by on_action startup in 194 onw
 }
 907.6.1 = {
   heir = {
-    name = "Mˆ" 	# Yan
-    monarch_name = "Mˆ" 	# Yan
-    dynasty = "¿‹s" 	# Wang
+    name = "Yan"
+    monarch_name = "Yan"
+    dynasty = "Wang"
     birth_date = 899.1.1
     death_date = 926.1.1
     claim = 95

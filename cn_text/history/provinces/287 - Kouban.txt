@@ -51,11 +51,19 @@ capital = "Kouban"
   add_core = BUL
   remove_core = UTI
 }
-720.1.1 = {
+668.1.1 = {
+  owner = ONG
+  controller = ONG
+  add_core = ONG
+  remove_core = BUL
+} 	# Fall of Old Bulgaria
+690.1.1 = {
   owner = KHZ
   controller = KHZ
   add_core = KHZ
-  remove_core = BUL
+} 	# Death of Batbayan
+740.1.1 = {
+  remove_core = ONG
 }
 800.1.1 = {
   base_tax = 2

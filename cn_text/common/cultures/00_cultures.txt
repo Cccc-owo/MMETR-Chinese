@@ -4115,7 +4115,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -4151,7 +4151,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -4219,7 +4219,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -4241,19 +4241,19 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
-      ^orfinn
+      Þorfinn
       Torfinn
-      ^orbrandr
+      Þorbrandr
       Torbrand
-      ^ordr
+      Þordr
       Tord
-      ^orgil
+      Þorgil
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -4343,7 +4343,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -4354,7 +4354,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -4379,11 +4379,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -5399,7 +5399,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -5435,7 +5435,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -5503,7 +5503,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -5525,15 +5525,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -5623,7 +5623,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -5634,7 +5634,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -5659,11 +5659,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -5756,7 +5756,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -5792,7 +5792,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -5860,7 +5860,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -5882,15 +5882,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -5980,7 +5980,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -5991,7 +5991,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -6016,11 +6016,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -6113,7 +6113,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -6149,7 +6149,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -6217,7 +6217,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -6239,15 +6239,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -6337,7 +6337,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -6348,7 +6348,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -6373,11 +6373,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -6470,7 +6470,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -6506,7 +6506,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -6574,7 +6574,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -6596,15 +6596,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -6694,7 +6694,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -6705,7 +6705,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -6730,11 +6730,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -6827,7 +6827,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -6863,7 +6863,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -6931,7 +6931,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -6953,15 +6953,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -7051,7 +7051,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -7062,7 +7062,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -7087,11 +7087,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -7184,7 +7184,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -7220,7 +7220,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -7288,7 +7288,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -7310,15 +7310,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -7408,7 +7408,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -7419,7 +7419,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -7444,11 +7444,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -7541,7 +7541,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -7577,7 +7577,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -7645,7 +7645,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -7667,15 +7667,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -7765,7 +7765,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -7776,7 +7776,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -7801,11 +7801,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -7898,7 +7898,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -7934,7 +7934,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -8002,7 +8002,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -8024,15 +8024,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -8122,7 +8122,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -8133,7 +8133,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -8158,11 +8158,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -8255,7 +8255,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -8291,7 +8291,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -8359,7 +8359,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -8381,15 +8381,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -8479,7 +8479,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -8490,7 +8490,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -8515,11 +8515,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -8612,7 +8612,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -8648,7 +8648,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -8716,7 +8716,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -8738,15 +8738,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -8836,7 +8836,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -8847,7 +8847,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -8872,11 +8872,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -8969,7 +8969,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -9005,7 +9005,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -9073,7 +9073,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -9095,15 +9095,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -9193,7 +9193,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -9204,7 +9204,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -9229,11 +9229,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -9326,7 +9326,7 @@ scandinavian = { 	# Nordic
       Botulfr
       Bragi
       Brage
-      Buli
+      Buðli
       Dag
       Dan
       Dyre
@@ -9362,7 +9362,7 @@ scandinavian = { 	# Nordic
       Grimr
       Grim
       Godfrey
-      Gumundr
+      Guðmundr
       Gudmund
       Gudröd
       Gunnarr
@@ -9430,7 +9430,7 @@ scandinavian = { 	# Nordic
       Snorri
       Sigbjörn
       Sigtrygg
-      Sigurr
+      Sigurðr
       Sigurd
       Starkad
       Steinn
@@ -9452,15 +9452,15 @@ scandinavian = { 	# Nordic
       Tjudmund
       Toke
       Tolir
-      ^orbjörn
+      Þorbjörn
       Torbjörn
       Torfinn
       Torbrand
       Tord
       Torkel
-      ^orsteinn
+      Þorsteinn
       Torsten
-      ^orolfr
+      Þorolfr
       Thorolf
       Toste
       Totil
@@ -9550,7 +9550,7 @@ scandinavian = { 	# Nordic
       Ingfrid
       Ingibjörg
       Ingeborg
-      Ingjerr
+      Ingjerðr
       Ingegerd
       Ingrid
       Karin
@@ -9561,7 +9561,7 @@ scandinavian = { 	# Nordic
       Christina
       Linda
       Maer
-      Malmfri
+      Malmfrið
       Malmfrid
       Margareta
       Margaret
@@ -9586,11 +9586,11 @@ scandinavian = { 	# Nordic
       Vigdis
       Ylva
       Yrsa
-      ^ora
+      Þora
       Thora
-      ^ordis
+      Þordis
       Thordis
-      ^yra
+      Þyra
       Thyra
     }
     dynasty_names = {
@@ -27279,7 +27279,7 @@ south_slavic = {
       Mirna
       Mojca
       Natalija
-      Nata`a
+      NataŠa
       Rijeka
       Silvija
       Snjezana
@@ -27315,14 +27315,14 @@ south_slavic = {
       "Draskovic"
       "Bebek"
       "Svetoslavic"
-      "Kreaimirovic"
+      "Krešimirovic"
       "Domagojevic"
-      "Featetic"
+      "Feštetic"
       "Gorjanski"
       "Svacic"
       "Kobilic"
       "Lackovic"
-      "`ubic"
+      "Šubic"
       "Berislavic"
       "Nepilic"
       "Jalacic"
@@ -27855,7 +27855,7 @@ south_slavic = {
     male_names = {
       Ivan
       Pavel
-      Nebojaa
+      Nebojša
       Slavisa
       Mario
       Dusan
@@ -27880,7 +27880,7 @@ south_slavic = {
       Nikola
       Matej
       Radomir
-      Saao
+      Sašo
       Boris
       Bojan
       Mihailo
@@ -27898,7 +27898,7 @@ south_slavic = {
       Milivoj
       Aleksandar
       Mladen
-      Vukaain
+      Vukašin
       Czeslaw
       Zoran
       Predrag
@@ -27915,7 +27915,7 @@ south_slavic = {
     }
     female_names = {
       Sandra
-      Sneýÿana
+      Snežana
       Ana
       Branka
       Elena
@@ -27932,7 +27932,7 @@ south_slavic = {
       Mira
       Dubravka
       Nikola
-      Saaka
+      Saška
       Milena
       Aleksandra
       Slavena
@@ -30276,7 +30276,7 @@ west_slavic = {
   czech = {
     primary = BOH
     dynasty_names = {
-      "Jankovsk1 z Vlaaimi"
+      "Jankovský z Vlašimi"
       Chotek
       Lichnowsky
       Lobkowicz
@@ -30307,7 +30307,7 @@ west_slavic = {
       Petr
       Viktorín
       Jan
-      Matyáa
+      Matyáš
       Ferdinand
       Vratislav
       Boleslav
@@ -30912,7 +30912,7 @@ west_slavic = {
       Václav
       Karel
       Josef
-      Matyáa
+      Matyáš
       Ferdinand
       Vratislav
       Boleslav
@@ -31859,7 +31859,7 @@ west_slavic = {
     Lubomirski
     Premyslid
     Podebrad 	#  CKII
-    "Jankovsk1 z Vlaaimi"
+    "Jankovský z Vlašimi"
     Chotek
     Lichnowsky
     "Kounic"
@@ -33875,7 +33875,7 @@ baltic = {
       Amalija
       Audra
       Aurelija
-      Auara
+      Aušra
       Austeja
       Barbora
       Daina
@@ -33887,7 +33887,7 @@ baltic = {
       Edita
       Egle
       Elena
-      Elýÿbieta
+      Elžbieta
       Elze
       Emilija
       Ernesta
@@ -33929,7 +33929,7 @@ baltic = {
       Rasa
       Regina
       Rozalija
-      Roýÿe
+      Rože
       Ruta
       Sandra
       Saule
@@ -34194,7 +34194,7 @@ baltic = {
       Amalija
       Audra
       Aurelija
-      Auara
+      Aušra
       Austeja
       Barbora
       Daina
@@ -34206,7 +34206,7 @@ baltic = {
       Edita
       Egle
       Elena
-      Elýÿbieta
+      Elžbieta
       Elze
       Emilija
       Ernesta
@@ -34248,7 +34248,7 @@ baltic = {
       Rasa
       Regina
       Rozalija
-      Roýÿe
+      Rože
       Ruta
       Sandra
       Saule
@@ -43464,11 +43464,11 @@ turko_semitic = {
     Danyal
     Daniel
     Dawlat
-    Daoud
+    Da’oud
     Ezra
     Farhan
     Firuz
-    Gabriel
+    Gabri’el
     Gabriel
     Georgios
     George
@@ -45849,16 +45849,16 @@ iranian = {
       Jahandar
       Cehangir
       Jahangir
-      Cehanaah
+      Cehanšah
       Jahanshah
-      Cemaîd
+      Cemšîd
       Jamshid
       Cevid
       Javeed
-      Danûa
+      Danûš
       Danush
       Darab
-      Daryûa
+      Daryûš
       Darius
       Davud
       David
@@ -45866,7 +45866,7 @@ iranian = {
       Abraham
       Efrasiyab
       Afrasiyab
-      Efaer
+      Efšer
       Afshar
       Ehmed
       Ahmad
@@ -45875,19 +45875,19 @@ iranian = {
       Akbar
       Elî
       Ali
-      Enûairwan
+      Enûširwan
       Anushirvan
       Erdehan
       Ardahan
       Erdewan
       Ardavan
-      Erdeaîr
+      Erdešîr
       Ardeshir
       Esfendiyar
       Esfandiar
       Eskander
       Alexander
-      Eaot
+      Ešot
       Ashot
       Eyyub
       Ayyub
@@ -45923,7 +45923,7 @@ iranian = {
       Ghobad
       Gholam
       Godarz
-      Goatasp
+      Goštasp
       Goshtasb
       Hezarhesp
       Hazarasp
@@ -45948,7 +45948,7 @@ iranian = {
       Keykhosrau
       Kâvus
       Kavoos
-      Kûruaê
+      Kûrušê
       Cyrus
       Mamlan
       Muhammad
@@ -45961,7 +45961,7 @@ iranian = {
       Mansur
       Menûçihr
       Manuchihr
-      Menûaihr
+      Menûšihr
       Manushihr
       Merwan
       Marwan
@@ -45987,13 +45987,13 @@ iranian = {
       Nesr
       Nasr
       Nezam
-      Noaîrwan
+      Nošîrwan
       Nawshirwan
       Nêçîrvan
       Nechirwan
       Parviz
       Pujman
-      Pêaeng
+      Pêšeng
       Pashang
       Pîroz
       Peroz
@@ -46015,19 +46015,19 @@ iranian = {
       Vahusdan
       Wahustan
       Vali
-      Varaasp
+      Varšasp
       Varshasb
-      Vîatap
+      Vîštap
       Vishtasb
       Xarmandar
       Kharmandar
-      Xaaayar
+      Xašayar
       Khashayar
-      Xuraîd
+      Xuršîd
       Khurshid
       Xusrew
       Khosrau
-      Xuayar
+      Xušyar
       Hooshyar
       Xwedadad
       Khodadad
@@ -46039,36 +46039,36 @@ iranian = {
       Zahak
       Zakaria
       Zand
-      Zerdeat
+      Zerdešt
       Zartosht
       Zia
-      `adî
+      Šadî
       Shadhi
-      `ahab
+      Šahab
       Shahab
-      `ahbaz
+      Šahbaz
       Shahbaz
-      `ahenaah
+      Šahenšah
       Shahanshah
-      `ahin
+      Šahin
       Shahin
-      `ahram
+      Šahram
       Shahram
-      `ahryar
+      Šahryar
       Shahryar
-      `ahrux
+      Šahrux
       Shahrokh
-      `ahruz
+      Šahruz
       Shahruz
-      `apur
+      Šapur
       Shapur
-      `arvin
+      Šarvin
       Sharwin
-      `awur
+      Šawur
       Shavur
-      `ayan
+      Šayan
       Shayan
-      `îrkûh
+      Šîrkûh
       Shirkuh
     }
     female_names = {
@@ -46088,10 +46088,10 @@ iranian = {
       Avan
       Azadî
       Azrîn
-      Aatî
+      Aštî
       Badil
       Bahar
-      Balnexaîn
+      Balnexšîn
       Banê
       Barîn
       Bawan
@@ -46110,7 +46110,7 @@ iranian = {
       Berdil
       Bersîn
       Berîcan
-      Bexaîn
+      Bexšîn
       Beyan
       Beybîn
       Beybûn
@@ -46120,11 +46120,11 @@ iranian = {
       Bilêse
       Binar
       Binav
-      Binefa
-      Bineva
+      Binefš
+      Binevš
       Biyan
-      Biakoj
-      Biakurîn
+      Biškoj
+      Biškurîn
       Bohar
       Bênaz
       Bêrîcan
@@ -46148,8 +46148,8 @@ iranian = {
       Dilkanî
       Dilnaz
       Dilvîn
-      Dilxoa
-      Dilxwea
+      Dilxoš
+      Dilxweš
       Diyarî
       Doman
       Dêrsim
@@ -46160,11 +46160,11 @@ iranian = {
       Estêre
       Evîn
       Ewrîn
-      Eyaan
+      Eyšan
       Ezcan
       Felek
       Fener
-      Feraaîn
+      Ferašîn
       Firmêsk
       Fîdan
       Gazî
@@ -46176,7 +46176,7 @@ iranian = {
       Guhtem
       Gulbehar
       Golbahar
-      Gulaen
+      Gulšen
       Gulnar
       Gulnaz
       Golnaz
@@ -46204,7 +46204,7 @@ iranian = {
       Lêvken
       Lîlyan
       Lîza
-      Maaa
+      Maša
       Mebest
       Mehrîban
       Mehrîcan
@@ -46226,7 +46226,7 @@ iranian = {
       Narîman
       Narîncan
       Navbihar
-      Nawxoa
+      Nawxoš
       Naz
       Nazdar
       Nazenîn
@@ -46239,9 +46239,9 @@ iranian = {
       Nermîn
       Nesrîn
       Newbohar
-      Nexaîn
-      Neamîl
-      Neamîn
+      Nexšîn
+      Nešmîl
+      Nešmîn
       Norcan
       Nêrgiz
       Nêrîn
@@ -46249,8 +46249,8 @@ iranian = {
       Nîdar
       Nîgar
       Nîroj
-      Nîaan
-      Nîatîman
+      Nîšan
+      Nîštîman
       Perjîn
       Pervîn
       Perwane
@@ -46261,21 +46261,21 @@ iranian = {
       Perîgul
       Perînaz
       Perîxan
-      Perîaan
-      Pexaan
+      Perîšan
+      Pexšan
       Peyman
       Pirjîn
-      Piraeng
-      Piraing
+      Piršeng
+      Piršing
       Pore
-      Poraeng
+      Poršeng
       Pêlîn
       Pîroz
-      Pîaeng
+      Pîšeng
       Rana
       Rengîn
-      Rewaa
-      Rewaen
+      Rewša
+      Rewšen
       Rihan
       Rindê
       Rojhelat
@@ -46288,7 +46288,7 @@ iranian = {
       Rîhan
       Rîken
       Rûciwan
-      Rûgea
+      Rûgeš
       Rûken
       Rûzerîn
       Sarê
@@ -46303,7 +46303,7 @@ iranian = {
       Xêlîcan
       Xonçe
       Ghoncheh
-      Zernîaan
+      Zernîšan
       Zerya
       Zerê
       Zerî
@@ -46317,22 +46317,22 @@ iranian = {
       Zîlan
       Zînet
       Zînê
-      `ana
-      `anaz
-      `ayan
-      `ehrîban
-      `elal
-      `emam
-      `engê
-      `epal
-      `epirze
-      `ermîn
-      `evba
-      `evîn
-      `êlaz
-      `îlan
-      `înî
-      `îwen
+      Šana
+      Šanaz
+      Šayan
+      Šehrîban
+      Šelal
+      Šemam
+      Šengê
+      Šepal
+      Šepirze
+      Šermîn
+      Ševba
+      Ševîn
+      Šêlaz
+      Šîlan
+      Šînî
+      Šîwen
       Atiya
     }
   }
@@ -46402,16 +46402,16 @@ iranian = {
       Jahandar
       Cehangir
       Jahangir
-      Cehanaah
+      Cehanšah
       Jahanshah
-      Cemaîd
+      Cemšîd
       Jamshid
       Cevid
       Javeed
-      Danûa
+      Danûš
       Danush
       Darab
-      Daryûa
+      Daryûš
       Darius
       Davud
       David
@@ -46419,7 +46419,7 @@ iranian = {
       Abraham
       Efrasiyab
       Afrasiyab
-      Efaer
+      Efšer
       Afshar
       Ehmed
       Ahmad
@@ -46428,19 +46428,19 @@ iranian = {
       Akbar
       Elî
       Ali
-      Enûairwan
+      Enûširwan
       Anushirvan
       Erdehan
       Ardahan
       Erdewan
       Ardavan
-      Erdeaîr
+      Erdešîr
       Ardeshir
       Esfendiyar
       Esfandiar
       Eskander
       Alexander
-      Eaot
+      Ešot
       Ashot
       Eyyub
       Ayyub
@@ -46476,7 +46476,7 @@ iranian = {
       Ghobad
       Gholam
       Godarz
-      Goatasp
+      Goštasp
       Goshtasb
       Hezarhesp
       Hazarasp
@@ -46501,7 +46501,7 @@ iranian = {
       Keykhosrau
       Kâvus
       Kavoos
-      Kûruaê
+      Kûrušê
       Cyrus
       Mamlan
       Muhammad
@@ -46514,7 +46514,7 @@ iranian = {
       Mansur
       Menûçihr
       Manuchihr
-      Menûaihr
+      Menûšihr
       Manushihr
       Merwan
       Marwan
@@ -46540,13 +46540,13 @@ iranian = {
       Nesr
       Nasr
       Nezam
-      Noaîrwan
+      Nošîrwan
       Nawshirwan
       Nêçîrvan
       Nechirwan
       Parviz
       Pujman
-      Pêaeng
+      Pêšeng
       Pashang
       Pîroz
       Peroz
@@ -46568,19 +46568,19 @@ iranian = {
       Vahusdan
       Wahustan
       Vali
-      Varaasp
+      Varšasp
       Varshasb
-      Vîatap
+      Vîštap
       Vishtasb
       Xarmandar
       Kharmandar
-      Xaaayar
+      Xašayar
       Khashayar
-      Xuraîd
+      Xuršîd
       Khurshid
       Xusrew
       Khosrau
-      Xuayar
+      Xušyar
       Hooshyar
       Xwedadad
       Khodadad
@@ -46592,36 +46592,36 @@ iranian = {
       Zahak
       Zakaria
       Zand
-      Zerdeat
+      Zerdešt
       Zartosht
       Zia
-      `adî
+      Šadî
       Shadhi
-      `ahab
+      Šahab
       Shahab
-      `ahbaz
+      Šahbaz
       Shahbaz
-      `ahenaah
+      Šahenšah
       Shahanshah
-      `ahin
+      Šahin
       Shahin
-      `ahram
+      Šahram
       Shahram
-      `ahryar
+      Šahryar
       Shahryar
-      `ahrux
+      Šahrux
       Shahrokh
-      `ahruz
+      Šahruz
       Shahruz
-      `apur
+      Šapur
       Shapur
-      `arvin
+      Šarvin
       Sharwin
-      `awur
+      Šawur
       Shavur
-      `ayan
+      Šayan
       Shayan
-      `îrkûh
+      Šîrkûh
       Shirkuh
     }
     female_names = {
@@ -46641,10 +46641,10 @@ iranian = {
       Avan
       Azadî
       Azrîn
-      Aatî
+      Aštî
       Badil
       Bahar
-      Balnexaîn
+      Balnexšîn
       Banê
       Barîn
       Bawan
@@ -46663,7 +46663,7 @@ iranian = {
       Berdil
       Bersîn
       Berîcan
-      Bexaîn
+      Bexšîn
       Beyan
       Beybîn
       Beybûn
@@ -46673,11 +46673,11 @@ iranian = {
       Bilêse
       Binar
       Binav
-      Binefa
-      Bineva
+      Binefš
+      Binevš
       Biyan
-      Biakoj
-      Biakurîn
+      Biškoj
+      Biškurîn
       Bohar
       Bênaz
       Bêrîcan
@@ -46701,8 +46701,8 @@ iranian = {
       Dilkanî
       Dilnaz
       Dilvîn
-      Dilxoa
-      Dilxwea
+      Dilxoš
+      Dilxweš
       Diyarî
       Doman
       Dêrsim
@@ -46713,11 +46713,11 @@ iranian = {
       Estêre
       Evîn
       Ewrîn
-      Eyaan
+      Eyšan
       Ezcan
       Felek
       Fener
-      Feraaîn
+      Ferašîn
       Firmêsk
       Fîdan
       Gazî
@@ -46729,7 +46729,7 @@ iranian = {
       Guhtem
       Gulbehar
       Golbahar
-      Gulaen
+      Gulšen
       Gulnar
       Gulnaz
       Golnaz
@@ -46757,7 +46757,7 @@ iranian = {
       Lêvken
       Lîlyan
       Lîza
-      Maaa
+      Maša
       Mebest
       Mehrîban
       Mehrîcan
@@ -46779,7 +46779,7 @@ iranian = {
       Narîman
       Narîncan
       Navbihar
-      Nawxoa
+      Nawxoš
       Naz
       Nazdar
       Nazenîn
@@ -46792,9 +46792,9 @@ iranian = {
       Nermîn
       Nesrîn
       Newbohar
-      Nexaîn
-      Neamîl
-      Neamîn
+      Nexšîn
+      Nešmîl
+      Nešmîn
       Norcan
       Nêrgiz
       Nêrîn
@@ -46802,8 +46802,8 @@ iranian = {
       Nîdar
       Nîgar
       Nîroj
-      Nîaan
-      Nîatîman
+      Nîšan
+      Nîštîman
       Perjîn
       Pervîn
       Perwane
@@ -46814,21 +46814,21 @@ iranian = {
       Perîgul
       Perînaz
       Perîxan
-      Perîaan
-      Pexaan
+      Perîšan
+      Pexšan
       Peyman
       Pirjîn
-      Piraeng
-      Piraing
+      Piršeng
+      Piršing
       Pore
-      Poraeng
+      Poršeng
       Pêlîn
       Pîroz
-      Pîaeng
+      Pîšeng
       Rana
       Rengîn
-      Rewaa
-      Rewaen
+      Rewša
+      Rewšen
       Rihan
       Rindê
       Rojhelat
@@ -46841,7 +46841,7 @@ iranian = {
       Rîhan
       Rîken
       Rûciwan
-      Rûgea
+      Rûgeš
       Rûken
       Rûzerîn
       Sarê
@@ -46856,7 +46856,7 @@ iranian = {
       Xêlîcan
       Xonçe
       Ghoncheh
-      Zernîaan
+      Zernîšan
       Zerya
       Zerê
       Zerî
@@ -46870,22 +46870,22 @@ iranian = {
       Zîlan
       Zînet
       Zînê
-      `ana
-      `anaz
-      `ayan
-      `ehrîban
-      `elal
-      `emam
-      `engê
-      `epal
-      `epirze
-      `ermîn
-      `evba
-      `evîn
-      `êlaz
-      `îlan
-      `înî
-      `îwen
+      Šana
+      Šanaz
+      Šayan
+      Šehrîban
+      Šelal
+      Šemam
+      Šengê
+      Šepal
+      Šepirze
+      Šermîn
+      Ševba
+      Ševîn
+      Šêlaz
+      Šîlan
+      Šînî
+      Šîwen
       Atiya
     }
   }
@@ -47049,16 +47049,16 @@ iranian = {
       Jahandar
       Cehangir
       Jahangir
-      Cehanaah
+      Cehanšah
       Jahanshah
-      Cemaîd
+      Cemšîd
       Jamshid
       Cevid
       Javeed
-      Danûa
+      Danûš
       Danush
       Darab
-      Daryûa
+      Daryûš
       Darius
       Davud
       David
@@ -47066,7 +47066,7 @@ iranian = {
       Abraham
       Efrasiyab
       Afrasiyab
-      Efaer
+      Efšer
       Afshar
       Ehmed
       Ehsan
@@ -47074,19 +47074,19 @@ iranian = {
       Akbar
       Elî
       Ali
-      Enûairwan
+      Enûširwan
       Anushirvan
       Erdehan
       Ardahan
       Erdewan
       Ardavan
-      Erdeaîr
+      Erdešîr
       Ardeshir
       Esfendiyar
       Esfandiar
       Eskander
       Alexander
-      Eaot
+      Ešot
       Ashot
       Eyyub
       Ayyub
@@ -47122,7 +47122,7 @@ iranian = {
       Ghobad
       Gholam
       Godarz
-      Goatasp
+      Goštasp
       Goshtasb
       Hezarhesp
       Hazarasp
@@ -47146,7 +47146,7 @@ iranian = {
       Keykhosrau
       Kâvus
       Kavoos
-      Kûruaê
+      Kûrušê
       Cyrus
       Mamlan
       Mashad
@@ -47157,7 +47157,7 @@ iranian = {
       Mansur
       Menûçihr
       Manuchihr
-      Menûaihr
+      Menûšihr
       Manushihr
       Merwan
       Marwan
@@ -47182,13 +47182,13 @@ iranian = {
       Nesr
       Nasr
       Nezam
-      Noaîrwan
+      Nošîrwan
       Nawshirwan
       Nêçîrvan
       Nechirwan
       Parviz
       Pujman
-      Pêaeng
+      Pêšeng
       Pashang
       Pîroz
       Peroz
@@ -47210,19 +47210,19 @@ iranian = {
       Vahusdan
       Wahustan
       Vali
-      Varaasp
+      Varšasp
       Varshasb
-      Vîatap
+      Vîštap
       Vishtasb
       Xarmandar
       Kharmandar
-      Xaaayar
+      Xašayar
       Khashayar
-      Xuraîd
+      Xuršîd
       Khurshid
       Xusrew
       Khosrau
-      Xuayar
+      Xušyar
       Hooshyar
       Xwedadad
       Khodadad
@@ -47234,36 +47234,36 @@ iranian = {
       Zahak
       Zakaria
       Zand
-      Zerdeat
+      Zerdešt
       Zartosht
       Zia
-      `adî
+      Šadî
       Shadhi
-      `ahab
+      Šahab
       Shahab
-      `ahbaz
+      Šahbaz
       Shahbaz
-      `ahenaah
+      Šahenšah
       Shahanshah
-      `ahin
+      Šahin
       Shahin
-      `ahram
+      Šahram
       Shahram
-      `ahryar
+      Šahryar
       Shahryar
-      `ahrux
+      Šahrux
       Shahrokh
-      `ahruz
+      Šahruz
       Shahruz
-      `apur
+      Šapur
       Shapur
-      `arvin
+      Šarvin
       Sharwin
-      `awur
+      Šawur
       Shavur
-      `ayan
+      Šayan
       Shayan
-      `îrkûh
+      Šîrkûh
       Shirkuh
     }
     female_names = {
@@ -47283,10 +47283,10 @@ iranian = {
       Avan
       Azadî
       Azrîn
-      Aatî
+      Aštî
       Badil
       Bahar
-      Balnexaîn
+      Balnexšîn
       Banê
       Barîn
       Bawan
@@ -47305,7 +47305,7 @@ iranian = {
       Berdil
       Bersîn
       Berîcan
-      Bexaîn
+      Bexšîn
       Beyan
       Beybîn
       Beybûn
@@ -47315,11 +47315,11 @@ iranian = {
       Bilêse
       Binar
       Binav
-      Binefa
-      Bineva
+      Binefš
+      Binevš
       Biyan
-      Biakoj
-      Biakurîn
+      Biškoj
+      Biškurîn
       Bohar
       Bênaz
       Bêrîcan
@@ -47343,8 +47343,8 @@ iranian = {
       Dilkanî
       Dilnaz
       Dilvîn
-      Dilxoa
-      Dilxwea
+      Dilxoš
+      Dilxweš
       Diyarî
       Doman
       Dêrsim
@@ -47361,11 +47361,11 @@ iranian = {
       Estêre
       Evîn
       Ewrîn
-      Eyaan
+      Eyšan
       Ezcan
       Felek
       Fener
-      Feraaîn
+      Ferašîn
       Firmêsk
       Fîdan
       Gazî
@@ -47377,7 +47377,7 @@ iranian = {
       Guhtem
       Gulbehar
       Golbahar
-      Gulaen
+      Gulšen
       Gulnar
       Gulnaz
       Golnaz
@@ -47405,7 +47405,7 @@ iranian = {
       Lêvken
       Lîlyan
       Lîza
-      Maaa
+      Maša
       Mebest
       Mehrîban
       Mehrîcan
@@ -47427,7 +47427,7 @@ iranian = {
       Narîman
       Narîncan
       Navbihar
-      Nawxoa
+      Nawxoš
       Naz
       Nazdar
       Nazenîn
@@ -47440,9 +47440,9 @@ iranian = {
       Nermîn
       Nesrîn
       Newbohar
-      Nexaîn
-      Neamîl
-      Neamîn
+      Nexšîn
+      Nešmîl
+      Nešmîn
       Norcan
       Nêrgiz
       Nêrîn
@@ -47450,8 +47450,8 @@ iranian = {
       Nîdar
       Nîgar
       Nîroj
-      Nîaan
-      Nîatîman
+      Nîšan
+      Nîštîman
       Perjîn
       Pervîn
       Perwane
@@ -47462,21 +47462,21 @@ iranian = {
       Perîgul
       Perînaz
       Perîxan
-      Perîaan
-      Pexaan
+      Perîšan
+      Pexšan
       Peyman
       Pirjîn
-      Piraeng
-      Piraing
+      Piršeng
+      Piršing
       Pore
-      Poraeng
+      Poršeng
       Pêlîn
       Pîroz
-      Pîaeng
+      Pîšeng
       Rana
       Rengîn
-      Rewaa
-      Rewaen
+      Rewša
+      Rewšen
       Rihan
       Rindê
       Rojhelat
@@ -47489,7 +47489,7 @@ iranian = {
       Rîhan
       Rîken
       Rûciwan
-      Rûgea
+      Rûgeš
       Rûken
       Rûzerîn
       Sarê
@@ -47504,7 +47504,7 @@ iranian = {
       Xêlîcan
       Xonçe
       Ghoncheh
-      Zernîaan
+      Zernîšan
       Zerya
       Zerê
       Zerî
@@ -47518,22 +47518,22 @@ iranian = {
       Zîlan
       Zînet
       Zînê
-      `ana
-      `anaz
-      `ayan
-      `ehrîban
-      `elal
-      `emam
-      `engê
-      `epal
-      `epirze
-      `ermîn
-      `evba
-      `evîn
-      `êlaz
-      `îlan
-      `înî
-      `îwen
+      Šana
+      Šanaz
+      Šayan
+      Šehrîban
+      Šelal
+      Šemam
+      Šengê
+      Šepal
+      Šepirze
+      Šermîn
+      Ševba
+      Ševîn
+      Šêlaz
+      Šîlan
+      Šînî
+      Šîwen
     }
   }
   afghani = {
@@ -47563,16 +47563,16 @@ iranian = {
       Jahandar
       Cehangir
       Jahangir
-      Cehanaah
+      Cehanšah
       Jahanshah
-      Cemaîd
+      Cemšîd
       Jamshid
       Cevid
       Javeed
-      Danûa
+      Danûš
       Danush
       Darab
-      Daryûa
+      Daryûš
       Darius
       Davud
       David
@@ -47580,7 +47580,7 @@ iranian = {
       Abraham
       Efrasiyab
       Afrasiyab
-      Efaer
+      Efšer
       Afshar
       Ehmed
       Ahmad
@@ -47590,13 +47590,13 @@ iranian = {
       Akbar
       Elî
       Ali
-      Enûairwan
+      Enûširwan
       Anushirvan
       Erdehan
       Ardahan
       Erdewan
       Ardavan
-      Erdeaîr
+      Erdešîr
       Ardeshir
       Esfendiyar
       Esfandiar
@@ -47612,7 +47612,7 @@ iranian = {
       Shahpur
       Eskander
       Alexander
-      Eaot
+      Ešot
       Ashot
       Eyyub
       Ayyub
@@ -47647,7 +47647,7 @@ iranian = {
       Ghobad
       Gholam
       Godarz
-      Goatasp
+      Goštasp
       Goshtasb
       Hezarhesp
       Hazarasp
@@ -47671,7 +47671,7 @@ iranian = {
       Keykhosrau
       Kâvus
       Kavoos
-      Kûruaê
+      Kûrušê
       Cyrus
       Mamlan
       Mashad
@@ -47682,7 +47682,7 @@ iranian = {
       Mansur
       Menûçihr
       Manuchihr
-      Menûaihr
+      Menûšihr
       Manushihr
       Merwan
       Marwan
@@ -47709,13 +47709,13 @@ iranian = {
       Nesr
       Nasr
       Nezam
-      Noaîrwan
+      Nošîrwan
       Nawshirwan
       Nêçîrvan
       Nechirwan
       Parviz
       Pujman
-      Pêaeng
+      Pêšeng
       Pashang
       Pîroz
       Peroz
@@ -47737,19 +47737,19 @@ iranian = {
       Vahusdan
       Wahustan
       Vali
-      Varaasp
+      Varšasp
       Varshasb
-      Vîatap
+      Vîštap
       Vishtasb
       Xarmandar
       Kharmandar
-      Xaaayar
+      Xašayar
       Khashayar
-      Xuraîd
+      Xuršîd
       Khurshid
       Xusrew
       Khosrau
-      Xuayar
+      Xušyar
       Hooshyar
       Xwedadad
       Khodadad
@@ -47761,36 +47761,36 @@ iranian = {
       Zahak
       Zakaria
       Zand
-      Zerdeat
+      Zerdešt
       Zartosht
       Zia
-      `adî
+      Šadî
       Shadhi
-      `ahab
+      Šahab
       Shahab
-      `ahbaz
+      Šahbaz
       Shahbaz
-      `ahenaah
+      Šahenšah
       Shahanshah
-      `ahin
+      Šahin
       Shahin
-      `ahram
+      Šahram
       Shahram
-      `ahryar
+      Šahryar
       Shahryar
-      `ahrux
+      Šahrux
       Shahrokh
-      `ahruz
+      Šahruz
       Shahruz
-      `apur
+      Šapur
       Shapur
-      `arvin
+      Šarvin
       Sharwin
-      `awur
+      Šawur
       Shavur
-      `ayan
+      Šayan
       Shayan
-      `îrkûh
+      Šîrkûh
       Shirkuh
     }
     female_names = {
@@ -47810,10 +47810,10 @@ iranian = {
       Avan
       Azadî
       Azrîn
-      Aatî
+      Aštî
       Badil
       Bahar
-      Balnexaîn
+      Balnexšîn
       Banê
       Barîn
       Bawan
@@ -47832,7 +47832,7 @@ iranian = {
       Berdil
       Bersîn
       Berîcan
-      Bexaîn
+      Bexšîn
       Beyan
       Beybîn
       Beybûn
@@ -47842,11 +47842,11 @@ iranian = {
       Bilêse
       Binar
       Binav
-      Binefa
-      Bineva
+      Binefš
+      Binevš
       Biyan
-      Biakoj
-      Biakurîn
+      Biškoj
+      Biškurîn
       Bohar
       Bênaz
       Bêrîcan
@@ -47870,8 +47870,8 @@ iranian = {
       Dilkanî
       Dilnaz
       Dilvîn
-      Dilxoa
-      Dilxwea
+      Dilxoš
+      Dilxweš
       Diyarî
       Doman
       Dêrsim
@@ -47883,11 +47883,11 @@ iranian = {
       Estêre
       Evîn
       Ewrîn
-      Eyaan
+      Eyšan
       Ezcan
       Felek
       Fener
-      Feraaîn
+      Ferašîn
       Firmêsk
       Fîdan
       Gazî
@@ -47899,7 +47899,7 @@ iranian = {
       Guhtem
       Gulbehar
       Golbahar
-      Gulaen
+      Gulšen
       Gulnar
       Gulnaz
       Golnaz
@@ -47927,7 +47927,7 @@ iranian = {
       Lêvken
       Lîlyan
       Lîza
-      Maaa
+      Maša
       Mebest
       Mehrîban
       Mehrîcan
@@ -47949,7 +47949,7 @@ iranian = {
       Narîman
       Narîncan
       Navbihar
-      Nawxoa
+      Nawxoš
       Naz
       Nazdar
       Nazenîn
@@ -47962,9 +47962,9 @@ iranian = {
       Nermîn
       Nesrîn
       Newbohar
-      Nexaîn
-      Neamîl
-      Neamîn
+      Nexšîn
+      Nešmîl
+      Nešmîn
       Norcan
       Nêrgiz
       Nêrîn
@@ -47972,8 +47972,8 @@ iranian = {
       Nîdar
       Nîgar
       Nîroj
-      Nîaan
-      Nîatîman
+      Nîšan
+      Nîštîman
       Perjîn
       Pervîn
       Perwane
@@ -47984,21 +47984,21 @@ iranian = {
       Perîgul
       Perînaz
       Perîxan
-      Perîaan
-      Pexaan
+      Perîšan
+      Pexšan
       Peyman
       Pirjîn
-      Piraeng
-      Piraing
+      Piršeng
+      Piršing
       Pore
-      Poraeng
+      Poršeng
       Pêlîn
       Pîroz
-      Pîaeng
+      Pîšeng
       Rana
       Rengîn
-      Rewaa
-      Rewaen
+      Rewša
+      Rewšen
       Rihan
       Rindê
       Rojhelat
@@ -48011,7 +48011,7 @@ iranian = {
       Rîhan
       Rîken
       Rûciwan
-      Rûgea
+      Rûgeš
       Rûken
       Rûzerîn
       Sarê
@@ -48026,7 +48026,7 @@ iranian = {
       Xêlîcan
       Xonçe
       Ghoncheh
-      Zernîaan
+      Zernîšan
       Zerya
       Zerê
       Zerî
@@ -48040,22 +48040,22 @@ iranian = {
       Zîlan
       Zînet
       Zînê
-      `ana
-      `anaz
-      `ayan
-      `ehrîban
-      `elal
-      `emam
-      `engê
-      `epal
-      `epirze
-      `ermîn
-      `evba
-      `evîn
-      `êlaz
-      `îlan
-      `înî
-      `îwen
+      Šana
+      Šanaz
+      Šayan
+      Šehrîban
+      Šelal
+      Šemam
+      Šengê
+      Šepal
+      Šepirze
+      Šermîn
+      Ševba
+      Ševîn
+      Šêlaz
+      Šîlan
+      Šînî
+      Šîwen
     }
   }
   alan = {
@@ -48334,16 +48334,16 @@ iranian = {
       Jahandar
       Cehangir
       Jahangir
-      Cehanaah
+      Cehanšah
       Jahanshah
-      Cemaîd
+      Cemšîd
       Jamshid
       Cevid
       Javeed
-      Danûa
+      Danûš
       Danush
       Darab
-      Daryûa
+      Daryûš
       Darius
       Davud
       David
@@ -48351,7 +48351,7 @@ iranian = {
       Abraham
       Efrasiyab
       Afrasiyab
-      Efaer
+      Efšer
       Afshar
       Ehmed
       Ehsan
@@ -48359,19 +48359,19 @@ iranian = {
       Akbar
       Elî
       Ali
-      Enûairwan
+      Enûširwan
       Anushirvan
       Erdehan
       Ardahan
       Erdewan
       Ardavan
-      Erdeaîr
+      Erdešîr
       Ardeshir
       Esfendiyar
       Esfandiar
       Eskander
       Alexander
-      Eaot
+      Ešot
       Ashot
       Eyyub
       Ayyub
@@ -48407,7 +48407,7 @@ iranian = {
       Ghobad
       Gholam
       Godarz
-      Goatasp
+      Goštasp
       Goshtasb
       Hezarhesp
       Hazarasp
@@ -48432,7 +48432,7 @@ iranian = {
       Keykhosrau
       Kâvus
       Kavoos
-      Kûruaê
+      Kûrušê
       Cyrus
       Mamlan
       Muhammad
@@ -48445,7 +48445,7 @@ iranian = {
       Mansur
       Menûçihr
       Manuchihr
-      Menûaihr
+      Menûšihr
       Manushihr
       Merwan
       Marwan
@@ -48470,13 +48470,13 @@ iranian = {
       Nesr
       Nasr
       Nezam
-      Noaîrwan
+      Nošîrwan
       Nawshirwan
       Nêçîrvan
       Nechirwan
       Parviz
       Pujman
-      Pêaeng
+      Pêšeng
       Pashang
       Pîroz
       Peroz
@@ -48498,19 +48498,19 @@ iranian = {
       Vahusdan
       Wahustan
       Vali
-      Varaasp
+      Varšasp
       Varshasb
-      Vîatap
+      Vîštap
       Vishtasb
       Xarmandar
       Kharmandar
-      Xaaayar
+      Xašayar
       Khashayar
-      Xuraîd
+      Xuršîd
       Khurshid
       Xusrew
       Khosrau
-      Xuayar
+      Xušyar
       Hooshyar
       Xwedadad
       Khodadad
@@ -48522,36 +48522,36 @@ iranian = {
       Zahak
       Zakaria
       Zand
-      Zerdeat
+      Zerdešt
       Zartosht
       Zia
-      `adî
+      Šadî
       Shadhi
-      `ahab
+      Šahab
       Shahab
-      `ahbaz
+      Šahbaz
       Shahbaz
-      `ahenaah
+      Šahenšah
       Shahanshah
-      `ahin
+      Šahin
       Shahin
-      `ahram
+      Šahram
       Shahram
-      `ahryar
+      Šahryar
       Shahryar
-      `ahrux
+      Šahrux
       Shahrokh
-      `ahruz
+      Šahruz
       Shahruz
-      `apur
+      Šapur
       Shapur
-      `arvin
+      Šarvin
       Sharwin
-      `awur
+      Šawur
       Shavur
-      `ayan
+      Šayan
       Shayan
-      `îrkûh
+      Šîrkûh
       Shirkuh
     }
     female_names = {
@@ -48571,10 +48571,10 @@ iranian = {
       Avan
       Azadî
       Azrîn
-      Aatî
+      Aštî
       Badil
       Bahar
-      Balnexaîn
+      Balnexšîn
       Banê
       Barîn
       Bawan
@@ -48593,7 +48593,7 @@ iranian = {
       Berdil
       Bersîn
       Berîcan
-      Bexaîn
+      Bexšîn
       Beyan
       Beybîn
       Beybûn
@@ -48603,11 +48603,11 @@ iranian = {
       Bilêse
       Binar
       Binav
-      Binefa
-      Bineva
+      Binefš
+      Binevš
       Biyan
-      Biakoj
-      Biakurîn
+      Biškoj
+      Biškurîn
       Bohar
       Bênaz
       Bêrîcan
@@ -48631,8 +48631,8 @@ iranian = {
       Dilkanî
       Dilnaz
       Dilvîn
-      Dilxoa
-      Dilxwea
+      Dilxoš
+      Dilxweš
       Diyarî
       Doman
       Dêrsim
@@ -48643,11 +48643,11 @@ iranian = {
       Estêre
       Evîn
       Ewrîn
-      Eyaan
+      Eyšan
       Ezcan
       Felek
       Fener
-      Feraaîn
+      Ferašîn
       Firmêsk
       Fîdan
       Gazî
@@ -48659,7 +48659,7 @@ iranian = {
       Guhtem
       Gulbehar
       Golbahar
-      Gulaen
+      Gulšen
       Gulnar
       Gulnaz
       Golnaz
@@ -48687,7 +48687,7 @@ iranian = {
       Lêvken
       Lîlyan
       Lîza
-      Maaa
+      Maša
       Mebest
       Mehrîban
       Mehrîcan
@@ -48709,7 +48709,7 @@ iranian = {
       Narîman
       Narîncan
       Navbihar
-      Nawxoa
+      Nawxoš
       Naz
       Nazdar
       Nazenîn
@@ -48722,9 +48722,9 @@ iranian = {
       Nermîn
       Nesrîn
       Newbohar
-      Nexaîn
-      Neamîl
-      Neamîn
+      Nexšîn
+      Nešmîl
+      Nešmîn
       Norcan
       Nêrgiz
       Nêrîn
@@ -48732,8 +48732,8 @@ iranian = {
       Nîdar
       Nîgar
       Nîroj
-      Nîaan
-      Nîatîman
+      Nîšan
+      Nîštîman
       Perjîn
       Pervîn
       Perwane
@@ -48744,21 +48744,21 @@ iranian = {
       Perîgul
       Perînaz
       Perîxan
-      Perîaan
-      Pexaan
+      Perîšan
+      Pexšan
       Peyman
       Pirjîn
-      Piraeng
-      Piraing
+      Piršeng
+      Piršing
       Pore
-      Poraeng
+      Poršeng
       Pêlîn
       Pîroz
-      Pîaeng
+      Pîšeng
       Rana
       Rengîn
-      Rewaa
-      Rewaen
+      Rewša
+      Rewšen
       Rihan
       Rindê
       Rojhelat
@@ -48771,7 +48771,7 @@ iranian = {
       Rîhan
       Rîken
       Rûciwan
-      Rûgea
+      Rûgeš
       Rûken
       Rûzerîn
       Sarê
@@ -48786,7 +48786,7 @@ iranian = {
       Xêlîcan
       Xonçe
       Ghoncheh
-      Zernîaan
+      Zernîšan
       Zerya
       Zerê
       Zerî
@@ -48800,22 +48800,22 @@ iranian = {
       Zîlan
       Zînet
       Zînê
-      `ana
-      `anaz
-      `ayan
-      `ehrîban
-      `elal
-      `emam
-      `engê
-      `epal
-      `epirze
-      `ermîn
-      `evba
-      `evîn
-      `êlaz
-      `îlan
-      `înî
-      `îwen
+      Šana
+      Šanaz
+      Šayan
+      Šehrîban
+      Šelal
+      Šemam
+      Šengê
+      Šepal
+      Šepirze
+      Šermîn
+      Ševba
+      Ševîn
+      Šêlaz
+      Šîlan
+      Šînî
+      Šîwen
       Atiya
     }
   }
@@ -49258,12 +49258,52 @@ iranian = {
     }
   }
   scythian = { 	# EU Rome
-    dynasty_names = {
+    dynasty_names = { 	# MMETR added names
       Abeacid
       Galatid
       Madyid
       Palacid
       Partatid
+      Kausal
+      Kausalid
+      Gank
+      Gankari
+      Tenare
+      Tenarian
+      Ytarim
+      Ytarimid
+      Tripuskar
+      Tripuskaran
+      Dantapur
+      Dantapurian
+      Baransi
+      Baransian
+      Yurpaska
+      Yurpaskan
+      Rohini
+      Rohinian
+      Vaideh
+      Vaidan
+      Vaisali
+      Vaisalian
+      Iksvaku
+      Iksvakuian
+      Kausika
+      Kausikan
+      Sakke
+      Sakkan
+      Kasake
+      Kasakid
+      Yarkam
+      Yarkamid
+      Bharuka
+      Bharukid
+      Cadota
+      Cadotid
+      Lyam
+      Lyamid
+      Kunlyu
+      Kunlayad
     }
     male_names = {
       Abeacus
@@ -49283,12 +49323,345 @@ iranian = {
       Tasius
       Zanticus
       Respendial
+      Airawanta
+      Ajatasatru
+      Ajite
+      Alp
+      Ambare
+      Ampratasarme
+      Amrataraksite
+      Amratodane
+      Anande
+      Anathapindike
+      Aniruddhe
+      Andhave
+      Anktsas
+      Arjune
+      Aranemi
+      Arnyartate
+      Arslam
+      Arthadarsi
+      Aryamarg
+      Aryaske
+      Aryatewe
+      Aryawarme
+      Aryottame
+      Asokamitre
+      Asokaraksite
+      Asoke
+      Asarte
+      Astawi
+      Atakke
+      Atidivakare
+      Atyuccagami
+      Atraikatte
+      Bimbasare
+      Caitike
+      Caiytiska
+      Cakravar
+      Cakule
+      Candramukhe
+      Candravasu
+      Candre
+      Caracate
+      Cina
+      Cinatyuti
+      Citre
+      Cittaraksite
+      Cowaske
+      Dandakamal
+      Devarakste
+      Dhanike
+      Dipankar
+      Dirghanakhe
+      Dravyasvare
+      Durmukhe
+      Ekasrinke
+      Erkatsole
+      Esmine
+      Etrise
+      Gayakasyape
+      Gayasirs
+      Gaye
+      Gunacamdre
+      Gunasampade
+      Hariscandre
+      Hastake
+      Hetubalike
+      Indradhvaje
+      Indratewe
+      Indre
+      Indriske
+      Issapake
+      Jatisrone
+      Jetavam
+      Jnanacamndre
+      Jnanaghose
+      Jnanakame
+      Jnanakupte
+      Jnanamokse
+      Jnanasene
+      Jnanasome
+      Jnanasthite
+      Jnanawirye
+      Kadike
+      Kalodaye
+      Kalyanamokse
+      Kalyanavraddhi
+      Kalyanawartane
+      Kanake
+      Kanaske
+      Kanthake
+      Kapilavarne
+      Kapilavastu
+      Kas
+      Kasyap
+      Katakarni
+      Kaundinye
+      Kauravye
+      Kausal
+      Kemarcune
+      Kentarske
+      Kercampey
+      Kercapiske
+      Kerdipole
+      Kereptanne
+      Kimne
+      Klenkarako
+      Klpapatre
+      Klyotiska
+      Kotile
+      Koysam
+      Ksemankare
+      Ksmarjune
+      Ksmawarme
+      Ksmate
+      Ksmateworsa
+      Ksmika
+      Kulkera
+      Kumarapunye
+      Kumpante
+      Kunacamttrakau
+      Kunacamttre
+      Kwirapabhadra
+      Lariska
+      Mahasammate
+      Mahisvare
+      Manisvare
+      Mitrakseme
+      Mitraske
+      Mitre
+      Moksasene
+      Moksasome
+      Moksawarme
+      Molyoke
+      Mukalanti
+      Munkhare
+      Murdhagate
+      Nandabala
+      Nandake
+      Nande
+      Nandipale
+      Nasme
+      Natte
+      Naradeve
+      Nirot
+      Nupura
+      Nyagrodhe
+      Padmakesar
+      Padmottare
+      Pakacandre
+      Pancasikhi
+      Pawaske
+      Pesane
+      Prabhankare
+      Prabhase
+      Pranada
+      Prasamnake
+      Pravare
+      Priyadeve
+      Ptompile
+      Punaiyse
+      Punakame
+      Punaraksite
+      Punicamndre
+      Punyamitre
+      Purtas
+      Rahule
+      Raktadewe
+      Ratnacuda
+      Ratnasikhi
+      Rsivadam
+      Rudramukhe
+      Rudrasarme
+      Sagare
+      Samantatir
+      Samcite
+      Samghatrate
+      Sanavasi
+      Sanghasarme
+      Sankene
+      Sanum
+      Saputanase
+      Sarasike
+      Sarmacamdre
+      Sarsire
+      Satuma
+      Satyake
+      Satyaraksite
+      Sidhasamgha
+      Siladewe
+      Silamitre
+      Silarakite
+      Silaraksi
+      Silasoma
+      Silavande
+      Silawarne
+      Silayase
+      Silopake
+      Simpraye
+      Sincake
+      Sinke
+      Sinku
+      Skanatatte
+      Skwarle
+      Slacamndre
+      Solarke
+      Some
+      Srestake
+      Sudarse
+      Sudas
+      Suddhodane
+      Sujate
+      Sukase
+      Suklodane
+      Sunaksatre
+      Sunetre
+      Sutasome
+      Sutate
+      Swarnabuspe
+      Swarnatepe
+      Tarmacandre
+      Tarmaraksite
+      Tenare
+      Tohkem
+      Tonke
+      Tukik
+      Tunka
+      Tusi
+      Udanalankar
+      Udayi
+      Ulkamukhe
+      Uluke
+      Upage
+      Upagupte
+      Upanande
+      Uposathe
+      Urbilvakasyape
+      Uttaraphalguni
+      Uttare
+      Vaisravane
+      Vaitike
+      Varddhane
+      Vidusake
+      Vimalapuspe
+      Vinaise
+      Visale
+      Wamsok
+      Warwattaske
+      Waryaruci
+      Waryasene
+      Wasampile
+      Wasave
+      Wiryadewe
+      Wiryamitre
+      Wiryasanti
+      Wiryasini
+      Wisikke
+      Wrauske
+      Yanayase
+      Yarpalaske
+      Yasa
+      Yasawine
+      Yase
+      Yasonaka
+      Yastare
+      Yonge
+      Yonu
+      Ype
+      Yudhisthire
+      Yugaraje
+      Ishpaka
+      Madea
+      Eruvand
+      Tigran
+      Tar
+      Torram
+      Tarem
+      Tiermes
+      Terem
+      Tarsua
+      Sco
+      Ra
+      Pada
+      Ada
     }
     female_names = {
       Amage
       Ghadani
       Opoin
       Polemakratia
+      Ampratasene
+      Amratasene
+      Arjuna
+      Arunavati
+      Aryakose
+      Aryaraksite
+      Ayardhyame
+      Bhadra
+      Canca
+      Dhrtirastre
+      Jnati
+      Kolite
+      Kosthile
+      Malika
+      Maya
+      Nagasene
+      Priyasarini
+      Punyasene
+      Purike
+      Purnaya
+      Purohite
+      Putere
+      Raknaska
+      Revati
+      Roce
+      Saci
+      Santa
+      Santisene
+      Sari
+      Sthulananda
+      Sudarsane
+      Sumagati
+      Sumaise
+      Sumati
+      Sundari
+      Suwarte
+      Tarmawirne
+      Tartvisara
+      Tati
+      Tisye
+      Upatisye
+      Uppal
+      Uppalavarna
+      Vasisthe
+      Vitasake
+      Yasaraksite
+      Yasodhara
+      Tabiti
+      "P'ha"
+      Anya
+      Ana
     }
   }
   saka = {
@@ -50711,6 +51084,114 @@ iranian = {
       Zahida
       Zahra
       Haniyya
+    }
+  }
+  #MMETR added
+  dahaean = {
+    primary = DHE
+    dynasty_names = {
+      Aramid
+      Arid
+      Arkhid
+      Asinid
+      Arsacid
+      Deiocid
+      Menid
+      Pacorid
+      Savacid
+      Vardanid
+    }
+    male_names = {
+      Abdagas
+      Ara
+      Aram
+      Aramu
+      Arbaces
+      Ardashir
+      Argishti
+      Ariovast
+      Arkha
+      Armin
+      Arsaces
+      Arsames
+      Artabanus
+      Artabazus
+      Artasyras
+      Artavazd
+      Artaxias
+      Aryanes
+      Asheri
+      Asina
+      Ashina
+      Astashpa
+      Astyages
+      Atamaita
+      Aturpat
+      Bagayash
+      Bayad
+      Chosroes
+      Cyaxares
+      Cyrus
+      Darius
+      Deioces
+      Evagoras
+      Fravarti
+      Gaumata
+      Gobryas
+      Gotarzes
+      Haldita
+      Hidarnes
+      Hydarnes
+      Manchihr
+      Mardonius
+      Martiya
+      Mazaces
+      Megabyzus
+      Menua
+      Nambed
+      Napad
+      Orodes
+      Orxines
+      Osroes
+      Oxydates
+      Pacorus
+      Peucestas
+      Phraates
+      Phraortes
+      Rusa
+      Sames
+      Sarduri
+      Sarsamas
+      Savaces
+      Shapur
+      Sinatruces
+      Tigraios
+      Tigranes
+      Tiridates
+      Umamaita
+      Upadarma
+      Vahbarz
+      Vardanes
+      Vologases
+      Vonones
+      Xerxes
+    }
+    female_names = {
+      Amestris
+      Amytis
+      Anzaza
+      Artazostre
+      Artystone
+      Atossa
+      Barsine
+      Damaspia
+      Mandane
+      Parmys
+      Parysatis
+      Phaedymia
+      Rinu
+      Stateira
+      Vashti
     }
   }
   dynasty_names = {
@@ -61167,7 +61648,36 @@ east_asian = {
   korean_new = {}
   tibetan_new = {}
   altaic_new = {}
-  sino_khmer_new = {} 	# New in mod MMETR
+  #New in mod MMETR
+  sino_khmer_new = {}
+  mien = {
+    dynasty_names = { 	# surnames after King Pan plus Hmong/Miao surnames
+      "Pan"
+      "Phan"
+      "Fang"
+      "Hang"
+      "Hue"
+      "Khang"
+      "Kong"
+      "Soung"
+      "Kue"
+      "Lo"
+      "Lor"
+      "Li"
+      "Moua"
+      "Pha"
+      "Tang"
+      "Thao"
+      "Chang"
+      "Cheng"
+      "Chu"
+      "Vang"
+      "Vue"
+      "Xiong"
+      "Yang"
+    }
+    #adopted Chinese names
+  }
   east_asian_canadian = {}
   east_asian_east_american = {}
   east_asian_louisianan = {}
@@ -62117,7 +62627,8 @@ japanese_g = {
   }
 }
 southeastasian_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   khmer = {
     primary = KHM
     dynasty_names = {
@@ -63863,9 +64374,18 @@ southeastasian_group = {
       "Thanh Thao"
     }
   }
+  #New MMETR, moved from Tai-Kradai group
+  nanyue = {
+    primary = NYU
+    dynasty_names = { 	# ruled by the Trieu dynasty, also known in Chinese as 'Zhao'
+      "Trieu"
+      "Lu"
+    }
+  }
 }
 malay = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   cham = {
     primary = CHA
     dynasty_names = {
@@ -63907,7 +64427,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -63917,9 +64437,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -63995,7 +64515,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64005,9 +64525,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64071,7 +64591,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64081,9 +64601,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64152,7 +64672,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64162,9 +64682,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64233,7 +64753,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64243,9 +64763,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64315,7 +64835,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64325,9 +64845,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64493,7 +65013,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64503,9 +65023,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64594,7 +65114,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64604,9 +65124,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64670,7 +65190,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64680,9 +65200,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64746,7 +65266,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64756,9 +65276,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64828,7 +65348,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64838,9 +65358,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64910,7 +65430,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -64920,9 +65440,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -64992,7 +65512,7 @@ malay = {
       Moerani
       Mohea
       Nanihi
-      Nuutea
+      Nu’utea
       Orama
       Poe
       Pear
@@ -65002,9 +65522,9 @@ malay = {
       Puaiti
       Puatea
       Puaura
-      Raihau
-      Raimere
-      Rainui
+      Ra’ihau
+      Ra’imere
+      Ra’inui
       Ranitea
       Rarahu
       Raunui
@@ -65058,7 +65578,8 @@ malay = {
   }
 }
 filipino_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx 	# MMETR
+  second_graphical_culture = asiangfx
   filipino = {
     primary = TDO
   }
@@ -65081,6 +65602,10 @@ filipino_group = {
   filipino_brazilian = {}
   filipino_australian = {}
   filipino_oceanian = {}
+  #MMETR new added
+  minyue = {
+    primary = MYU
+  }
   dynasty_names = {
     Salamat
     Amarlangagui
@@ -65167,7 +65692,8 @@ filipino_group = {
   }
 }
 thai_group = {
-  graphical_culture = asiangfx
+  graphical_culture = southeastasiangfx
+  second_graphical_culture = asiangfx
   central_thai = {
     primary = SIA
     dynasty_names = {
@@ -65481,6 +66007,61 @@ thai_group = {
   thai_brazilian = {}
   thai_australian = {}
   thai_oceanian = {}
+  #New MMETR added
+  hlai = { 	# Hainan Li people
+    primary = HLI
+    dynasty_names = {
+      Gei
+      Ha
+      Zwn
+      Tai
+      Moifau
+    }
+    male_names = {
+      "Thadominbya"
+      "Nga Nu"
+      "Swasawke"
+      "Tarabya"
+      "Nga Nauk Hsan"
+      "Minkhaung"
+      "Thihathu"
+      "Minhlange"
+      "Kale Kyetaungnyo"
+      "Minyekyawswa"
+      "Narapati"
+      "Thihathura"
+      "Shwenankyawshin"
+      "Thohanbwa"
+      "Hkonmaing"
+      "Mobye Narapati"
+      "Sao Sit Pan Tu"
+      "Sao Ai Awn"
+      "Ai Wu Hsa"
+      "Yi Hkam Hka"
+      "Sao Hsam"
+      "Sao Kham Mu"
+      "Hpaya Kiao"
+      "Sao Mong Hka"
+      "Sao Hkam Tao"
+      "Sao Mong Hkak"
+      "Sao On"
+      "Sao In Hkam"
+      "Sao Awk"
+      "Sao Mong Saik"
+      "Sao Hsam Hpi"
+      "Maung Nyo"
+      "Sao Mong Sin"
+      "Sao Mong Hsam"
+      "Sao Kawng Tai"
+      "Sao Maha Hkanan"
+    }
+    female_names = { "Thou Umma" "Thin Bohme" }
+  }
+  shanyue = { 	# Baiyue tribes, were either Tai-Kradai or Austroasiatic
+    primary = SNY
+  }
+  #minyue moved to Austronesian/Filipino culture group
+  #nanyue moved to Austroasiatic culture group
   dynasty_names = {
     "Mangrai"
     "Chaochetton"
@@ -66286,7 +66867,8 @@ burman = {
   }
 }
 pacific = {
-  graphical_culture = asiangfx
+  graphical_culture = polynesiangfx
+  second_graphical_culture = northamericagfx
   papuan = {
     primary = PNG
     male_names = {
@@ -66737,6 +67319,8 @@ pacific = {
   }
 }
 aboriginal_australian = {
+  graphical_culture = aboriginalgfx
+  second_graphical_culture = africangfx
   aboriginal = { 	# (Kuric) Eora/East Coast
     primary = EOR
     male_names = { 	# pre-mandala names
@@ -78295,6 +78879,203 @@ cushitic = {
       Terenua
     }
   }
+  agaw = {
+    primary = AWI
+    dynasty_names = {
+      Solomonid 	# CK2 Ethiopian
+      "Darod"
+      "Marisid"
+      "Muqurrid"
+      "Pakhoras"
+      "Ramlid"
+      "Sebsibeid"
+      "Kebedeid"
+      "Bekeleid"
+      "Abateid"
+      "Sabraid"
+      "Astatkeid"
+      "Habeshid"
+      "Dubé"
+      "Gobena"
+      "Selassie"
+      "Zagwe"
+      "Dengel"
+      "Sehul"
+      "Daw"
+      "Alwa"
+      "Dahnay"
+      "Gideon"
+      "Assabi"
+      "Afari"
+      "Tamirat"
+      "Mengesha"
+      "Teka"
+      "Getachew"
+      "Na'akuelo"
+      "Yostos"
+      "Merkourios"
+      "Shamumun"
+      "Desta"
+    }
+    male_names = {
+      Amare
+      Dahnay
+      Desta
+      Getachew
+      Geteye
+      Girma
+      Iskinder
+      Abai
+      Abebe
+      Afework
+      Aman
+      Assefa
+      Atoberhan
+      Azmera
+      Bekele
+      Benaim
+      Berhanu
+      Berhanua
+      Berihun
+      Berta
+      Bworo
+      Daniachew
+      Dawit
+      Demissie
+      Eremias
+      Ezana
+      Fasilidas
+      Fethee
+      Gabra
+      Gebereal
+      Gebre
+      Gondar
+      Hackeem
+      Haeran
+      Hagos
+      Hakeem
+      Hakiem
+      Hakim
+      Hakym
+      Iskander
+      Alexander
+      Iyasu
+      Jima
+      Kafa
+      Kaleb
+      Kelile
+      Kelyle
+      Kifle
+      Lebna
+      Lema
+      Loua
+      Mamo
+      Mekonnen
+      Melaku
+      Mengesha
+      Merille
+      Miruts
+      Negash
+      Negasi
+      Negus
+      Ogbae
+      Ogbai
+      Oromo
+      Rahad
+      Selassie
+      Semer
+      Semere
+      Sisay
+      Tamirat
+      Tariku
+      Taye
+      Tefere
+      Teferi
+      Teka
+      Tekle
+      Tengene
+      Teruworq
+      Tesfaye
+      Tessema
+      Tewodros
+      Yacob
+      Yohannas
+      Yonas
+      Zula
+    }
+    female_names = {
+      Habesha
+      Abeba
+      Abrihet
+      Adanech
+      Adina
+      Alaworld
+      Alitash
+      Amhara
+      Ayana
+      Bathsheba
+      Bekele
+      Belkis
+      Berhane
+      Berta
+      Cheren
+      China
+      Debre
+      Debtera
+      Desse
+      Desta
+      Dilla
+      Falasha
+      Falashina
+      Fana
+      Fannah
+      Genat
+      Hagos
+      Jahzara
+      Jazarah
+      Kayla
+      Kelile
+      Kelyle
+      Keren
+      Kess
+      Kifle
+      Lishan
+      Louama
+      Magdala
+      Maharene
+      Makda
+      Makeda
+      Mandera
+      Melesse
+      Mellesse
+      Misrak
+      Negasi
+      Nishan
+      Nyala
+      Qwara
+      Retta
+      Seble
+      Sela
+      Selamawit
+      Selassie
+      Semhar
+      Senalat
+      Sheba
+      Shinasha
+      Sisay
+      Tavavich
+      Teru
+      Totit
+      Tsage
+      Wagaye
+      Yehudit
+      Zala
+      Zauditu
+      Zeina
+      Zena
+      Zenia
+    }
+  }
   dynasty_names = {
     Ginocho
     Bahrid
@@ -78577,7 +79358,7 @@ nilotic = {
       Markos
       Marcus
       Marturophoros
-      Maaanñal
+      Mašanñal
       Maththias
       Matthew
       Mêlênkouda
@@ -78690,8 +79471,8 @@ nilotic = {
       Marianou
       Michaêliko
       Michaela
-      Ñaaaa
-      Ñeaaadena
+      Ñašša
+      Ñeššadena
       Ñejin
       Ñilesa
       Ñojjl
@@ -79557,6 +80338,7 @@ khoisan = {
 }
 evenks = {
   graphical_culture = inuitgfx
+  second_graphical_culture = asiangfx
   yukagyr = {
     primary = HOD
     dynasty_names = { Uygulaan Khorints }

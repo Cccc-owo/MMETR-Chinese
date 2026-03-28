@@ -18,8 +18,8 @@ base_manpower = 2
 is_city = yes
 add_core = XIY
 180.1.1 = {
-  religion = mahayana
-}
+  religion = dharmaguptaka
+} 	# MMETR
 439.1.1 = {
   owner = TUY
   controller = TUY
@@ -71,8 +71,11 @@ add_core = XIY
   remove_core = UTS
 }
 880.1.1 = {
+  religion = dharmaguptaka
+} 	# MMETR
+1000.1.1 = {
   religion = vajrayana
-}
+} 	# MMETR
 1209.1.1 = {
   owner = KHA
   controller = KHA
@@ -89,7 +92,7 @@ add_core = XIY
   owner = CHG
   controller = CHG
   add_core = CHG
-  remove_core = KHA
+  remove_core = CGT
 }
 1389.1.1 = {
   owner = KAS

@@ -82,12 +82,12 @@ add_core = JUD
   add_core = ROM
   remove_core = PLM
 }
-260.1.1 = {
-  religion = chalcedonism
-} 	# changed to more accurate majority
 313.1.1 = {
   unrest = 0
 } 	#  Christianity legalized
+364.1.1 = {
+  religion = chalcedonism
+} 	# Galilee earthquake
 395.1.17 = {
   controller = BYZ
   owner = BYZ

@@ -1,0 +1,100 @@
+government = monarchy
+add_government_reform = parthian_empire_reform 	# New MMETR Government Reform
+government_rank = 3
+primary_culture = parthian
+religion = zoroastrian
+technology_group = middle_eastern
+historical_rival = BYZ
+historical_rival = ROM
+capital = 410 	#  Ctesiphon
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+#MMETR moved to Media tag for rival kings in civil war
+109.1.1 = {
+  monarch = {
+    name = "Osroes I"
+    dynasty = "Arsacid"
+    adm = 6
+    dip = 6
+    mil = 6
+  }
+}
+116.1.1 = {
+  capital = 414
+} 	#  Ecbatana
+116.1.1 = {
+  monarch = {
+    name = "Parthamaspates"
+    dynasty = "Arsacid"
+    adm = 6
+    dip = 6
+    mil = 6
+  }
+}
+117.1.1 = {
+  monarch = {
+    name = "Osroes I"
+    dynasty = "Arsacid"
+    adm = 3
+    dip = 1
+    mil = 4
+  }
+}
+118.1.1 = {
+  capital = 410
+} 	#  Ctesiphon
+129.1.1 = {
+  monarch = {
+    name = "Mithridates V"
+    dynasty = "Arsacid"
+    adm = 2
+    dip = 1
+    mil = 3
+  }
+}
+140.1.1 = {
+  monarch = {
+    name = "Vologases IV" 	# would conquer all of Parthia, reign continues in PRT tag file from 147 onwards
+    dynasty = "Arsacid"
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+}
+213.1.1 = {
+  monarch = {
+    name = "Vologases VI" 	# MMETR edit name and stats
+    dynasty = "Arsacid"
+    adm = 4
+    dip = 6
+    mil = 6
+  }
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}

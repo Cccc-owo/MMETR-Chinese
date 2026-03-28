@@ -47,6 +47,7 @@ add_core = SRT
   controller = ULI
   add_core = ULI
   remove_core = AVR
+  religion = slavic
   culture = ruthenian
 }
 750.1.1 = {

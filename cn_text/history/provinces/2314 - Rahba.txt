@@ -31,9 +31,7 @@ add_core = OSR
   controller = OSR
   remove_core = ARM
 }
-110.1.1 = {
-  religion = zoroastrian
-}
+#110.1.1 = { religion = zoroastrian }
 116.1.1 = {
   owner = ROM
   controller = ROM

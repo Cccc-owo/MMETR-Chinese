@@ -1,0 +1,155 @@
+namespace = mmetrFlavor_China.1
+# Xuanwu Gate Incident - prelude tensions
+province_event = {
+  id = mmetrFlavor_China.1
+  title = "mmetrFlavor_China.1.t"
+  desc = "mmetrFlavor_China.1.desc"
+  picture = MMETR_CHINESE_COURT_eventPicture
+  trigger = {
+    is_year = 620
+    OR = {
+      tag = TNG
+      was_tag = TNG
+    }
+    government = monarchy
+    has_heir = "Jiancheng"
+    NOT = {
+      started_in = 626.7.2
+    }
+    owns = 700 	# Chang'an
+  }
+  mean_time_to_happen = {
+    months = 60
+    modifier = {
+      factor = 0.8
+      NOT = {
+        stability = 0
+      }
+    }
+    modifier = {
+      factor = 0.5
+      NOT = {
+        stability = -1
+      }
+    }
+  }
+  option = {
+    name = "mmetrFlavor_China.1.a"
+    hidden_effect = {
+      country_event = {
+        id = mmetrFlavor_China.2
+        days = 100
+        random = 30
+      }
+    }
+  }
+}
+# Xuanwu Gate Incident - event triggers
+province_event = {
+  id = mmetrFlavor_China.2
+  title = "mmetrFlavor_China.2.t"
+  desc = "mmetrFlavor_China.2.desc"
+  picture = MMETR_CHINESE_FORT_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    government = monarchy
+    has_heir = "Jiancheng"
+    owns = 700 	# Chang'an
+  }
+  option = {
+    name = "mmetrFlavor_China.2.a"
+    add_stability = -1
+    kill_heir = {
+      allow_new_heir = no
+    }
+    define_heir = {
+      name = "Shimin"
+      monarch_name = "Shimin"
+      dynasty = "Li"
+      claim = 95
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 28
+      claim = 95
+      female = no
+      no_consort_with_heir = yes
+    }
+    define_advisor = {
+      type = treasurer
+      name = "Du Ruhui"
+      skill = 3
+      discount = yes
+    }
+    define_advisor = {
+      type = statesman
+      name = "Fang Qiao"
+      skill = 3
+      discount = yes
+    }
+    define_advisor = {
+      type = grand_captain
+      name = "Yuchi Gong"
+      skill = 3
+      discount = yes
+    }
+  }
+  option = {
+    name = "mmetrFlavor_China.2.b"
+    add_stability = -1
+    kill_heir = {
+      allow_new_heir = no
+    }
+    700 = { 	# Chang'an
+      spawn_rebels = {
+        type = pretender_rebels
+        size = 3
+        leader = "Shimin"
+        leader_dynasty = "Li"
+        should_take_capital = yes
+      }
+    }
+    capital_scope = {
+      spawn_rebels = {
+        type = pretender_rebels
+        size = 3
+        should_take_capital = yes
+      }
+    }
+  }
+  option = {
+    name = "mmetrFlavor_China.2.c"
+    add_stability = -1
+    kill_heir = {
+      allow_new_heir = no
+    }
+    define_ruler = {
+      name = "Shimin"
+      dynasty = "Li"
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 28
+      female = no
+      no_consort_with_heir = yes
+    }
+    define_advisor = {
+      type = treasurer
+      name = "Du Ruhui"
+      skill = 3
+      discount = yes
+    }
+    define_advisor = {
+      type = statesman
+      name = "Fang Qiao"
+      skill = 3
+      discount = yes
+    }
+    define_advisor = {
+      type = grand_captain
+      name = "Yuchi Gong"
+      skill = 3
+      discount = yes
+    }
+  }
+}

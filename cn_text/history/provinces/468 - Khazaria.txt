@@ -1,9 +1,9 @@
 #468 - Manych
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = AOR 	# MMETR
+controller = AOR
+add_core = AOR
 is_city = yes
-culture = alan
+culture = sarmatian
 religion = heptadic 	# New MMETR religion
 capital = "Cherny Yar"
 trade_goods = livestock
@@ -17,6 +17,13 @@ discovered_by = muslim
 base_tax = 1
 base_production = 1
 base_manpower = 1
+160.1.1 = {
+  owner = ALN
+  controller = ALN
+  add_core = ALN
+  remove_core = AOR
+  culture = alan
+} 	# MMETR
 420.1.1 = {
   owner = HNS
   controller = HNS
@@ -39,11 +46,15 @@ base_manpower = 1
   add_core = BUL
   remove_core = UTI
 }
-720.1.1 = {
+668.1.1 = {
   owner = KHZ
   controller = KHZ
   add_core = KHZ
   remove_core = BUL
+  add_core = ONG
+} 	# Fall of Old Bulgaria
+720.1.1 = {
+  remove_core = ONG
   culture = khazar
 }
 800.1.1 = {

@@ -766,7 +766,7 @@
  row_mauretania_caesariensis_mission_desc: "ªRs|•^šN„vW0WþfÏu=fWlš„vZWšRßvËS0,rN*NßuN„vªRs|•^šN‹sýV=f1ulš‰<S(„†˜üR„vÿÖN=fWlš(W,rŒN!k^?Sb‰N-N„vßvËSÿmN=fNMOO'Y„výV‹sÿÖNSþfÏu«ˆ²‹HNNïSwÍy„vªRs|•^šN„vW0WVÑSbAucƒ„vœQHWŒT„^íV0SVªRs|•^šN‹sýV«ˆWlš^ýVTv^öeÿƒR„vŸSOOlmN=f‚Ydk0Ù›NuIm(WÛkÌ‘TX<SšNÎW^-NÃV„v¸‹YºNòTÏu‡eQ†NWlš„v‡eSŒT>yO0àVdkÿSVbìN„v‹sýVb—4NYèŒT…Qè„vNnxšR'`ŒT‹S›Röeÿ©‹bìNnxÝO(WðV¾–öegýwY	gáOÃV0WìS2UÛkÌ‘TX<SšN„vãl0"
  row_roman_villas_of_gallia_mission_title: "ØšbSWlš+R…X"
  row_roman_villas_of_gallia_mission_desc: "bìN(WØšbS„v¸‹YbŸRýïSåNRVŸRŽNØšbSºNêñTWlš•bDw)R(uSV0W„vØšbS0WINeg¡rtŒTVÑSW0Wÿ(WWlš‡eS„vqVÍTNú^.Aucƒ„vØšbS+R…X0Ù›N+R…XòTÏubHNØšbSSèØšbSaNQg„vIN‰ÎW^0ÏuNmŒTFUN-NÃV0àVdkÿ©‹bìNçuíuVÑSÙ›NW0WÿÙ7hbìN1SïSåNÎNØšbSÐcÖSg‹Y„v0ÌRŒT'irÿv^nxÝO+R…X,g«Ž„vcíuAucƒ0"
- row_roman_villas_of_gallia_mission.tt: "Nb	g§YÕlpQ‰§!0WHS„vœQ0uwýN·ƒ—VîOck§Y0ØšbS+R…X0§!ôv0R8nbÓumgÿÙuˆN:\n,g0WuµNHe‡s§G+10.0%§!"
+ row_roman_villas_of_gallia_mission.tt: "All Farmland provinces in the §YFrance§! region that have been improved at least once gain the modifier §Y'Gallic Villa'§! until the end of the game, giving:\nLocal Production Efficiency §G+10.0% §!"
  row_frontiers_of_britannia_mission_title: "NR ˜<SšN„vMR¿u"
  row_frontiers_of_britannia_mission_desc: "bìNb—4NNwegêƒX…QY„v¨Raƒÿg¾–2–ˆR„vwýNNôv=fNR ˜<SšN0àVdkÿbìNÅV‰˜ÇibUS¹ƒXegéTúVbìN(WNR ˜„v0WMOÿ(WNR ˜SèèK„ŒTbìN„vÎW^-NÃV†–ê<SÁKNô•ú^ËzN*N²QHS0"
  row_riches_of_egypt_mission_title: "ÃWÊS„v0ÌR"
@@ -1424,7 +1424,7 @@
  frk_frankish_emporia_mission_title: "ÕlpQKQ„vi`âlÌ‘šN"
  frk_frankish_emporia_mission_desc: "‚YœgbìN^gÑSUSHNN*N^ýVÿbìNØÅV‰˜ÑSUSbìNNNLuvQÖN0W¹e„v8fTwû|0àVdkÿ©‹bìN(Wte*NÕlpQKQ‹sýVÑSUSFU8ÎW^ÿObìN„vºNlNQÇ¦^OVêÙuê³„vœQNÿpTÎW^Sÿv^SbìN„v'irVS0RÕlpQKQ¹LuåNY„vW0WN0"
  frk_papal_relations_mission_title: "NYe÷^„vsQû|"
- frk_papal_relations_mission_desc: ""
+ frk_papal_relations_mission_desc: "With the collapse of imperial Roman authority in the west, the Papacy in Rome became the religious and often times temporal leader of Christendom in the west outside the influence of Constantinople. To ensure the prestige and good standing of our kingdom, we must make sure that the Franks are viewed as pious Christians and agreeable allies in the eyes of the Papacy."
  frk_saxon_wars_mission_title: "(„KQîhb‰N"
  frk_saxon_wars_mission_desc: "»ÑbìN‹sýV„v’dKQVYe’VN!kÈSN!k0WhˆfÿêS‰ÖNìNÝOcìrËzŽNbìN„vßu»lÿŒTs^1SNïSýwXR(W0’dKQºN­ˆûQ†NbìN„vW0Wÿm«Rv^çpÁk†NbìN¹ƒXN„vYeXÙÍyVYe’VŒTÎ‘î†„vLˆHNÅV‰˜åNckIN„v`kpegÞV”^0àVdkÿ©‹bìNùR’dKQºNÑSwNHWÛv'Y„vbyVÿN³R8l80WVgÖNìN0"
  frk_saxon_wars_mission.tt: "‚Yœg§Y(„KQîh§!=fbìN„vD–¸^ÿÖNìN1SOˆvO§YúWcwYe§!"
@@ -2582,9 +2582,9 @@
  jud_fortification_of_masada_mission_title: "lš(„¾‰^X"
  jud_fortification_of_masada_mission_desc: "lš(„¾„v‰^XPWK„(WNGr^–Øš8w„v©SówØšŸSNÿwQ	g¾–åNnáO„v)Y6q2–¡V'`0(ŒNa„v^‹V‹s,gºN„vLˆ¨RÁ‹f†Nlš(„¾„v2–¡V'`ÿÖN(WØšŸSNú^.†N2Nµ^«R¿k!X’W,g«Ž=f1uÈT¯e™„‹sšN†SqS'Y·lbHYLN¯eú^.„v0©‹bìNçuíu RúVŒTÑSUSlš(„¾ÿÙ7hƒR1S8lÜNOK„eQLeºN„vôVIeKN-N0"
  jud_vanquish_the_nabataeans_mission_title: "Vg³uôTðl"
- jud_vanquish_the_nabataeans_mission_desc: "‹†6q³uôTðlŒT¹r0WšN‹sýV•gåNeg„v?e»lŒT8f)RÊvøv’N²QzÿFO¹r*YºNŒT³uôTðlºNKNô•ÎN*gÑSuÇûNUOO'Y„vb‰N0‹†6q³uôTðl„v?–÷–TX¯eŒNNýV‹sŒTÈT¯e™„<S¹r0WšN„všN†SqS'Y·lbHYLN¯eýV‹sHN†Nµc6R R™l(W™™S-N„vjO(uw‰NHY R™l„vµc6RCgÿFO2NMOýV‹sÎN*g(WbHWNÁ‰b—0–NwbìN„v†˜WŒTFUNÎ‘ÃVåNÊSbìNÔkåNŽVûNUOöePýôf'Y„v›Q–ÿ=föePHNêñTnxÝO™™™e8fÿv^Á‹fbìN¹r*YºNHNôfHV'Y„v‹sýVg¡R†N0"
+ jud_vanquish_the_nabataeans_mission_desc: "While the kingdoms of Nabataea and Judea have long had conflicting political and trade interests, there was never any great, significant war between the Judeans and Nabataeans. Although King Aretas II of Nabataea and King Alexander Jannaeus of Hasmonean Judea had vied for control of Gaza for its role in the incense route, the two kings never met on the battlefield. With our territorial and commercial ambitions as well as our armies greater than ever before, it is time that we secure the incense trade for ourselves and prove that we Judeans serve for the more powerful kingdom."
  jud_the_land_of_dedan_mission_title: "·V9NKN0W"
- jud_the_land_of_dedan_mission_desc: ""
+ jud_the_land_of_dedan_mission_desc: "The oasis peoples of Dedan were trading partners of the city of Tyre during the times of the Babylonian Exile. They have since established their own kingdom, which is known by other names such as Lihyan, and the kingdom has long been a military and trade rival of the Nabataeans. Now that we have conquered the Nabataeans once and for all, perhaps now is the time to extend our influence further along the coast: we could assume the Nabataean's former role as enemies of Lihyan, or perhaps we could treat the Lihayns as enemies of former enemies, and thus new trading friends."
  jud_the_queen_of_sheba_mission_title: "HyôTsY‹s"
  jud_the_queen_of_sheba_mission_desc: ""
  jud_renovate_the_second_temple_mission_title: "ûîO,rŒN1W¿k"
@@ -2595,28 +2595,28 @@
  jud_convert_the_gentiles_mission_desc: ""
  jud_heirs_of_the_maccabees_mission_title: "lš RÔk„vçubw"
  jud_heirs_of_the_maccabees_mission_desc: ""
- jud_the_waters_of_eden_mission_title: "O8uíV„v4lßW"
+ jud_the_waters_of_eden_mission_title: "Waters of Eden"
  jud_the_waters_of_eden_mission_desc: ""
  jud_the_city_of_holiness_mission_title: "1WÎW"
- jud_the_city_of_holiness_mission_desc: ""
+ jud_the_city_of_holiness_mission_desc: "The sacred city of Jerusalem is known by many names, one of which being the 'City of Holiness.' As the city from which the Lord Himself reigns in the Second Temple, it is our duty as pious devotees of our Lord to cultivate a city displaying the glory of our Lord."
  jud_merchants_of_solomon_mission_title: "NbWè•FUºN"
  jud_merchants_of_solomon_mission_desc: "åNr‚RýV‹sNbWè•‹sNÐcSýV‹s^ÉbÆYNNú^Ëz†N*jè¢uwm„v8fQÜu01uŽNÖN„vªR›RÿNbWè•ŒTÖN„vFUºNýwYSYýV'ir&^0RåNr‚RÿTöemNHNúR™^„v)RÊv0NÌR†NåNr‚R„vÑ‘“^0©‹bìNçubÖN„vWµNÿÇ–(uv^,TÖS	gýw›R„vFUºN„vú^®‹ÿÖNìNSHNbìNýV‹s„v)RÊvÛLˆ8f0"
  jud_warriors_of_adonai_mission_title: "?–YHYÇRëX"
  jud_warriors_of_adonai_mission_desc: ""
- jud_control_canaan_mission_title: "µc6R\næWS"
+ jud_control_canaan_mission_title: "Control Canaan"
  jud_control_canaan_mission_desc: ""
  jud_legacy_of_beit_david_mission_title: "yr·'YkS„vWµN"
  jud_legacy_of_beit_david_mission_desc: ""
  jud_the_land_of_moses_mission_title: "id‰KN0W"
- jud_the_land_of_moses_mission_desc: ""
+ jud_the_land_of_moses_mission_desc: "Like Babylonia, the land of Egypt is still the home of a significant Jewish diaspora, just as the land had been home to Jews during the times of Moses. To ensure the safety of our fellow Jews living in communities along the Nile, perhaps it is time that we seize Egypt from the control of heathens and make ourselves princes of Egypt."
  jud_king_of_the_egyptians_mission_title: "ÃWÊSºN„výV‹s"
  jud_king_of_the_egyptians_mission_desc: ""
  jud_the_ark_of_the_covenant_mission_title: "¦uÜg"
- jud_the_ark_of_the_covenant_mission_desc: ""
+ jud_the_ark_of_the_covenant_mission_desc: "The kingdom of Aksum claims that the original Ark of the Covenant itself is under their protection in their capital. Let us march our troops there so we may investigate ourselves and reunite this precious relic along with the Tablets of the Law with the Jewish people."
  jud_a_new_hiram_of_tyre_mission_title: "¨cW„v°ewmÒRÆY"
- jud_a_new_hiram_of_tyre_mission_desc: ""
+ jud_a_new_hiram_of_tyre_mission_desc: "King Hiram I of Tyre allied with David and Solomon and built a diplomatic trade relationship - Phoenician artisans helped build Davids palace using international imports, and Solomon and Harim jointly opened a trade route over the Red Sea. An alliance as valuable as this is hard to come by today - thus, let us search for an ally, a new Hiram of Tyre, who shall support us in our efforts to expand the influence of Judea."
  jud_rainfall_for_the_pious_mission_title: "T†áOw„vM–è–"
- jud_rainfall_for_the_pious_mission_desc: "¹r0WšN„vÈT¯e™„‹sýV„v(„mŽsY‹sšN†SqS'YÌ‘šN1uŽNyYùRbìN„vIN„vT†Ú‹ÿw0R†NèT'Y„vM–è–ŒT0NšS„v6ebÿÙ=fN*Nfnx„vùaŒÿsSŒRhQàVŽNbìN„vINSÙubìN&^egèT'Y„vAucƒ0àVdkÿ©‹bìNàVŽNbìN„vINÿwÍybìN„vIN‚YdkÁNHakyy„vW0W0"
+ jud_rainfall_for_the_pious_mission_desc: "Queen Salome Alexandria of the Hasmonean kingdom of Judea had seen great rainfall and bountiful harvests as a result of her piety to our Lord, a clear sign that complete devotion to our Lord shall earn us great prosperity. The rainfall was so plentiful that grains of wheat grew as large as kidney beans, and oats as large as olives. These grains were collected and preserved by priests to show future generations the rewards of piety. Thus, let us remain pious and cultivate the land that our Lord has so benevolently blessed."
  jud_judean_infrastructure_mission_title: "¹r*YúWú^"
  jud_judean_infrastructure_mission_desc: ""
  jud_the_cities_born_from_lot_mission_title: "myrKNÎW"
@@ -2624,15 +2624,15 @@
  jud_hegemons_of_syria_mission_title: "ÙS)RšN8—Cg"
  jud_hegemons_of_syria_mission_desc: ""
  jud_by_the_rivers_of_babylon_mission_title: "ôTÔk&O³lTu"
- jud_by_the_rivers_of_babylon_mission_desc: ""
+ jud_by_the_rivers_of_babylon_mission_desc: "When the kingdom of Judah was destroyed by Nebuchadnezzar II of Babylonia, the Jewish people were deported to the lands of Babylonia, and it was there where our ancestors wept in remembrance of Zion. The Book of Pslams itself speaks of this, as well as a prophecy in which revenge shall be achieved against the kingdom. With our growing power, we can now stage an invasion to place the lands of Babylonia under our banner, so the diaspora families who still live in these lands, having not returned to Jerusalem with the construction of the Second Temple under Cyrus, may be reunited with the holy city of Jerusalem once more."
  jud_first_empire_of_judea_mission_title: "¹r0WšN,rN^ýV"
- jud_first_empire_of_judea_mission_desc: ""
+ jud_first_empire_of_judea_mission_desc: "We Jewish people have never had a dominant empire of our own, historically being at the mercy of greater empires, from the Assyrians and Babylonians to the Macedonians and the Romans. With our kingdom expanding further beyond the lands of Israel than ever before, the opportunity to declare our very own empire rivaling the Romans and Persians shall soon arrive."
  jud_friends_of_the_romans_mission_title: "WlšºN„vgËS"
- jud_friends_of_the_romans_mission_desc: ""
+ jud_friends_of_the_romans_mission_desc: "We Judeans benefited from allying with the Romans in the past. The Romans were the first to recognize the Maccabees when they revolted against the Seleukid Empire,and they became allies of the Hasmonean kingdom that was established by the Maccabees. They also supported King Herod as a client king to ensure the survival of a new Judean kingdom following the fragmentation of the Hasmonean kingdom of Judea. Thus, it may be wise to earn the title of Friends of the Romans for the survival of an autonomous kingdom of Judea."
  jud_great_jewish_revolution_mission_title: "¹r*Y'Yi—‹T"
  jud_great_jewish_revolution_mission_desc: "bìNNWlšºN„vsQû|ïSåNô‹=fYBg„v0WlšºN(WÇ»SnxžR=f¹r0WšN„vßvËS06qwÿWlšºNmNÀo`†N¹r0WšNºNlÿSVYe`N×O&^0R1W0Wÿv^(W6wï’d·Q1W¿k„v1W0WNhËzGPvPÏPŒT^y0àVdkÿ‚YœgbìNwegùR—bWlšºNÿ¹r*YºNl¯wšROâVÓuwegùR—bbìN„vqQTLeºN0"
  jud_anti_roman_faction_mission_title: "ÍSWlš>mû|"
- jud_anti_roman_faction_mission_desc: ""
+ jud_anti_roman_faction_mission_desc: "There has frequently been talk of direct annexation of our kingdom by the Roman Empire, which would place us and our cities directly under the governance of the pagan Romans rather than a Jewish king or high priest. An emerging faction known as the Zealots have appeared in recent generations, resisting all forms of non-Jewish influence. Perhaps we can rely on this faction to avoid any prospects of annexation."
  jud_jewish_independence_mission_title: "¹r*YºN„vìrËz"
  jud_jewish_independence_mission_desc: ""
  jud_ports_of_the_great_sea_mission_title: "'Ym=nãS"
@@ -2856,16 +2856,16 @@
  wei_tk_the_azure_sky_is_dead_mission_title: "Í‚)YòT‰k"
  wei_tk_the_azure_sky_is_dead_mission_desc: "SVbìN„vVyHQùfÍd(WIlgNb—eÿ‰|ŽxZÁw0R^ýVuXR„vÄžþTKNqNöeÿNïS&T²‹„v=fÿÄžþTKNqN±R^0Í‚)YòT‰k0=fcknx„vIlg„vöeãNck(WÅ¥cÑÈuÓu0àVdkÿ©‹bìNÇnxÝOIlg–™ým3–ŒT•‰RåNÊSIlg˜RXT(WvQ-N„vàVÚ‹ÿHNárHYIlgSbNúWNx0"
  wei_tk_emperor_of_wei_mission_title: "O›^‰vúW"
- wei_tk_emperor_of_wei_mission_desc: "‹†6qbìNòTÏuckV0WÖSãN†NIlgjOHNm3–wck„v)YPRÿFOýV…QÍN	g¸‹YºN&T²‹bìN„v)Y‹Tÿv^HNêñT±Rðy‡vMO0àVdkÿbìNÅV‰˜ib'YbìN„v^ýVÿHNbìN„vºNl&^egAucƒÿTNb	gºNÁ‹fbìNM‘—VN)Y‹TÙmNSìb9hd–bìN«R÷^…QûNUOlQV„v`‘uwbIl²RHeàVw&&"
+ wei_tk_emperor_of_wei_mission_desc: "While we have officially supplanted the Han Emperor as the true Son of Heaven in Luoyang, there are still many left in the realm who deny our backing from Heaven and claim the imperial throne for themselves. Thus, we must expand our empire and bring prosperity to our people to prove to all that we are deserving of the Mandate of Heaven - this also includes rooting out any open skeptics or Han loyalists within our court, and reducing the authority of governors and inspectors across the realm."
  wei_tk_the_mandate_of_heaven_mission_title: ")Y‹T8eRV"
- wei_tk_the_mandate_of_heaven_mission_desc: "1uŽNbìNÇVgŒTýV…Q„v?e»lKbµkéTúV†NbìN„v›RÏ‘ÿbìNòTÏubHN)Y‹T„vàeïS‰N®‹„vc	gw0àVdkÿ©‹bìN)R(ubìN„v°eˆcCgÇÕläNÿÙ7hbìN„v°e^ýVïSýwO(W*gegàQãNºN-N3zšRŒTAucƒ0"
+ wei_tk_the_mandate_of_heaven_mission_desc: "According to the Book of Wei, the Cao family is descended from the legendary Yellow Emperor through his grandson Zhuanxu, the same lineage as the legendary Emperor Shun. Thanks to the consolidation of our power through both conquest and through political maneuvers within our our realm, we have earned our birthright as holders of the Mandate of Heaven. Let us therefore use our new mandate to pass decrees so our new empire may be stable and prosperous for generations to come."
  wei_tk_chain_down_the_chanyu_mission_title: "þ”USŽN"
  wei_tk_chain_down_the_chanyu_mission_desc: "‹†6qWSStYˆVENåNMR1SHSgŽNIlgÿFO(WIlg(WS¹e^ýV„vCgZ)TƒnTÿWSStY„v¬rbtShˆ°súQ†Nôf'Y„vê»lCgŒT²Pba0KS¡rÖNìNùRbìN„vSè¹Lu„gb†NZÁwÿFOnxžRÿÖNìNïSýwÍN6qùRbìN	g(u0àVdkÿ©‹bìNb—VÖNìN„vHSgÿŠbStYbrbr0Wôb(W®v&^N0"
- wei_tk_humble_the_barbarians_mission_title: "YeSî†7Y"
+ wei_tk_humble_the_barbarians_mission_title: "Humble the Northern Hu"
  wei_tk_humble_the_barbarians_mission_desc: "œœQSTw¦(WIlg)TƒnTNTÍy›Q–Óußvÿ^g(W^ýV-N·ƒ—VHV'Y„vßvËSÿåNÊSHNÖNìNêñT„v8ngr^ýV·ƒ—VôfY„v†˜WŒT0ÌR0àVdkÿ(WÙ›NÎ‘î†ºNÑSUSúQßu»l-NýVSè„vRO?agKNMRÿbìNÅV‰˜OÖNìNHSgv^FdckêñT„v0WMO0"
  wei_tk_warlords_of_liangzhou_mission_title: "ÉQÞT²Ä–"
  wei_tk_warlords_of_liangzhou_mission_desc: "SVÄžþTKNqN(W^ýVNS0WHSrÑSöeÿÉQÞTNEN1SÍS—b†NIlºN0(WIlg˜RXTNŒºNŒTvQÖN‰SèK„„vTwT›Q–„v&^†˜NÿÉQÞT›Q–(W’Nøv‰N—eKNMRVŸ†NêñT„v†˜0WÿlšŒ›Q–ŒTé—B›Q–bHNÉQÞT„vINüR†˜IN0Ù›NöQs„vÉQÞTbëX‚Yœg«ˆbìNêñT„v›RÏ‘Vgÿ¯wšROˆV‹Y0WHNbìNg¡R0"
- wei_tk_tame_the_western_hu_mission_title: "ošg‰áw"
+ wei_tk_tame_the_western_hu_mission_title: "Tame the Qiang"
  wei_tk_tame_the_western_hu_mission_desc: "–NwIlg^ýV„vRÂˆÿ‰¹e„vî†ÏeØS—VŠegŠšSœ˜àeIwÿÖNìNùRIlºN„vÎWG•0Qg„^ŒTFU–„v­ˆûQŠegŠ‘˜AuŒT%N‰S0àVdkÿ–NwÉQÞTnŽNbìN„vŒcµcKNNÿbìN	g†NCg›RúWNxÿïSåNÎN±Ì‘ÑS¨RÜVÿVg‰áwÿb`Y‰NøuKNï„v‰RhQ0"
  wei_tk_secure_the_jade_gate_mission_title: "ÖS—V‰sè•"
  wei_tk_secure_the_jade_gate_mission_desc: "‰sè•sQ=fN*NIN‰„vÀhågÙzÿ)R¦m0NšS„vNøu8fÇÙÌ‘0bìN„v'irÎN‰sè•sQúQÑSÿzÇþfÏu^SŽNIlg„vTXÌ‘(gÆv0Wÿçuíu0Rôf‰¹„vÏ‚yrŒT'Y—„v^HWÿ(W±Ì‘ÿNøu¿lNwNøuKNïÛNek²Nf0ReÜ„v^ýVÿ‚YWlšÿ(WbìN„ví‹Š-N«ˆðyHN'Yæy0"
@@ -2874,11 +2874,11 @@
  wei_tk_restoration_of_luoyang_mission_title: "tQYmý"
  wei_tk_restoration_of_luoyang_mission_desc: "m3–ÎW«ˆŸ^VÿvQ‡v²RmW“X«ˆ‰V•^m«RÿvQ‡v«R«ˆ´fTc„SS(Wb—4N›Q–TwßvöeÎNm3–²dv^Áý•‰RöeçpHNs^0W0àVdkÿÅNÅNHYÞVm3–=fNY„v–NwÙµ^ÎW^bHNŸ^ŸXÿbìNÅV‰˜ÎN4YVËYÍ‘ú^Ùµ^ÎW^ÿb`YƒR„v‡v²Rú^Qr0Ù7hZPSTNb	gºNUSHybìNO›ýV×S0R)Yi`0"
  wei_tk_achieve_true_harmony_mission_title: "žR°swck„vŒTŒ"
- wei_tk_achieve_true_harmony_mission_desc: "êÎNIlgßu»l†NpeŒvt^TÿIlg‡v^Nbåb²b„vQ¶R`ó`(Wte*NýV¶R×S0R†N¸‹YºN„v(‘u0	g›NºNlT†NæygNbR—Pw„vÕl¶R`ó`ÿw¸‹YºNRlT†NS¶RÊSvQùRÇSegžR°sŒTŒ„vNTtã‰0àeº‹bìN	ébêTagSïÿýÖS³QŽNbìNÇb`Y-NŸSºNl„vŒTs^Néy^egŒb0RbìNêñT„vŒTŒbVV0"
+ wei_tk_achieve_true_harmony_mission_desc: "Since the collapse of Han imperial authority after hundreds of years living under the Han dynasty, the traditional Confucian ideas espoused by the Han emperors has been questioned by many across the realm. Some have turned to Legalism as favored by the Qin, while many others have turned to Daoism and its different understanding of achieving harmony through the Dao. Whatever path we choose, it is up to us to find our own form of harmony by restoring peace and order to the people of the Middle Kingdom, building temples as expected of us to honor our ancestors."
  wei_tk_long_divided_must_unite_mission_title: "RENÅVT"
  wei_tk_long_divided_must_unite_mission_desc: ")YN'Y¿RÿRENÅVT&&Ù=fbV¹RIlg(WÄžþTKNqN-N)Tƒn„v¶rµQ„vÍ‹åS0°s(WbìNòTÏuTwHN-NýV„vßu»lwÿbìN„v¸‹Y˜RXT°s(W±R^øvÍS:)YN'Y¿RÿRENÅVT&&"
  wei_tk_control_changan_mission_title: "µc6R•‰R"
- wei_tk_control_changan_mission_desc: "•‰RÎWÿvQfˆR¾–Ie„vMOnŒT^ýVWµN(Wø‹‚Yc„SSŒTNgéwIra0ˆàeýw„v´fTKb-N«ˆjm9†N0‚YœgbìNó`bHN‰¹e^ýV„v8—INÿbìNÅV‰˜ÝOkS‰Il„vçeý0"
+ wei_tk_control_changan_mission_desc: "The city of Chang'an, its defensible position and its imperial legacy are wasted in the hands of fatuous and incapable tyrants such as Dong Zhuo and Li Jue. If we wish to become hegemons of the western empire, we must secure the former capital of the Western Han and utilize the valuable Tong Pass and Hulao Pass to defend Chang'an and Luoyang."
  wei_tk_the_five_pecks_of_rice_mission_title: "”N—es|S"
  wei_tk_the_five_pecks_of_rice_mission_desc: "”NNãS'Ys|KNS=f†SòSN,rN*N	gÄuÇu„vSYeYe>mÿ(W)Y^b)Y^.Vœ„v†˜üRN(WIl-Nú^Ëz†NêñT„v^yCgýV¶R01uŽNIlºNNb!PüR„vQ¶Rtó`(WN*NHONvQYeINNbbú‹„vŒTŒ„v÷mqNöeãN×S0R(‘uÿSYeáOðNçuíuåNÔkåNŽVûNUOöePôf'Y„vÄ‰!j(Wte*N^ýV.O­d0àVdkÿÙ›NSYe'Y^(WðV¾–öegïSýw=fN*NZÁwbN*N	g(u„vßvËS0"
  wei_tk_conquest_of_shu_mission_title: "Vg‡ýV"
@@ -2886,7 +2886,7 @@
  wei_tk_jingzhou_campaign_mission_title: "³lô•0WbyV"
  wei_tk_jingzhou_campaign_mission_desc: "FƒÞT„v³lô•0WòTÏu«ˆbìN„vùfl¶RÏeïvN†NNµköeô•†N0O'Y„vHQVyùfÍd(WŒRhQVgFƒÞT„vÇz-NÿÖN„v›Q–«ˆŒp¾–'`„v‚ÔkKNbI–bk†N0‹†6qbìN„vè–ïSýwN`Nï`³lô•0W„v4lßWÿFObìNNýwAQ¸‹Ù7h„vœ–xI–bkbìNžR°sbìNjOHN^ýV=UNßu»lw„v‹TÐÿ"
  wei_tk_the_famed_hanxuema_mission_title: "WlNˆRlš"
- wei_tk_the_famed_hanxuema_mission_desc: "W„T„vWlNˆlšÿgRegê'Y›R„vW0WŒT‹sýVÿ(W¸‹YãNåNMR„v)YlšKNb-N«ˆIlgVg0‹†6qbìN°s(W(W-NŸS	g†NêñT„vWlNˆlšÿvQ-NgW„T„v=fdTQlšÿƒR=fT7hW„T„vT^„vPW‘šÿFO'Y›RåNMRßu»l„vW0WùRbìNÍN6q	g(uÿàVHNƒRìN„vlš9SŒTƒRìN(W‰è8f-N„vjO(u0"
+ wei_tk_the_famed_hanxuema_mission_desc: "There is a saying that goes: 'among men Lu Bu; among horses Red Hare.' The famed hanxuema, or 'blood-sweating horses,' were originally from the Dayuan, and land and kingdom that was subjugated by the Han dynasty in the War of the Heavenly Horses many generations ago. While we have our own blood-sweating horses now in the Central Plains, the most famous of which being Red Hare, the mount of the equally-famed general and warlord Lu Bu, the lands formerly ruled by Dayuan are still useful for us, for their horses and for their role in the western trade."
  wei_tk_universal_emperor_mission_title: "NýVegg"
  wei_tk_universal_emperor_mission_desc: "(WnxËz†NêñTjOHN-NŸS‹sg„v=UNßu»lwKNTÿŠegŠf>f„v=fÿNLuØNY0bìNÅV‰˜çuíuib'YbìN„vqVÍT›Rÿ8lÜN‰ÏPIlºN±7hPWÆ‰pˆ%0àVdkÿ©‹bìNŠbîvIQ•bTbìN„v¹LuKNYÿÖS—VôfYãl0"
  wei_tk_nine_rank_system_mission_title: "kNÁT-Nck"
@@ -2900,11 +2900,11 @@
  wei_tk_seize_shouchun_mission_title: "‰ÖSÿR%f"
  wei_tk_seize_shouchun_mission_desc: "‚ã„vWSèÎW^ÊSvQhT¹0WHSS=fbìNÛeQlbÞTWSèŒTôfÜ„v0W¹e„v«Wów0dkYÿa0ˆw²Pba„vCQÔS±R^êñT(W‚ãHN‡v^ÿÙN>N¨RÀo`†NÖN„vLeºNÿuÜ†NÖN„vßvËS0àVdkÿbìN	gEQR„vt1ueQµOŒTVg‚ã0"
  wei_tk_avenge_red_cliffs_mission_title: "dÁXYÇN"
- wei_tk_avenge_red_cliffs_mission_desc: "dÁXKNbÿsS0dÁXKNb0ÿ=fùf›Q(W(W-NýVSèÛLˆ†NNû|RbŸR„vbyVTÿm×S„v,rN!kÍ‘'YwÁkmp'`„v›Q‹N1Y%0YRl„v›Q–(Wc%c˜RhTÕˆ„vcüRNÿùRùf›QO(u†NNÍykp›RIeûQb=g0–NwbìN„v0‚–°s(WÞV0R†N4TýVåNS„v4lßWÿ=föePSb%YRlÿHN¢uT„vPNw¥bÇN†N0"
+ wei_tk_avenge_red_cliffs_mission_desc: "The Battle of Chibi, or Red Cliffs, saw the first major and devastating military defeat inflicted upon Cao Cao's forces after a long series of successful campaigns across northern China. Masterminded by commander Zhou Yu, a fire attack stratagem was used against the Cao fleet by the armies of the Sun clan. With our fleets now returning to the waters north of Wu, it is time that we vanquish the Sun clan and avenge the fallen of Red Cliffs."
  wei_tk_jiaozhi_commandery_mission_title: "²N¾Eeá"
  wei_tk_jiaozhi_commandery_mission_desc: "SVIlg(W-NŸS)Tƒnöeÿ¹ƒX›Q–ÿ‚Y²N¾á„vëXÅuÿ«ˆAQ¸‹(WøvùRdRËz„vÅ`µQNVŸêñT„v†˜0WÿÜ»y-NŸSŒT»Ñ0WHS„vÀoÈpb—e0–NwFƒÞTŒT4TýV„v³lô•0W°s(WòTÏuŒRhQs^šRÿ°s(W=fbìNÛNekTWSÛ›QÿS²N¾Í‘°e³ueQS¹eµc6RKNN„vöeP†N0"
  wei_tk_pacify_the_south_mission_title: "s^šRWS¹e"
- wei_tk_pacify_the_south_mission_desc: "²N¾á=fIlg„v¹ƒXáKNNÿMOŽNeÜ„vWS¹eÿN­e×S0RWS¹eŠºNÛSqN„vZÁw06qwÿ(WIlgmp¡N„v÷mqN-Nÿ›Q–òS×‹¾‹Õl(W²N¾VŸ†NN*NøvùRŒTs^„vÎ˜=nÿb—V†N-NýVºNŒTŠWSãl„vSÍ‘ÿŠWSºNuóú^.†NNµ^^y›ŸÿTÜbòS×‹jOHN0‰‹s00bìNêSýw^gÎNŠWSºN±Ì‘·ƒ—VòS×‹¾‹Õl·ƒ—V„vT7hY„vSÍ‘0"
+ wei_tk_pacify_the_south_mission_desc: "Jiaozhi Commandery was one of the frontier commanderies of the Han dynasty, being located in the far south and constantly threatened by rebellion from the Viet peoples in the south. In the chaos of the fall of the Han dynasty, however, the warlord Shi Xie managed to carve out a relatively peaceful haven in Jiaozhi, earning the respect of Chinese and Viet subjects alike, with the Viet even constructing a shrine worshipping Shi Xie as 'King Si.' Thus, besides direct conquest, to avoid a repetition of the numerous Viet rebellions against the Han we must aim to gain as much respect from the Viet as Shi Xie managed to obtain."
  wei_tk_southern_tributaries_mission_title: "WS¹eg!ýV"
  wei_tk_southern_tributaries_mission_desc: "(WŠWSºNl„vW0WKNY=fTÍyWS¹e‹sýV0ÎW¦ŒTèK„0Ù›NºNluIm(WN*NùRbìNegô‹ŒRhQL–uŒTL–u„v0WHSÿFOÖNìNùRNôfeÜ„vpS¦^^HW„vwmN8fï¿uåb	gˆV'Y„vqVÍT›R0àVdkÿfzf„vZPÕl=fOÙ›NýV¶RbHNbìN‡v^„vg!ýVÿÙ7hÖNìN1SïSåNI`=f(W?e»lŒT8f†˜ßW	cgqbìN„v)RÊvLˆ‹N0"
  wei_tk_cultivate_xuchang_mission_title: "ÑSUS¸‹ý"
@@ -2913,14 +2913,14 @@
  wei_tk_edict_for_talents_mission_desc: "wzf„vO'YHQVyùfÍdI`=fÍ‘Æ‰	gMbNS„vºNÿwN=fÒað`„v5ÏeÿòTÏuÇ‘ÖS†N¸‹YªcËeegùW‰QŒTÛbßRºNMb0©‹bìNçuíuÃOÛ'YÄ‰!j„vYe²wÿ(W^ýVùW‰Q°e„vºNMbÿTöemNú^Ëz(WlO-Nb²‹°s	gºNMb„v6R¦^0"
  wei_tk_three_caos_of_jianan_poetry_mission_title: "	NùfNPR"
  wei_tk_three_caos_of_jianan_poetry_mission_desc: "O'Y„vHQVyùfÍdŒTÖN„v?QPRùfNŒTùfi«ˆðyHNú^‰R×‹„v	Nùfÿ=fIlgmp¡NT°e„vú^‰R×‹LköeãN„vHQqš0ck‚YO'Y„vHQVyùfÍd=fN*NYMbYz‚„vºNS›Q0?e»l¶R0beu¶R0jO¶RŒT×‹ºNbìNêñT„vßu»lwŒTbìN„vãlmNÅV‰˜fR`Nb‰NŒTŒTs^öeg„vz‚=g0"
- wei_tk_conquer_jizhou_mission_title: "VgŽQÞT"
+ wei_tk_conquer_jizhou_mission_title: "Showdown at Guandu"
  wei_tk_conquer_jizhou_mission_desc: "KS¡r(WùR—bNhT„vO'YTwTKNMRÿåNˆÍuHN–™„vˆlNôv=fùfÍd„vßvËSÿ‹†6qˆÍu,gºNNbìN„vRËYºNùfÍd=f?Qöe„vgËSÿFOˆŒTùfNôvb²‹|Vdk=fjo(W„vùRKb01uŽNùfÍdŒTˆÍuÙ2N*NþfÏu„vgËS„vÎ‘ÃVøv’N²QzÿÖNìNý^gbHNO'Y„vßuNwÿ-NýVS¹e(WùfˆKNô•‰NHYêS=föeô•î•˜˜0"
  wei_tk_expansion_of_yecheng_mission_title: "ºÎWibUS"
  wei_tk_expansion_of_yecheng_mission_desc: "(W`S†˜6wÎWTÿÙµ^ÎW^ÅbHNbìNS¹e‹sýV„vIN‰0WHS–™ý0jOHN-NýVSèòTÏuAucƒŒTºNãS.zÆR„vÎW^-NÃVÿ6wÎWSùRbìNN­eîX'Y„v^ýV&^egèT'Y„v‹YYÿ‚YœgbìNTvQúWNx¾‹Ëe0^HWŒT2–¡V•beQSV„vDn0ÙSìb(Wå‹0WHSc˜c°e„vÐ³lÿåNÐ“'ir0eˆÙuŒTºNXT0"
  wei_tk_bronze_bird_pavilion_mission_title: "Ü”À–%fñm"
- wei_tk_bronze_bird_pavilion_mission_desc: "Ü”À–ðS„vú^.=fHN†N2UwN–™äSLk„vey^tbVaŒÿvQ-NÏcð†NNùRR—Ü”žho`(W­wgTXN0Ü”À–ðSú^ŽNO'Y„vú^ýVwùfÍdbŸRVg†Nte*N-NýVSèTÿàQãNºNåNegýcíu0WwQ	gÍ‘‰aINÿôv0RUgŒT‹Rg„v÷tx«ˆQX.bØš¦^Ís5„vR—Ü”ž¨Xów0"
+ wei_tk_bronze_bird_pavilion_mission_desc: "Ü”À–ðSKNQrÿCNÖSaäSLkey^tvQž‘N0ÌSÜ”À–ÿÙSÎW–00êO›fk^ùfÍdNßuS†uÿú^dkØšðSÿvQðXTõuö^ŒvãNwNÝu0óU‹Röeÿ¹rÖSðSæt0tHN0Ü”À–x0ÿëXºNÆ‰å‚Ùsµtÿ¨X—g.OHNsOÝ‹0"
  wei_tk_hefei_xincheng_mission_title: "T¥w°eÎW"
- wei_tk_hefei_xincheng_mission_desc: "	gNwÎW™X„vÎW^T¥w(WûQWS¹e„v4TýVeQµOè–¹eb—ÑS%c†NˆV‹Y„vjO(u06qwÿNRýýw—V0R9e„UÿàVHNüfTS›Q(WŸS,g„vlQ²NÙzD–Ñú^.†NNWYôffˆR¾–Ie„v0T¥w°eÎW00©‹bìNçuíu RHVŒTÑSUSØšðS^ÿONWS¹†uÝOcŒRhQNïSIe4x„v¶r`0"
+ wei_tk_hefei_xincheng_mission_desc: "The walled city of Hefei has served us well in repelling invading forces of Wu in the south. However, everything can always be improved, as the Wei general Man Chong constructed Hefei Xincheng, or 'Hefei New City,' a more defensible fortress near the original city of Hefei. Let us continue to strengthen and develop Hefei Xincheng so the southeastern frontier remains fully impenetrable."
  wei_tk_a_great_wei_fleet_mission_title: "'YtQ4l›Q"
  wei_tk_a_great_wei_fleet_mission_desc: "ÅV‰˜b²‹ÿbìN„v9‚êSNôvN‚YWS¹e„v9‚êSbìN„vwm›QS†˜ŒTwm›QF–b–N‚Y4TýVÿbìN„vS¹eè–ùRÖNìN„v4lßWmNNŸq‰`06qwÿb²‹êñT„vHw–êS=fgNw9eÛÈúQÛNek„v,rNek0àVdkÿbìNÅV‰˜ÎNS¹eŒTWS¹eÛbßRN¶Rÿú^.N=eÔkûNUOvQÖN0‚–ý'Y„vž^'Y0‚–ÿåNib'YŒTÝOkSbìNN­eîX'Y„v^ýV0"
  wei_tk_the_land_of_himiko_mission_title: "QS%V|T0W"
@@ -2930,7 +2930,7 @@
  wei_tk_implement_tuntian_mission_title: "LˆoS0uÕl"
  wei_tk_implement_tuntian_mission_desc: "oS0u6R1u*YVyùfÍd–™Rÿ=fùRIlgmp¡NTŠegŠY„vAmlŒTRƒœ‚W0W„vNÍyã‰³Q¹eHh0 ÇSs^lŒTO›QºNÁûy0Rb‰N-N«ˆWV„vW0WNÿÙ›N°eESlïSåNwÍyv^O`—W0WuImÿb`Yv^ÐcØšuµN›RÿTöemNHNb‰Nöeg„vVìSZP‹YÆQY0"
  wei_tk_restore_the_iron_monopoly_mission_title: "T•Á”N%„"
- wei_tk_restore_the_iron_monopoly_mission_desc: "Ilfk^(W¸‹YãNåNMR1Sú^Ëz†NÁ”„W­eÿP–6R†N'Y‹WÁy%„ON„vCg›Rÿv^SÐvŒTÁ”8fŒcác(WIl­^Kb-N06qwÿÙÍy„W­e(WIlg?eLu„vN›N?e»l>m+R-NN×S0kÎÿ(WárMOw‹sËƒ‰kTÿƒR«ˆŒRhQŸ^d–0KS¡rƒRTðX(WYÿFOÁ”„W­e(WbìNO'Y„vVyHQùfÍd„vßu»lNÍ‘°eú^ËzwegÿÍ‘°e=T¨R†NGdGd2k`W„v-NýVS¹eÏuNm0"
+ wei_tk_restore_the_iron_monopoly_mission_desc: "Emperor Wu of Han had established an iron monopoly many generations ago, limiting the power of large-scale private industries and placing salt and iron trades into the hands of the Han state. However, this monopoly was unpopular among the Reformists political faction in the Han court, and it was fully abolished following the death of the usurper Wang Mang. Despite its reputation, the iron monopoly was reestablished under our Great Ancestor Cao Cao to reboot the faltering northern Chinese economy, nationalizing iron mines to more directly fund the state."
  wei_tk_era_of_the_yellow_dawn_mission_title: "ÄžRt^"
  wei_tk_era_of_the_yellow_dawn_mission_desc: "ùfN‰vN‡vMOÿbHN°e„vO›‡e‡v^Tÿ±R^†NÖN„vt^÷Sw.s^„vgTN*Nßu»l4YTˆ=fú^‰RÿùfN„v°et^÷S=fÄžR09hnc0fÏu0„väSãNzfga¨c­eÿÙ=fN*NÝOÁ‹bìN°e^ýVAucƒ„vey^t0"
  wei_tk_tiger_and_leopard_cavalry_mission_title: "N†yŒ‘š"
@@ -2940,7 +2940,7 @@
  wei_tk_subjugate_youzhou_mission_title: "6eg‹^ÞT"
  wei_tk_subjugate_youzhou_mission_desc: "ËN0WHS=fIlgÝuùRgNS„v¹†u‹†6qûNUOûN‹T0RËNŒTte*NkŒÞT„vÑvßRýN­e×S0R‚YfkShÙ7h„vS¹eî†Ïe„vZÁwÿFO1Ù7hN*NdRËz„v¹†uasTNwèT'Y„vê»l02N*NìrËzFOàesQ't‰„vlQYR¶RÏe(WkŒÞTØS—Vyr+R	gqVÍT›RÿËN„vLˆ?e˜RXTlQYR¦^(WeÜ„vS¹eú^Ëz†NêñT„v›Q–ýV¶RÿwÄ–ÃVÃRÃR„v1qSlQR(WËNWSèú^Ëz†NN*NôfHV'Y„výV¶R0"
  wei_tk_goguryeo_campaign_mission_title: "ØšåSKNVg"
- wei_tk_goguryeo_campaign_mission_desc: "–NwIlg„vpˆ1VÿØšåSKN‹sýV)R(upˆ%„vIlg¹ƒXÿn`S†˜ËNåNN„vIlgÛVá0SVlQYR¦^ŒTËN·^¾‹ÕlÎNØšåSKNKb-NHYÞVN›NW0WöeÿØšåSKNýV‹sØS—VŠegŠ²PbaÿKS¡rbìNÕ‹þVNÖNìNTjOÿFOØšåSKNýV‹stSØS—VŠegŠ²Pbaÿ>mºN cHYbìN„v¹ƒX0WHS0àVdkÿb‰N=fNïSMQ„vÿØšåSKNS«ˆçpÁk0"
+ wei_tk_goguryeo_campaign_mission_desc: "As the Han dynasty grew weak, the Korean kingdom of Goguryeo took advantage of the decaying Han frontier and gradually seized the Four Commanderies of the Han just east of Liaodong. While Gongsun Du and Kang of Liaodong managed to retake some land from Goguryeo, the kings of Goguryeo have become increasingly arrogant, sending men to plunder our frontierlands despite our attempts to cooperate with them. Thus, war is inevitable, and their capital of Hwando shall burn."
  wei_tk_subdue_the_samhan_mission_title: "M–O	Né—"
  wei_tk_subdue_the_samhan_mission_desc: "‹†6qbìN„v^ýV=f-NýV	NýVKNNÿFOgœœºNmNÏu†S†NÖNìNêñT„v	NýVöegÿbìNðyKNHN	Né—0–NwØšåSKN‹sýV«ˆbìN„v›Q‹N›RÏ‘ŒRhQVgÿvQYO	Né—ãgŽNbìN„v‡v^êS=föeô•î•˜˜0"
  wei_tk_harmony_abroad_mission_title: "Ü­dÛVwm"
@@ -3012,8 +3012,8 @@
  rom_mare_nostrum_mission_title: "bìN„vwm"
  rom_mare_nostrum_mission_desc: "bìNWlšºNú^Ëz†NùR0W-Nwm„vŒRhQ8—CgÿbìN°s(WŠbÙ›N4lßWðyHN0Mare Nostrum0ÿb0bìN„vwm00‹†6qbìNbÜw†Næ*YúWºNŒT^JºNegžR°sÙÍy„W­eÿFOþfÏu‰Lq„vWlšwm›Q(WÄ‰!jŒTDÑ‘NòTÏu)SÿIN‰=fàVHNHONûNUOïSåNcbbìNêñT„vYýVwm›QÿbìNNýwAQ¸‹bìNVyHQú^Ëz„vwm›Q.OßuàV·Q.oŒTÒað`wˆm1Y0"
  rom_renovate_pergamum_mission_title: "îO.^JÎW^"
- rom_renovate_pergamum_mission_desc: "êÎNNb	g„v^JÎW^ý«ˆnŽNWlš„vÝO²bKNNÿàeº‹=fjOHNê1u^0D–^STwßvØ=fWlšLˆwÿòTÏu	gNµköeô•†N0bìN„v¸‹YÎW^ý=fÇÁNHa„vßvËS·ƒ—V„vÿ‚Y^KOlšýV‹sÿÖN(W‰kTŠbÖN„v–™ýŒT‹sýVrR©‹ÙubìN0àVdkÿ‹†6qbìN(WbgRŒT‡eSIrÐg›Nî•˜˜NN^JºNNTÿFObìNÅV‰˜çuíuŠb^JºNÆ‰HN^ýV„vR5WlšºN0"
- rom_warriors_of_mars_mission_title: "kpfbëX"
+ rom_renovate_pergamum_mission_desc: "It has been quite some time since all of the Greek cities were placed under Roman protection, either as privileged free cities, subordinate leagues or Roman provincia. Many of our cities were acquired through benevolent allies such as the King of Pergamum who ceded his capital and kingdom to us upon his death. Therefore, while we disagree with the Greeks on some matters such as theater and culture, we must continue to treat the Greeks well as valued Romans of the empire. The city of Pergamum itself has become a thriving and highly esteemed cultural center, being home to the ever first Temple of Asclepius, the god of medicine and healing."
+ rom_warriors_of_mars_mission_title: "Campus Martius"
  rom_warriors_of_mars_mission_desc: "êÎNWlšú^ÎWåNegÿbìNWlšºN1S«ˆPˆN†NHVÈp„vb—e¾|^yjOHNN*N¾–lŒTN×S0kÎ„vÎW^ÿbìN„vVyHQ(WWUaï¯e„v†˜üRNNÉbNºNÛLˆNwp‚æ‚„v‰NHY8—Cg„v—e‰N0àQãNºNTÿWUaï¯e„vTãNbìN„vVyHQú^Ëz†NNLuN	gòSåNeggO'Y„v^ýV0©‹bìNN‰(WböeŒTŒTs^öegPWåN…VÙkÿçuíuèxÃubìN„vŽbýw0"
  rom_reform_the_praetorians_mission_title: "9ei—ykS›Q"
  rom_reform_the_praetorians_mission_desc: "ykS›Q,g”^=f‡v^(Wa'Y)RNbáOûN„v^ýVkS–ÿ6qwÖNìNI`=fhˆ°súQÖNìNÛSýV„výV‹sŒTÌwHRw„vwžRb—îv0‹†6qÖNìNnxžR(WbìN„v^ýV-NnboNwÍ‘‰Ò‰r‚ÿFObìNÅV‰˜O6RÖNìN„vCgZÿÛLˆ9ei—ÿ‚YœgbìN„v‡v^ó`NAwNêS<wí•NêS<wawÉ‰„vÝ‹ÿmN¸‹ïSåNŒRhQFd1ÖNìN0"
@@ -3037,7 +3037,7 @@
  rom_raise_the_legions_mission_desc: "bìNªu‹V%Nf„v›QâVŒTúQr‚„v†˜üRBS=fbìNbHNNLuNgHV'Y„v›RÏ‘„vsQ.•0HN†NÝOcÙN0WMOÿbìNÅV‰˜N­e­‹Ãu°e„v›QâVŒTÇ–(u°e„vS›Q0"
  rom_annexation_of_assyria_mission_title: "Tv^šNð"
  rom_annexation_of_assyria_mission_desc: "–NwÙS)RšN^X	täS‹sýV„v¦lw–ÿÙS)RšN‰è„vW0WK„eQ†NWlšºNKb-N0–NwgTN*N^J‹sýVXbÒRÆR„v¦lw–ÿùRÃWÊS„v`S†˜nxÝO†NÙS)RšN„vWSè¹Lu06qwÿ(WôfÜ„v‰¹eÿN¹e„vâl¯e^ýVçuíuib'YÖNìNùR…QF–„vqVÍT›RÿÙGr«ˆðyHNšNð„väSwW0W0HN†NnxÝOÙ*NÍ‘‰„vwýNÿbìN—‰vpbìN„vùRKbÿŠbte*NšNðv^eQ^ýV0"
- rom_triumph_in_mesopotamia_mission_title: "Ž0tN¾s|šN„vTw"
+ rom_triumph_in_mesopotamia_mission_title: "Triumph in Mesopotamia"
  rom_triumph_in_mesopotamia_mission_desc: "Ž0tN¾s|šN=fN*NgvQÌRÕˆ„v0WHSÿåb	gN›NÅN!kŽNWlš„vNLuNgO'Y„vÎW^0ƒRmN=fbìNN›NgHV'Y„vLeºN„v8hÃV0W&^ÿNbåNVgŽ0tN¾s|šNS'Y'YJR1VÖNìN0"
  rom_from_charax_to_palmyra_mission_title: "ÎNÈTÉbKQ¯e0RôTSs|Éb"
  rom_from_charax_to_palmyra_mission_desc: "`S†˜ågÉb^X<SùRbìN„vFUºNegô‹=fN*NèT'Y„vtQKYKNnÿSV0W„vFUºNŒTôTSs|Éb„vßu»lw(WnxÝOågÉbKQ¯e0RôTSs|ÉbKNô•„v8fï¿u¹eb—yr+RZW³QÿÙag8fï¿u(Wâl¯eŒnŒT0W-NwmKNô•Ð“NwR5„v'ir0"
@@ -3058,9 +3058,9 @@
  rom_consolidate_new_limes_mission_title: "éTúV°e¹Lu"
  rom_consolidate_new_limes_mission_desc: ""
  rom_the_new_aeneid_mission_title: "°eÃW…m?–¯e"
- rom_the_new_aeneid_mission_desc: ""
+ rom_the_new_aeneid_mission_desc: "Following the fall of Troy in the aftermath of the Trojan War, our Trojan ancestor and hero Aeneas fled from the fallen city and embarked on a treacherous odyssey from Troy to Italia, where he finally found himself a new home and laid the foundation for Latium itself, with Romulus and Remus having been descended from Aeneas. With the Odyssey and the Aeneid in mind, we may need to embark on our own new Odyssey or Aeneid to secure the prosperity of our future descendants."
  rom_question_of_true_faith_mission_title: "ckßuáOðN„vî•˜˜"
- rom_question_of_true_faith_mission_desc: "–™HQ=f¹r*YºNÿTeg=fúWcw’VÿÖNìN=fbìNG0R„v—RYeNg‹˜úV„vºNÿÖNìNÒbÝuTÜbWlšø‹^yÿÙ=fN›NwýN…QN3zšR„vÍ‘‰ŸSàV0d–^—Ù*Nî•˜˜«ˆN³R8l80Wã‰³Qÿ&TRWlš8lÜNOwck3zšR0"
+ rom_question_of_true_faith_mission_desc: "Throughout Roman history, the fierce debate over the monotheistic religion in the Levant known as Christianity has been a unique source of both frustration and newfound faith. While emperors such as Domitian persecuted followers of the Christian faith, other emperors such as Constantine were more tolerant, even partial to Christianity, and later emperors outright converted to the faith. However, even when the empire had been Christianized, one such Julian the Apostate attempted to restore the traditional Roman pantheon of pagan gods, while other religious figures emerged who ushered in new heresies such as Marcion, Arian and Donatus. Thus, even in times of seemingly certain orthodoxy, one cannot anticipate impending changes in the currents of faith."
  rom_equites_numidarum_mission_title: "ªRs|•^šN‘šëXâV"
  rom_equites_numidarum_mission_desc: "ªRs|•^šN‘šuQåNvQ(WbHWN„vÇRswû•TŽNN0(W,rŒN!k^?Sb‰N-NÿªRs|•^šNºNâe=fWlš„vßvËSÿÈS=fæ*YúWKbN„vLeºNÿÖNìN°s(W«ˆVìSHN^ýV›Q–(W^ýVhT¹„v…©Rè–0"
  rom_legiones_redde_mission_title: "›QâVRVegÿ"
@@ -3080,7 +3080,7 @@
  rom_magna_germania_mission_title: "'Yåe3wüf<SšN"
  rom_magna_germania_mission_desc: ""
  rom_provincia_britannia_mission_title: "NR ˜<SšNLˆw"
- rom_provincia_britannia_mission_desc: ""
+ rom_provincia_britannia_mission_desc: "With the conquest of Britannia, we have established a military presence in our northernmost frontier territories through several construction projects, such as the castrum in Londinium, Hadrian's Wall in the far north, and a stone road just south of Hadrian's Wall now known as Stanegate. As governing Britannia is already quite the burden on us and our coffers, we must continue to expand our presence in Britannia so it may transform from a frontierlands to a truly loyal and Romanized province of the empire."
  rom_conquest_of_caledonia_mission_title: "VgŽUÌ‘Y<SšN"
  rom_conquest_of_caledonia_mission_desc: "‹†6qbìNòTÏuVg†NNR ˜„vNb	gNR ˜èK„ÿFOŽUÌ‘Y<SšN„v®vKQyrºNÍN6qÝOcìrËzÿv^Nôv(W­ˆûQbìN(WNR ˜„v†˜W0HN†Né`ZÖNìN„vÙ›N­ˆûQÿv^nxÝOÙ›N­ˆûQNQÑSuÿbìN”^å‹ÏPùR^Ì‘TºN±7hS®vKQyrºNnŽNbìN„vßu»lKNN0"
  rom_temples_to_jupiter_mission_title: "1g‡^yr^y™^"
@@ -3333,19 +3333,19 @@
  frk_div_overcome_the_basileus_mission_title: "bÜwôT‰	t¯e"
  frk_div_overcome_the_basileus_mission_desc: ""
  plm_ally_the_merchant_class_mission_title: "NFUºN6–µuÓußv"
- plm_ally_the_merchant_class_mission_desc: "FUºN6–µu=fôTSs|Éb>yO-Nyr+R`SINüR0WMO„v²SOÿàVHNbìN„vbŸRˆV'Yz¦^N‰RVŸRŽNÖNìNck=fÙ›NFUºNÇÃOÛN0W-Nwm„vNøu8fÿObìN„vºNlŒTýV“^ØS—VÌRÕˆÿck=fÙ›NFUºN¿lNw™l.o8fï¿uú^Ëz†N,rN*NôTSs|Éb–kl0WÿÈúQ†Nib'YbìNqVÍT›R0RôTSs|ÉbÎW™XKNY„v,rNek0sSO=f°s(WÿbìN„vqVÍT›RòTÏuÜÜ…úQ†NÙS)RšNÿôTÔk&O<SšN0pS¦^³luóWlšý	gôTSs|ÉbFUºN0"
+ plm_ally_the_merchant_class_mission_desc: "The merchant class are an especially dominant group in Palmyrene society, as we owe much of our success to them - it is the merchants who have enriched our people and our coffers through facilitating the Silk trade with the Mediterranean, and it is the merchants who established the first Palmyrene colonies along the desert trade routes, taking the first steps in expanding our influence beyond the walls of the city of Palmyra. Even now, we have expanded our influence far beyond Syria, with Palmyrene merchants maintaining a presence in Babylonia, along the Indus, and even in the city of Rome."
  plm_protect_the_desert_trade_mission_title: "ÝO²b™l.o8f"
- plm_protect_the_desert_trade_mission_desc: "WlšºNN!kÈSN!k0WÁ‹f†NÖNìN¡l	gýw›RÝO²bbìN„v8fï¿uŒTbìN„vºNl0ÖNìN„v…Qè‰N5T04xOW'`„v…QbŒTsWs„vP%O^ýVNè¹ƒX„v8fŒTuImØS—V¾–åNÍV×Sÿwm×vŒTW*SÏu8^úQ°s(WbìN(WÙS)RšN„v8fÙz0àVdkÿbìNÅV‰˜bÅbwÝO²b)R¦m0NšS„vNøu8f„v1ûNÿFd1Wlš„vqVÍTÿ(WNøuKNï„vASWRïãSú^ËzbìNêñT„vFUNýV¶R0"
+ plm_protect_the_desert_trade_mission_desc: "The Romans have proven time and time again that they are incapable of protecting our trade routes and our people. Their internal squabbling, destructive civil wars and rampant corruption have made trading and living in the eastern frontier of the empire unbearable, and pirates and bandits frequent our trade posts in Syria. Thus, we must take it upon ourselves to protect the lucrative silk trade and break away from Roman influence, establishing our own stable mercantile state at the crossroads of the Silk Road."
  plm_mercantile_hegemon_mission_title: "FUN8—Cg"
  plm_mercantile_hegemon_mission_desc: "•gåNegÿbìNôTSs|ÉbºN„W­e†NN¹eŒT0W-NwmKNô•)R¦m0NšS„vNøu8fÿ(WÙ¹eb—ÿbìNòTÏubHNÙS)RšNŒT“^ÒRÙS)RšN^—8^ÌR	g„vSV0W8—IN06qwÿ–NwbìNib'YbìN‹sýV„v?e»lŒTFUN¹Luÿ–NwŠegŠY„v8fÙzK„eQbìNKb-NÿbìNÅV‰˜„wÆQôf'Y„vÄ–ÃVîX×V0àVdkÿ©‹bìNÖSãNWlšºNŒTâl¯eºNÿbHNÎžáQyrŒT'YN0W-Nwm„vINüR8f8—IN0"
  plm_king_of_kings_of_the_east_mission_title: "N¹eN‹sKN‹s"
  plm_king_of_kings_of_the_east_mission_desc: "(WûQ%âl¯eºNv^ôVIeâl¯e„v–™ýðl‰SKNTÿbìNO'Y„výV‹seY¾±þV¯e&^Nwb)RÁTŒTbØOÔÞV†NôTSs|Éb0ÖNˆVëV·ƒ—V†N0âl¯e„vO'YÜw)Rw0„vÉbNT÷SÿNENTÈSÇ‘(u†N0Mlk Mlkdy Mdnh0ÿb0N¹eKN‹s00çub†NÙ*N«N	gÛv‰Š„v4YTˆTÿ©‹bìNib'Yv^éTúVbìN(W0W-NwmNèÊSvQ»Ñ…QF–wýN„v0WMO0"
  plm_hellenic_campaign_mission_title: "^JbyV"
- plm_hellenic_campaign_mission_desc: "àQ*NNªuåNegÿbìNNôv×S0R'YýV„vFd^ÿsSšN†SqS'YuMRŒT‰kT„v^JSöeãN„vçuNwÿåNÊSWlšqQŒTýVŒTTeg„vCQ–™6R0‹†6qbìNN^JºNŒTWlšºNqQXRÿFObìNÎNegýN*YœU0kÖNìNÿêS‰ÖNìNùRbìN	g)RÿbìNêSÇ‘(uWlš„vTWRŒT4YTˆ0°s(WÿSšNÆušN„vW0W(WbìN„vµc6RKNNÿ=föePŠbb‰N&^0RbìNÇ»S^J‹Sëw„v¶RíV†NÿÙ7hbìN1SïSåNVgÖNìN„vºNlÿ(uÖNìN„v0ÌRkXánbìN„vÑ‘“^0"
+ plm_hellenic_campaign_mission_desc: "For centuries we have been at the mercy of greater powers, the Greek diadochi of the Hellenistic Age who followed Alexander, both in life and in death, and the Romans' Republic and later Principate. While we have coexisted alongside Greeks and Romans, we were never all too fond with them, only adopting Roman names and titles as long as they benefited us, and restricting Greek settlement in our city of Palmyra. Now, with the lands of Asia Minor under our control, it is time that we take the war to the very homeland of our past Hellenic oppressors so we may subjugate their people and fill our coffers with their treasures."
  plm_besiege_the_eternal_city_mission_title: "ôVIe8lR`KNÎW"
  plm_besiege_the_eternal_city_mission_desc: "(WÙKNMRÿbìN-NSpeàQ*N	g¦hó`(WWlššRES„vºNÅNP–ŽNXN9‚zŠ'Ywm„vôTSs|ÉbFUºN0ÆNºNŒTtY¶–06qwÿ‚YÊNÅ`µQNT†NþfÏu„vNWlš^ýV°s(W(WbìN„vbrúVµc6RKNNÿbìN°s(WïSåNÎN^J*‚Lˆÿ©‹bìN„v›Q–ôvb—8lR`KNÎW„v'Yè•ÿŠbƒR„vÎW™X7YHNŸ^ŸX0‚YœgbìNÙ7hZPÿbìNSžR°ssSO=fO'Y„vIl<SÔb·ôTaSmN*gþfSÕ‹„v‹NÅ`ÿŠbWlšºNl0úR™^ŒTWµN„v‹TÐYuÙuôTSs|Éb„vR•0"
  plm_expand_the_agora_mission_title: "ibú^?–bÉb"
- plm_expand_the_agora_mission_desc: "ôTSs|Éb„vÃV=fÎW^„v^HWÿN*NèT'Y„våN8fHN-NÃV„v^HWÿÌ‘b—	gsQzÕl­^ŒTyrÌ‘‰)R<SÁÿb´RO…SÿhTôV=fW„T„vôTSs|ÉblQl„vÕ–ÏP0‹†6qƒR«ˆN^JºN„v^HWøvÔkƒÿFObìN„v^HWf>f=fôTSs|ÉbV„vÿôfèlÍ‘8fwN=flQqQÆ–O0©‹bìNib'Y^HWv^VÑShTôV„vW0Wÿ)R(u³lAmŒTÉl4lÿ(W«ˆr^ñe„v™l.oSôV„vW0WNÿObìNåb	g¥wƒl„vWäXÿÙ7hbìN1SïSåNùW‰QôfY„vºNãSÿÑSUSbìN„vÎW^ÿåNán³bìN„vFUNŒT?e»l—‰0"
+ plm_expand_the_agora_mission_desc: "The heart of Palmyra is the city's agora, a huge trade-specialized center housing the tariff court and tricilinium, or banquet room, surrounded by statues of prominent Palmyrene citizens. Although it has been compared with the agorae of the Greeks, our agora is distinctly Palmyrene, with a greater focus on trade rather than public gathering. Let us expand the agora and develop the lands surrounding it, utilizing the wadi and the springs that bless us with fertile soil in a land otherwise surrounded by arid desert, so we can grow our city to meet our commercial and political needs and outmatch our rival trade city of Petra."
  plm_promote_intellectualism_mission_title: "ùW‰QåwÆ‹RPR"
  plm_promote_intellectualism_mission_desc: "‹†6qbìNôTSs|ÉbºNåb	gêñT„v‡eWRŒTí‹ŠÿFObìN„v–™ý¡l	gûNUOÍ‘‰„vþVfN†™0HN†NÃOÛåwÆ‹ININÿPŸú‹ÔkZsY‹sŽ÷‹†Negê0W-NwmT0W„vfRwŒTòTfR¶R¿‹î•Ùµ^ÎW^©‹bìNçuíuùW‰QÙÍyfR`N‡eSÿú^.bìNêñT„vþVfN†™ÿÇƒRÿfRwìNïSåNNôTSs|ÉbºNR«NÖNìN„våwÆ‹ÿ(WôTSs|ÉbÞ‹u°e„våwÆ‹4Y0"
  plm_corrector_totius_orientis_mission_title: "hQN¹e„vîOckw"
@@ -3381,25 +3381,25 @@
  plm_tame_the_tanukhids_mission_title: "ošgTXªRk"
  plm_tame_the_tanukhids_mission_desc: "ÏPbìN^Ss|ÉbºNN7hÿTXªRkTw¦mNÎNNWlš^ýV„vTjO-N×SÊv06qwÿêeY¾±þV¯eßu»låNegÿTXªRkºNNôv(WÕ‹þVµb6RbìNùRWlš(WÙS)RšNŒT?–Éb=O†˜W„vqVÍTÿ4xOWbìN„vCgZÿuóÂSN†NùRbìN„vlQVb‰N0àVdkÿHN†NnxÝONè¹ƒX„v‰RhQÿbìNÅV‰˜N³R8l80WošgTXªRkºN0"
  plm_red_sea_routes_mission_title: "¢uwm*‚¿u"
- plm_red_sea_routes_mission_desc: "Õhˆi¹lFUºN)R(u¢uwmegib'YbìN„vFUNqVÍT›RÿÝO²bbìN„v8f)RÊvÿKS¡rbìNÎNeg¡l	gwck„W­eÇ¢uwmÿàVHNbìN¡l	gÙ7h„v=nãSÿwNb—4NNwegêWS?–Éb=OºNŒTN^—ºN„vÀoÈpÞz‰N0–NwbìNMRNb*g	g0WTÎžáQyrŒT?–Éb=O„vib.VÿbìN°s(W	g†NËz³¹pÿïSåNÛNekµc6R¢uwm„v8fï¿u0"
+ plm_red_sea_routes_mission_desc: "Palmryene merchants have utilized the Red Sea to expand our commercial influence and protect our trade interests, though we have never truly monopolized the sea for ourselves, lacking the ports to do so and facing stiff competition from the South Arabians and Eastern Africans, along with our trade rivals in Petra. With our unprecedented expansion into Levant and Arabia, we now have the foothold from which we can gain further control over the trade routes of the Red Sea."
  plm_merchants_of_alexandria_mission_title: "šN†SqS'Y=nFUºN"
  plm_merchants_of_alexandria_mission_desc: "šN†SqS'Y=fN*NO'Y„vÎW^ÿFO1uŽNWlšºN„výVÆ‰ÿƒRÛeQ†NpˆK„gÿbìN^Ss|ÉbºN^—8^Ÿq‰`Ù*NEe‹N0–NwšN†SqS'Y°s(WYŽN^Ss|ÉbºN„vcüRŒTÖNìN„v8fN•KNNÿbìNnxáOšN†SqS'YSQ!kbHNN*NIN‰„v8f-NÃVÿyr+R=f°s(WÖNìNïSåNôv¥cÛeQNNøuKNïN„v^Ss|ÉbFUºNTwû|ÿsSO=fWlšºNmNÎN*gåb	gÇÙÍyTwû|0"
  plm_noble_priests_of_palmyra_mission_title: "ôTSs|Éb5ÏemyøS"
- plm_noble_priests_of_palmyra_mission_desc: ""
+ plm_noble_priests_of_palmyra_mission_desc: "Palmyra is a key religious center of our realm, housing several important great temples to the Canaanite gods as well as smaller places of worship for other regional gods such as those of the Mesopotamians and Greeks. Running these temples are priests who are selected from the noble families of Palmyra, and many of these noble clans each have their own ancestral gods numbering over sixty in total."
  plm_export_the_pantheon_mission_title: "“úQN^y¿k"
- plm_export_the_pantheon_mission_desc: ""
+ plm_export_the_pantheon_mission_desc: "Palmya is a land of many cultures and religions, and we have imported many gods, traditions and other cultural aspects from the Mesopotamians, Greeks, and Romans. With the expansion of our empire, it is time that the pantheon and culture of Palmyra are exported to other foreign lands so the authority of our state, gods and peoples become widespread."
  plm_strength_of_odaenathus_mission_title: "'k‰v³uþV¯eKN›R"
- plm_strength_of_odaenathus_mission_desc: ""
+ plm_strength_of_odaenathus_mission_desc: "King Odaenathus of Palmyra was known for being a great martial mind, having bested even the powerful army of the Persians on the battlefield during two campaigns, pushing the Persians back across the Euphrates and even to the walls of the Persian capital Ctesiphon itself. Let us too earn our title as rulers of the East by ensuring the martial legacy of Palmyra and its indomitable cavalry do not disappear from history."
  plm_lay_siege_to_ctesiphon_mission_title: "ôVIeðl‰S"
- plm_lay_siege_to_ctesiphon_mission_desc: ""
+ plm_lay_siege_to_ctesiphon_mission_desc: "The Persian city of Ctesiphon was once right before our armies, with our great king Odaenathus pushing deep into the Persian heartland and laying siege to the capital in Ctesiphon. Although the city withstood our siege, King Odaenathus has proven that the Persians can be defeated. Let us take the battle to the Persian's capital once more and finish what Odaenathus started."
  plm_persian_gulf_markets_mission_title: "âl¯eŒn^HW"
- plm_persian_gulf_markets_mission_desc: ""
+ plm_persian_gulf_markets_mission_desc: "The waters of the Persian Gulf are a crossroads of civilizations and trade, with merchants from the Indian east and the Arabian south all arriving with wares and coin. As a trade-oriented empire, it should be no surprise to anyone that we shall aim to make as much profit as possible from this already-thriving hub of commerce and culture."
  plm_seize_the_indian_spices_mission_title: "HYÖSpS¦^™™™e"
- plm_seize_the_indian_spices_mission_desc: ""
+ plm_seize_the_indian_spices_mission_desc: "For many generations, we Palmyrans have profited from the spice trade as middlemen. With the heartland of Persia under our control, for the first time in the history of our people the production of the lucrative spices is now within our grasp. Let us establish a monopoly over local markets by claiming the spices for ourselves."
  plm_conquest_of_carthago_mission_title: "Vgæ*YúW"
- plm_conquest_of_carthago_mission_desc: "æ*YúW„vW0WþfÏu^SŽNæ*YúWºNÿÖNìN=fþfÏuTÜb‰|<OæWS^y„vS<SúWºN„v	gb1S„vTÔˆ0–NwÃWÊS„v®|ÓN°s(W(WbìN„vµc6RKNNÿ©‹bìNHYÖSN*Nôf'Y„v®|ÓNeg‰QImbìNN­eîX'Y„v›Q–ÿv^SbìN„vFUN8—Cgib'Y0RôfØš„vØš¦^ÿ"
+ plm_conquest_of_carthago_mission_desc: "The land of Carthage once belonged to the Carthaginians, the accomplished descendants of the Phoenicians who once worshiped similar Canaanite gods. With the breadbasket of Egypt now under our control, let us seize an even greater breadbasket to feed our growing army as well as expand our mercantile hegemony to even greater heights!"
  plm_commerce_of_the_great_sea_mission_title: "'Ym2m8f"
- plm_commerce_of_the_great_sea_mission_desc: ""
+ plm_commerce_of_the_great_sea_mission_desc: "As middlemen for the Silk Road between the far east and the Mediterranean, the inhabitants of the Great Sea have always been our cordial customers. With trading and military posts further west than ever before, we now have the foothold from which we may repeat what the Romans did centuries ago, exerting direct influence and control over the Great Sea's markets."
  cmb_mission_to_tamilakam_mission_title: "»SÖNs|Wu„v.OYe"
  cmb_mission_to_tamilakam_mission_desc: ""
  cmb_preah_keo_morakot_mission_title: "ÏgN«ƒÉbÑyyr"
@@ -3622,3 +3622,802 @@
  uma_avert_a_second_fitna_mission.tooltip: "æ‰ÑS‹NöN§Y¯OiàV·O,g·?–Ì‘wIN§!v^	ébHRNg	y˜ÿ§Y0>mHR¢RýNgÖN0§!	ÿ0"
  uma_avert_a_second_fitna_mission_spawned_rebels.tooltip: "ýV…Q¡l	gÛS›Q0"
  uma_crush_the_revolution_mission.tooltip: "Ïu†SÇŒp¾–§Y?–Ôb¯ei—‹T§!ÿv^ÇûQ%?–Ôb¯ei—‹TwÓumgŒp¾–0"
+ hnd_the_puppet_or_the_tyrant_mission_title: "The Puppet or the Tyrant?"
+ hnd_the_puppet_or_the_tyrant_mission_desc: "The Han empire is in a sad state: disloyal warlords believing the Han to be doomed have carved out lands of their own in the Middle Kingdom; the remaining Han loyalists place their hopes on a mere puppet emperor of the Han; the remaining unfaithful who live in lands still under Han control, desiring only wealth and status, curry favor with a brutal tyrant, Dong Zhuo, who has seized power in the Han court following the chaos Ten Eunuchs Revolt, filling the power vacuum after the death of the Ten Eunuchs and the Regent He Jin. In such times of uncertainty, who shall we lend our support to?"
+ hnd_the_puppet_or_the_tyrant_mission.tt: "Unlock new branching missions depending on whether you side with the §YHan emperor§! or §YDong Zhuo and his successors§!"
+ hnd_1_8_dummy_mission_title: "Branching Mission"
+ hnd_1_8_dummy_mission_desc: ""
+ hnd_1_8_dummy_mission.tt: "Complete the mission §MThe Puppet or the Tyrant?§! and side with either the §OHan emperor§! or §ODong Zhuo§! and his successors to unlock these new branching mission tasks"
+ hnd_1_9_dummy_mission_title: "Branching Mission"
+ hnd_1_9_dummy_mission_desc: ""
+ hnd_2_8_dummy_mission_title: "Branching Mission"
+ hnd_2_8_dummy_mission_desc: ""
+ hnd_make_the_court_grovel_mission_title: "Make the Court Grovel"
+ hnd_make_the_court_grovel_mission_desc: "The officials of the Han imperial court tremble in the presence of our leader, the Grand Preceptor Dong Zhuo. Although the Grand Preceptor rewards loyalty well and has restored stability to the capital, many of these timid and quivering officials continue to possess disloyal hearts, wishing for nothing but the downfall of Dong Zhuo. Thus, if we cannot win their hearts through coin or rhetoric, perhaps we must continue to give the court reasons to quiver in our presence and make them grovel at our feet."
+ hnd_usurp_the_dying_han_mission_title: "Usurp the Dying Han"
+ hnd_usurp_the_dying_han_mission_desc: "While it is true that the Grand Preceptor Dong Zhuo had led troops against the Yellow Turban Rebellions, it is no surprise that Dong Zhuo along with many other warlords across the Middle Kingdom recognized that the words of the rebel leader Zhang Jue were correct - the Han dynasty was indeed dying, and only those who are truly powerful, capable and backed by the Heavens can take its place. With the Han dynasty already on its deathbed, it is time that we put the dynasty out of its misery and seize the throne as the true holders of the heavenly mandate."
+ hnd_usurp_the_dying_han_mission.tt: "Have the option to §Ochoose a new dynastic name§! for our empire, §Yreplacing§! the Han"
+ hnd_death_to_the_tyrant_mission_title: "Death to the Tyrant!"
+ hnd_death_to_the_tyrant_mission_desc: "This period of tyrants must come to an end. Dong Zhuo ruled the Han capital with an iron fist, and even the young Han emperor could not help but shake in fear whenever the tyrannical Dong Zhuo would enter the palace halls. The people in the lands under Han control live in fear and poverty, and the land beyond our direct control remains consumed in chaos as various warlords fight for power, caring not for the countless lives that are spent to fuel their pointless drive for conquest and glory. This state of affairs must come to an end. The tyrant must die!"
+ hnd_death_to_the_tyrant_mission.tt: "The tyrant will be §Yoverthrown§!, and an §OEmperor of the Liu clan§! will §Yascend the throne§!, restoring the Han lineage."
+ hnd_forever_azure_sky_mission_title: "Forever Azure Sky"
+ hnd_forever_azure_sky_mission_desc: "There have been many in the past who have tried to undermine and overthrow the divine authority of the Han - the usurper Wang Mang, the fanatic Zhang Jue, and the tyrant Dong Zhuo. Yet in all of these cases, the Han though caught in a period of weakness rose to greatness once again, crushing the ambitious tyrants and proving to all that the Mandate of Heaven rests solely in the benevolent hands of the illustrious Han dynasty. With the absolute authority of the Han Emperors now restored once more, let us now lay the foundations for the Han dynasty to survive for another ten thousand years!"
+ hnd_armies_of_the_grand_preceptor_mission_title: "Vanguard of Dong Zhuo"
+ hnd_armies_of_the_grand_preceptor_mission_desc: "When the Grand Preceptor Dong Zhuo arrived in Luoyang to assist He Jin against the corrupt Ten Eunuchs, he stumbled upon a capital consumed in chaos - He Jin was tricked and killed by the Ten Eunuchs, and in retaliation He Jin's allies attacked the royal palace and slew the eunuchs. Thus, Dong Zhuo seized power with his loyal frontier troops who fought fiercely under him in the Liang Province rebellion - Dong Zhuo himself was loyal to his troops, once refusing a transfer in posts so he would not have to leave his troops behind. With Dong Zhuo's personal force in mind, we will need to win the loyalty of these hard troops if we wish to ensure security and minimize looting in our realm."
+ hnd_purge_the_dogs_of_han_mission_title: "Purge the Dogs of Han"
+ hnd_purge_the_dogs_of_han_mission_desc: "The Grand Preceptor Dong Zhuo arrived to find a burning palace in Luoyang - he has since restored order, secured the Emperor and guaranteed the safety of the officials of Luoyang. Even so, there are those who live in the capital who plot against him, greedy and wretched officials who despite enjoying the protection afforded to them by the Grand Preceptor remain unsatisfied with their positions, believing naively that the feeble Han emperors can lead them to greatness without the guiding hand of the Grand Preceptor. Let us weed out these disloyal dogs and exterminate them like the pests they are!"
+ hnd_armies_of_the_grand_preceptor_mission.tt: "If we do NOT have §Y50§! prestige, we will spend §O1 year of income§! to bribe the loyalty of the Western troops:"
+ hnd_call_upon_han_loyalists_mission_title: "Call Upon Han Loyalists"
+ hnd_call_upon_han_loyalists_mission_desc: "While Dong Zhuo has effectively silenced those who openly spoke out against him and opposed his tyrannical actions, he can never quash the hearts and minds of those still truly loyal to the Han. Dissent lives on through hushed voices in private chambers of some of the most influential officials and commanders - it is now simply a matter of mobilizing this quiet resistance in unified plot to overthrow the tyrant, his followers and any who wish to continue to rule the Han with avaricious intentions."
+ hnd_shatter_the_coalition_mission_title: "Shatter the Coalition"
+ hnd_shatter_the_coalition_mission_desc: "The warlord Yuan Shao rallied various warlords across the land to support him in a great coalition against our Grand Preceptor Dong Zhuo. While the warlords claim to be united in their loyalty to the Han and their opposition to the Grand Preceptor, in truth each of the warlords harbors their own dreams of glory and conquest, desiring only for an opportunity to carve out a realm of their own in these times of chaos and hoping that one day they or their descendants shall usurp the Han as the new emperors of the Middle Kingdom. Let us exploit this greed to shatter any coalitions that form against us."
+ hnd_ports_of_qingzhou_mission_title: "Ports of Qing and Xu"
+ hnd_ports_of_qingzhou_mission_desc: "If we wish to regain control over the northern seas from the warlords of the north as well as the kingdoms of Korea, we will need to secure the ports of Qingzhou and Xuzhou. The Inspector of Qing Province Kong Rong administered the region well and continued to promote Confucian studies despite chaotic times, being a learned and talented scholar himself. Additionally, the Inspector of Xu Province, Tao Qian, had been appointed by Dong Zhuo and had received titles from Dong Zhuo after the coalition against Dong fell apart. As these governors never displayed any resistance to Dong Zhuo's rule, let us return these lands along the empire's eastern coast to Han control."
+ hnd_restore_the_tower_ship_navy_mission_title: "Restore the Tower-Ships"
+ hnd_restore_the_tower_ship_navy_mission_desc: "Following the disintegration of imperial authority along the coasts of the great Four Seas, piracy and brigandage have become common, and many have fled from the countryside to better-protected cities in search of refuge. The Han dynasty once commanded a splendid fleet of tower ship - if we control the coast as well as the valuable cities along the open waters, we will be able to reestablish a proper imperial navy, crack down on piracy and fend off attacks from foreign polities from the sea."
+ hnd_the_han_shall_survive_mission_title: "The Han Shall Survive!"
+ hnd_the_han_shall_survive_mission_desc: "The empire has been fragmented after centuries of rule under the Han, with rapacious warlords across the land all vying for the Mandate of Heaven. While the forces loyal to the Han have dwindled, leaving only those officials within the direct control of what remains of Han authority left to manage the lands under the Han seal, it is our wholehearted belief that the Heavens still back our every move. Just as the Han temporarily experienced setbacks from the likes of Wang Mang and Zhang Jue, the Han shall overcome this time of fragmentation and reunite the land!"
+ hnd_beyond_hulao_pass_mission_title: "Beyond Hulao Pass"
+ hnd_beyond_hulao_pass_mission_desc: "While we bravely fought against the tide of the disloyal warlords of Yuan Shao's coalition at Hulao Pass, ultimately even the might Lü Bu was driven back from Hulao Pass. Fortunately, the ambitions of the warlords have led to their own ruin, as the coalition quickly fell apart shortly afterwards as the warlords bickered and feuded with one another for dominance. With the coalition disbanded and our forces now more powerful than ever, we have the strength and resources to march out beyond Hulao Pass and conquer the now-divided warlords of the former coalition."
+ hnd_decimate_the_yuan_clan_mission_title: "Decimate the Yuan Clan"
+ hnd_decimate_the_yuan_clan_mission_desc: "The Yuan clan under Yuan Shao were the ones to rally the warlords of the land against us, and now they have consolidated their authority in Ji Province. The ambitious and fatuous Yuan Shao had marched his armies against those of the Han, even while knowing full well that doing so would result in the complete extermination of all scions of the Yuan clan who lived and worked in the Han capital. Let us reward him for his greed and continue what he started: the fall of a shortsighted traitor and the total extermination of his own clan."
+ hnd_rein_in_the_gongsun_mission_title: "Rein in the Gongsun"
+ hnd_rein_in_the_gongsun_mission_desc: "The Gongsun clans of the north, those of Gongsun Zan and Gongsun Du respectively, have enjoyed autonomy from the Han, being left to rule over the most northern frontier lands in the aftermath of Han decline. While Gongsun Zan refuses to listen to our orders, the more agreeable Gongsun Du has heeded our orders before, accepting Dong Zhuo's orders to take over Liaoning, although this was also clearly to the benefit of Gongsun Du in expanding his power base in the far northeast. With Ji Province now under our control, let us march further north to You Province so that all of the north is restored under direct Han rule."
+ hnd_restore_order_in_liang_mission_title: "Restore Order in Xiliang"
+ hnd_restore_order_in_liang_mission_desc: "The Liang Province Rebellion accelerated the collapse of Han rule, having been led by Qiang rebels and disloyal Han officials in Liang Province in the far northwestern reaches of the empire, erupting the very same year that the Yellow Turban Rebellion rocked the rest of the empire. The personal troops of Dong Zhuo himself have a history with these rebels, as Dong Zhuo and his men had fought a grueling campaign against the Liang rebels, a campaign through which Dong Zhuo had earned his men's trust and loyalty. In its aftermath, the former rebel leaders Han Sui and Ma Teng have become independent warlords in Liang. As they have dared to mobilize their armies against our forces protecting Chang'an, let us answer their disloyalty and insolence with the blade."
+ hnd_retake_the_riverlands_mission_title: "Retake the Riverlands"
+ hnd_retake_the_riverlands_mission_desc: "Jing Province was governed by Inspector Liu Biao, a fellow scion of the Liu clan of which our Han emperors are also members of, as Liu Biao is descended from Liu Yu, son of Emperor Jing of Han. Since the collapse of imperial authority following the coalition against Dong Zhuo, however, Liu Biao has ruled Jing as an autonomous warlord, ignoring the Han government. Let us rein in these rogue Liu scions and restore direct Han rule over the riverlands of Jing Province."
+ hnd_reconquest_of_yangzhou_mission_title: "Reconquest of Yangzhou"
+ hnd_reconquest_of_yangzhou_mission_desc: "Yang Province is another territory currently governed by members of the Liu family, the same dynasty as the ruling emperors of the Han. The Inspector of Yang Province, Liu Yao, is descended from Liu Fei, the eldest son of the Han dynasty's founding emperor Liu Bang. However, Liu Yao rules Yang independent of our direct influence, and the region continues to be fiercely contested by other warlords in the region who do not share the same blood as the Han Emperor. Thus, it is in our interests to secure Yang and reunite with the scions of the Han in the region."
+ hnd_imperial_restoration_mission_title: "Imperial Restoration"
+ hnd_imperial_restoration_mission_desc: "The empire, long united, must divide; the empire, long divided, must unite. This is how it has always been. From the fall of the Shang, Zhou and Qin dynasties, history has proven that those unworthy of possessing the Mandate of Heaven are doomed to fail, replaced by a worthy successor favored by Heaven. With the Middle Kingdom's reunification now within our grasp, we have proven to all that the title of Son of Heaven still belongs to the Han."
+ hnd_ancestral_tombs_mission_title: "Ancestral Han Tombs"
+ hnd_ancestral_tombs_mission_desc: "The Han capital of Luoyang is home to many valuable items, many of them dating back centuries and safely guarded in the tombs of the ancestral emperors of the Han dynasty. If we wish to relocate our capital to a position that may be more securely defended against rival warlords, we must consider whether or not we wish to bring these riches with us. On the other hand, we can leave Luoyang alone and instead invest only in bolstering our capital's defenses so we may continue to bravely face off against invasions and raids by warlords, bandits and barbarians."
+ hnd_ancestral_tombs_mission.tt: "Have the option to pay our respects at the tomb and strengthen a capital in §YLuoyang§!, OR to §Opillage the ancestral tombs§! and strengthen a capital in §YChang'an§!, giving different bonuses depending on the option chosen"
+ hnd_reconstruct_luoyang_mission_title: "Reconstruct Luoyang"
+ hnd_reconstruct_luoyang_mission_desc: "When the coalition forces of Yuan Shao pressured Dong Zhuo's position at Hulao Pass, Dong Zhuo made the decision to retreat from the Han capital of Luoyang and relocate the center of administration to Chang'an, the historic capital of the Western Han period. While doing so, however, Dong Zhuo thoroughly pillaged the ancestral tombs of the previous Han emperors, sacking the city of Luoyang and taking everything of value to Chang'an. Luoyang was abandoned, with only impoverished residents who could not afford to move left behind in the plundered city. Let us correct this tragedy and restore the ancestral Han capital to its former glory."
+ hnd_heirs_of_liu_bang_mission_title: "Heirs of Gaozu"
+ hnd_heirs_of_liu_bang_mission_desc: "Emperor Gaozu of Han, also known as Liu Bang, is the illustrious founder of the Han dynasty. When the Qin collapsed, Liu Bang was forced to accept rule over the poor frontier lands of Bashu, assuming the title of King of Han. It is from these poor lands, however, that Liu Bang emerged and conquered all of the former Qin lands and defeated Xiang Yu, propelled by his brilliance and supported by Heaven itself. Long after his time on this earth, the regional capital of Chengdu remains as one of the most prosperous cities of our own time, being further developed by scions of the Liu clan. It is unfortunate, then, that one of these scions, Liu Yan, held greedy ambitions in his heart, for Liu Yan had broken away from Han authority as an independent warlord."
+ hnd_shi_xies_jiaozhi_mission_title: "Shi Xie's Jiaozhi"
+ hnd_shi_xies_jiaozhi_mission_desc: "It cannot be denied that the Administrator of Jiaozhi, Shi Xie, has done an exceptional job governing Jiao Province in our stead. Following the collapse of Han authority in the southern frontier of the empire, Shi Xie maintained stability and has even earned the loyalty of his Vietnamese subjects, who even honor him as King Si in their temples. Shi Xie has been relatively unambitious, keeping to his frontier province's borders in Jiao - let us find a way for him and his successors to return to us as rightful servants of the Han."
+ has_two_hired_skill_3_advisors.tt: "Have at least §G2§! Skill §O3§! or higher Advisors hired at the same time"
+ rom_renovate_pergamum_mission.tt: "§YPrimary culture§! OR §Yaccepted culture§! is of the §OGreek§! culture group"
+ rom_renovate_pergamum_mission.tt2: "In the §Yevent§!: Choose between different §Ydiscounted§! advisors of §GGreek§! culture"
+ rom_extend_the_via_regia_mission.tt: "All provinces listed in the mission requirements gain the §Ypermanent§! modifier §YVia Nova§!, giving §G+10%§! Local Friendly Movement Speed and §G+1§! Supply Limit"
+ rom_extend_the_via_regia_mission.tt2: "\n\nHave the option to release §MPalmyra§! as a loyal §Ovassal§! with §Ymilitary bonuses§! through an event"
+ rom_annexation_of_assyria_mission.tt: "In the §Yevent§!: Have the option to release §OOsroene or Adiabene§! as a loyal buffer §Yvassal state§!"
+ rom_triumph_in_mesopotamia_mission.tt: " \"In the §Yevent§!: Have the option to release §OCharacene§! as a §YVassal§!, §YMarch§! OR §YClient Kingdom§!, the latter of which will NOT take up a §YDiplomatic Relation§! slot\""
+ rom_protectorate_in_armenia_mission.tt: "In the §Yevent§!: Have the option to release §OArmenia§! as a §YVassal§! OR a §YClient Kingdom§!, the latter of which will NOT take up a §YDiplomatic Relation§! slot"
+ rom_question_of_true_faith_mission.tt: "\n\nIn the event: Choose between §OChristianity§! or §OHellenism§! §g(or a§! §Ythird§! §greligion if do not worship either)§!\nGain religious §Gbonuses§! and §MBranching Missions§!, depending on the decision we make"
+ rom_weather_the_imperial_crisis_mission.tt: "Have survived and ended the §OImperial Crisis§! Disaster"
+ rom_provincia_britannia_mission.tt: "All owned §OFort§! provinces in the §YBritain§! region gain the province modifier §YRoman Castrum§!, giving §G-15%§! Culture Conversion Cost and §G+10%§! Defensiveness"
+ rom_conquest_of_caledonia_mission.tt: "In the §Yevent§!: Have the option to release §OCaledonia§! as a §YClient Kingdom§!, which will NOT take up a §YDiplomatic Relation§! slot"
+ rom_petra_roman_road_mission_title: "Petra Roman Road"
+ rom_petra_roman_road_mission_desc: ""
+ rom_strata_diocletiana_mission_title: "Strata Diocletiana"
+ rom_strata_diocletiana_mission_desc: ""
+ rom_extend_the_via_braga_mission_title: "Extend the Via Braga"
+ rom_extend_the_via_braga_mission_desc: ""
+ rom_renovate_viae_italiae_mission_title: "Renovate Viae Italiae"
+ rom_renovate_viae_italiae_mission_desc: ""
+ rom_expand_the_via_augusta_mission_title: "Expand the Via Augusta"
+ rom_expand_the_via_augusta_mission_desc: ""
+ rom_ab_asturica_burdigalam_mission_title: "Ab Asturica Burdigalam"
+ rom_ab_asturica_burdigalam_mission_desc: ""
+ rom_lay_down_the_via_flavia_mission_title: "Lay Down the Via Flavia"
+ rom_lay_down_the_via_flavia_mission_desc: ""
+ rom_support_the_via_militaris_mission_title: "Support the Via Militaris"
+ rom_support_the_via_militaris_mission_desc: ""
+ gha_might_of_the_gold_empire_mission_title: "Might of the Gold Empire"
+ gha_might_of_the_gold_empire_mission_desc: ""
+ gha_tuaregs_of_timbuktu_mission_title: "Tuaregs of Timbuktu"
+ gha_tuaregs_of_timbuktu_mission_desc: ""
+ gha_ife_ambitions_mission_title: "Ife Ambitions"
+ gha_ife_ambitions_mission_desc: ""
+ gha_arrival_of_islam_mission_title: "Arrival of Islam"
+ gha_arrival_of_islam_mission_desc: ""
+ gha_arrival_of_islam_mission.tt: "Unlock new §OBranching Mission§! depending on the option we choose in the §Yevent§!."
+ gha_locked_branching_mission_1_mission_title: "Branching Mission"
+ gha_locked_branching_mission_1_mission_desc: ""
+ gha_locked_branching_mission_1_mission.tt: "Complete the mission §MArrival of Islam§! and choose whether or not to tolerate the new faith to §Yunlock§! this new §Obranching mission§! task"
+ gha_capital_of_two_faiths_mission_title: "Capital of Two Faiths"
+ gha_capital_of_two_faiths_mission_desc: ""
+ gha_champion_of_nyame_mission_title: "Champion of Nyame"
+ gha_champion_of_nyame_mission_desc: ""
+ gha_ghanian_cavalry_mission_title: "Ghanian Cavalry"
+ gha_ghanian_cavalry_mission_desc: ""
+ gha_subdue_songhai_mission_title: "Subdue Songhai"
+ gha_subdue_songhai_mission_desc: ""
+ gha_trade_cities_of_the_hausa_mission_title: "Trade Cities of the Hausa"
+ gha_trade_cities_of_the_hausa_mission_desc: ""
+ gha_priests_of_the_sacred_grove_mission_title: "Priests of the Sacred Grove"
+ gha_priests_of_the_sacred_grove_mission_desc: ""
+ gha_temples_to_nyame_mission_title: "Temples to Nyame"
+ gha_temples_to_nyame_mission_desc: ""
+ gha_tribute_from_djenne_mission_title: "Tribute From Djenné"
+ gha_tribute_from_djenne_mission_desc: ""
+ gha_the_land_of_princes_mission_title: "The Land of Princes"
+ gha_the_land_of_princes_mission_desc: ""
+ gha_challenge_the_kanem_empire_mission_title: "Challenge the Kanem Empire"
+ gha_challenge_the_kanem_empire_mission_desc: ""
+ gha_subjugate_the_sanhaja_mission_title: "Subjugate the Sanhaja"
+ gha_subjugate_the_sanhaja_mission_desc: ""
+ gha_gold_fields_of_bure_mission_title: "Gold Fields of Bure"
+ gha_gold_fields_of_bure_mission_desc: ""
+ gha_mandinka_kingdoms_mission_title: "Mandinka Kingdoms"
+ gha_mandinka_kingdoms_mission_desc: ""
+ gha_develop_koumbi_saleh_mission_title: "Develop Koumbi Saleh"
+ gha_develop_koumbi_saleh_mission_desc: ""
+ gha_cereals_of_the_vassal_cities_mission_title: "Cereals of the Vassal Cities"
+ gha_cereals_of_the_vassal_cities_mission_desc: ""
+ gha_camel_caravans_mission_title: "Camel Caravans"
+ gha_camel_caravans_mission_desc: ""
+ gha_beyond_the_sahel_mission_title: "Beyond the Sahel"
+ gha_beyond_the_sahel_mission_desc: ""
+ gha_humble_the_imazighen_mission_title: "Humble the Imazighen"
+ gha_humble_the_imazighen_mission_desc: ""
+ gha_salt_mines_of_godala_mission_title: "Salt Mines of Godala"
+ gha_salt_mines_of_godala_mission_desc: ""
+ gha_gold_nugget_monopoly_mission_title: "Gold Nugget Monopoly"
+ gha_gold_nugget_monopoly_mission_desc: ""
+ gha_soninke_blacksmiths_mission_title: "Soninke Blacksmiths"
+ gha_soninke_blacksmiths_mission_desc: ""
+ gha_trans_saharan_routes_mission_title: "Trans-Saharan Routes"
+ gha_trans_saharan_routes_mission_desc: ""
+ gha_rulers_of_takrur_mission_title: "Rulers of Takrur"
+ gha_rulers_of_takrur_mission_desc: ""
+ gha_the_land_of_gold_mission_title: "The Land of Gold"
+ gha_the_land_of_gold_mission_desc: ""
+ gha_imperial_restoration_mission_title: "Imperial Restoration"
+ gha_imperial_restoration_mission_desc: ""
+ gha_retake_kaniaga_mission_title: "Retake Kaniaga"
+ gha_retake_kaniaga_mission_desc: ""
+ gha_seize_koumbi_saleh_mission_title: "Seize Koumbi Saleh"
+ gha_seize_koumbi_saleh_mission_desc: ""
+ gha_dominate_diafunu_mission_title: "Dominate Diafunu"
+ gha_dominate_diafunu_mission_desc: "After breaking away from the collapsing Ghana Empire following the Almoravid invasion, the kingdom of Diarra has turned a once less-significant region of Diafunu into a profitable land, the local rulers of Diafunu now becoming more wealthy and powerful due to trade routes through Wagadu that are no longer controlled by the elite of Koumbi Saleh. Let us control these trade routes to ensure the wealth is directed almost solely to our coffers."
+ gha_vassalize_the_jolofs_mission_title: "Vassalize the Jolofs"
+ gha_vassalize_the_jolofs_mission_desc: ""
+ xi0_worship_the_solar_deity_mission_title: "Worship the Solar Deity"
+ xi0_worship_the_solar_deity_mission_desc: ""
+ xi0_vigor_of_the_golden_chariot_mission_title: "Vigor of the Golden Chariot"
+ xi0_vigor_of_the_golden_chariot_mission_desc: ""
+ xi0_the_terror_of_empires_mission_title: "Terror of Empires"
+ xi0_the_terror_of_empires_mission_desc: ""
+ xi0_subjugate_sogdiana_mission_title: "Subjugate Sogdiana"
+ xi0_subjugate_sogdiana_mission_desc: ""
+ xi0_middlemen_of_the_silk_trade_mission_title: "Middlemen of the Silk Trade"
+ xi0_middlemen_of_the_silk_trade_mission_desc: ""
+ xi0_seize_sakastan_mission_title: "Seize Sakastan"
+ xi0_seize_sakastan_mission_desc: ""
+ xi0_march_on_makran_mission_title: "March on Makran"
+ xi0_march_on_makran_mission_desc: ""
+ xi0_artisans_of_pars_mission_title: "Artisans of Pars"
+ xi0_artisans_of_pars_mission_desc: ""
+ xi0_kingdom_of_many_faiths_mission_title: "Kingdom of Many Faiths"
+ xi0_kingdom_of_many_faiths_mission_desc: ""
+ xi0_nestorian_diplomacy_mission_title: "Nestorian Diplomacy"
+ xi0_nestorian_diplomacy_mission_desc: ""
+ xi0_consolidation_of_belief_mission_title: "Consolidation of Belief"
+ xi0_consolidation_of_belief_mission_desc: ""
+ xi0_imperial_hunas_mission_title: "Imperial Hunas"
+ xi0_imperial_hunas_mission_desc: ""
+ xi0_hordes_of_the_xionites_mission_title: "Hordes of the Xionites"
+ xi0_hordes_of_the_xionites_mission_desc: ""
+ xi0_rule_tokharistan_mission_title: "Rule Tokharistan"
+ xi0_rule_tokharistan_mission_desc: ""
+ xi0_buddhas_of_bamiyan_mission_title: "Buddhas of Bamiyan"
+ xi0_buddhas_of_bamiyan_mission_desc: ""
+ xi0_conquest_of_herat_mission_title: "Conquest of Herat"
+ xi0_conquest_of_herat_mission_desc: "§MBeginning of Persia Path§!\n"
+ xi0_reign_over_parthia_mission_title: "Reign Over Parthia"
+ xi0_reign_over_parthia_mission_desc: ""
+ xi0_shahanshah_of_the_xyon_mission_title: "Shahanshah of the Xyon"
+ xi0_shahanshah_of_the_xyon_mission_desc: ""
+ xi0_expand_the_confederation_mission_title: "Expand the Confederation"
+ xi0_expand_the_confederation_mission_desc: ""
+ xi0_regional_administrators_mission_title: "Regional Administrators"
+ xi0_regional_administrators_mission_desc: ""
+ xi0_control_the_oasis_cities_mission_title: "Control the Oasis Cities"
+ xi0_control_the_oasis_cities_mission_desc: "§MBeginning of China Path§!\n"
+ xi0_the_middle_kingdom_mission_title: "The Middle Kingdom"
+ xi0_the_middle_kingdom_mission_desc: ""
+ xi0_win_heavens_favor_mission_title: "Win Heaven's Favor"
+ xi0_win_heavens_favor_mission_desc: ""
+ xi0_imperial_ambitions_mission_title: "Imperial Ambitions"
+ xi0_imperial_ambitions_mission_desc: ""
+ xi0_successors_of_the_kushana_mission_title: "Successors of the Kushana"
+ xi0_successors_of_the_kushana_mission_desc: ""
+ xi0_overlord_of_ujjain_mission_title: "Overlord of Ujjain"
+ xi0_overlord_of_ujjain_mission_desc: ""
+ xi0_governor_in_vidisha_mission_title: "Governor in Vidisha"
+ xi0_governor_in_vidisha_mission_desc: ""
+ xi0_develop_the_summer_capital_mission_title: "The Summer Capital"
+ xi0_develop_the_summer_capital_mission_desc: ""
+ xi0_economic_assimilation_mission_title: "Economic Assimilation"
+ xi0_economic_assimilation_mission_desc: ""
+ xi0_pax_hunica_mission_title: "Pax Hunica"
+ xi0_pax_hunica_mission_desc: ""
+ xi0_ruler_of_ferghana_mission_title: "Ruler of Ferghana"
+ xi0_ruler_of_ferghana_mission_desc: "§MBeginning of Xiongnu Path§!\n"
+ xi0_seven_rivers_of_the_yueban_mission_title: "Seven Rivers of the Yueban"
+ xi0_seven_rivers_of_the_yueban_mission_desc: ""
+ xi0_golden_mountains_mission_title: "Golden Mountains"
+ xi0_golden_mountains_mission_desc: ""
+ xi0_northern_tribes_mission_title: "Northern Tribes"
+ xi0_northern_tribes_mission_desc: ""
+ xi0_secure_the_sindhu_valley_mission_title: "Secure the Sindhu Valley"
+ xi0_secure_the_sindhu_valley_mission_desc: "§MBeginning of India Path§!\n"
+ xi0_last_kushana_capital_mission_title: "Last Kushana Capital"
+ xi0_last_kushana_capital_mission_desc: ""
+ xi0_cities_of_the_gupta_mission_title: "Cities of the Gupta"
+ xi0_cities_of_the_gupta_mission_desc: ""
+ xi0_maharaja_of_the_huna_mission_title: "Maharaja of the Huna"
+ xi0_maharaja_of_the_huna_mission_desc: ""
+ xi0_promote_tribal_unity_mission_title: "Promote Tribal Unity"
+ xi0_promote_tribal_unity_mission_desc: ""
+ xi0_funds_through_ransoms_mission_title: "Funds Through Ransoms"
+ xi0_funds_through_ransoms_mission_desc: ""
+ xi0_fortified_cities_mission_title: "Fortified Cities"
+ xi0_fortified_cities_mission_desc: ""
+ xi0_tribes_of_issyk_kul_mission_title: "Tribes of Issyk Kul"
+ xi0_tribes_of_issyk_kul_mission_desc: "§MBeginning of Xiongnu Path§!\n"
+ xi0_ancestral_xiongnu_lands_mission_title: "Ancestral Xiongnu Lands"
+ xi0_ancestral_xiongnu_lands_mission_desc: ""
+ xi0_legacy_of_the_chanyu_mission_title: "Legacy of the Chanyu"
+ xi0_legacy_of_the_chanyu_mission_desc: ""
+ xi0_sail_down_the_sindhu_mission_title: "Sail Down the Sindhu"
+ xi0_sail_down_the_sindhu_mission_desc: ""
+ xi0_satraps_of_saurashtra_mission_title: "Satraps of Saurashtra"
+ xi0_satraps_of_saurashtra_mission_desc: ""
+ xi0_chandraguptas_royal_road_mission_title: "Chandragupta's Royal Road"
+ xi0_chandraguptas_royal_road_mission_desc: ""
+ sng1_vanquish_the_nan_tang_mission_title: "Vanquish the Nan Tang"
+ sng1_vanquish_the_nan_tang_mission_desc: ""
+ sng1_elephants_of_southern_han_mission_title: "Elephants of Southern Han"
+ sng1_elephants_of_southern_han_mission_desc: ""
+ sng1_subdue_the_ten_kingdoms_mission_title: "Subdue the Ten Kingdoms"
+ sng1_subdue_the_ten_kingdoms_mission_desc: ""
+ sng1_new_jinghai_circuit_mission_title: "New Jinghai Circuit"
+ sng1_new_jinghai_circuit_mission_desc: ""
+ sng1_army_of_the_song_emperor_mission_title: "Army of the Song Emperor"
+ sng1_army_of_the_song_emperor_mission_desc: ""
+ sng1_tanguts_of_xi_xia_mission_title: "Tanguts of Xi Xia"
+ sng1_tanguts_of_xi_xia_mission_desc: ""
+ sng1_restore_the_great_wall_mission_title: "Restore the Great Wall"
+ sng1_restore_the_great_wall_mission_desc: ""
+ sng1_drive_back_the_khitans_mission_title: "Drive Back the Khitans"
+ sng1_drive_back_the_khitans_mission_desc: ""
+ sng1_mongolian_diplomacy_mission_title: "Mongolian Diplomacy"
+ sng1_mongolian_diplomacy_mission_desc: ""
+ sng1_defensive_forests_mission_title: "Defensive Forests"
+ sng1_defensive_forests_mission_desc: ""
+ sng1_broker_the_sea_alliance_mission_title: "Broker the Sea Alliance"
+ sng1_broker_the_sea_alliance_mission_desc: ""
+ sng1_goryeo_exchange_mission_title: "Goryeo Exchange"
+ sng1_goryeo_exchange_mission_desc: ""
+ sng1_capital_in_bianjing_mission_title: "Capital in Bianjing"
+ sng1_capital_in_bianjing_mission_desc: ""
+ sng1_center_of_the_world_mission_title: "Center of the World"
+ sng1_center_of_the_world_mission_desc: "Since the collapse of Tang authority, the belief that the Chinese Emperor sits upon a throne at the center of the world has been questioned, with the barbarian Khitans and Tanguts seizing the northern lands and refusing to acknowledge our suzerainty. Let us expand our influence abroad and acquire foreign tribute, by any means necessary, to ensure our subjects still believe our Emperor rules the true Middle Kingdom."
+ sng1_true_son_of_heaven_mission_title: "True Son of Heaven"
+ sng1_true_son_of_heaven_mission_desc: ""
+ sng2_tanguts_of_xi_xia_mission_title: "Tanguts of Xi Xia"
+ sng2_tanguts_of_xi_xia_mission_desc: ""
+ sng2_restore_the_great_wall_mission_title: "Restore the Great Wall"
+ sng2_restore_the_great_wall_mission_desc: ""
+ sng2_new_jinghai_circuit_mission_title: "New Jinghai Circuit"
+ sng2_new_jinghai_circuit_mission_desc: ""
+ sng2_war_of_reconquest_mission_title: "War of Reconquest"
+ sng2_war_of_reconquest_mission_desc: ""
+ sng2_legacy_of_yue_fei_mission_title: "The Legacy of Yue Fei"
+ sng2_legacy_of_yue_fei_mission_desc: ""
+ sng2_goryeo_exchange_mission_title: "Goryeo Exchange"
+ sng2_goryeo_exchange_mission_desc: ""
+ sng2_advance_beyond_the_huai_mission_title: "Beyond the Huai"
+ sng2_advance_beyond_the_huai_mission_desc: ""
+ sng2_humiliation_of_jingkang_mission_title: "Humiliation of Jingkang"
+ sng2_humiliation_of_jingkang_mission_desc: ""
+ sng2_crush_the_false_emperor_mission_title: "Trounce the False Emperor"
+ sng2_crush_the_false_emperor_mission_desc: ""
+ sng2_chain_down_the_hordes_mission_title: "Chain Down the Hordes"
+ sng2_chain_down_the_hordes_mission_desc: ""
+ sng2_reclaim_coastal_dominance_mission_title: "Coastal Dominance"
+ sng2_reclaim_coastal_dominance_mission_desc: ""
+ sng2_true_son_of_heaven_mission_title: "True Son of Heaven"
+ sng2_true_son_of_heaven_mission_desc: ""
+ sng2_capital_in_linan_mission_title: "Capital in Lin'an"
+ sng2_capital_in_linan_mission_desc: ""
+ sng2_han_resettlement_mission_title: "Promote Han Resettlement"
+ sng2_han_resettlement_mission_desc: ""
+ sng2_center_of_the_world_mission_title: "Center of the World"
+ sng2_center_of_the_world_mission_desc: "Since the collapse of Tang authority, the belief that the Chinese Emperor sits upon a throne at the center of the world has been questioned, with the barbarian Khitans and Tanguts seizing the northern lands and refusing to acknowledge our suzerainty. Let us expand our influence abroad and acquire foreign tribute, by any means necessary, to ensure our subjects still believe our Emperor rules the true Middle Kingdom."
+ sng3_imperial_examinations_mission_title: "Imperial Examinations"
+ sng3_imperial_examinations_mission_desc: ""
+ sng3_debate_the_new_policies_mission_title: "Debate the New Policies"
+ sng3_debate_the_new_policies_mission_desc: ""
+ sng3_new_policies_locked_branching_mission_title: "Branching Mission"
+ sng3_new_policies_locked_branching_mission_desc: ""
+ sng3_maintain_social_order_mission_title: "Maintain Social Order"
+ sng3_maintain_social_order_mission_desc: ""
+ sng3_enact_the_new_policies_mission_title: "Enact the New Policies"
+ sng3_enact_the_new_policies_mission_desc: ""
+ sng3_neo_confucian_movement_mission_title: "Confucianist Revival"
+ sng3_neo_confucian_movement_mission_desc: ""
+ sng3_the_rising_scholar_class_mission_title: "The Rising Scholar Class"
+ sng3_the_rising_scholar_class_mission_desc: ""
+ sng3_circulate_paper_money_mission_title: "Circulate Paper Money"
+ sng3_circulate_paper_money_mission_desc: "Our dynasty has observed the creation of the first form of paper currency, in the form of woodblock-printed promissory notes. If we wish to initiate the first large-scale production and standardization of paper currency, as well as a steady supply of paper tribute from the provinces beyond the capital, we will need the cooperation of the local scholar-gentry elite who influence and manage political and economic affairs at the regional level."
+ sng3_support_the_landed_gentry_mission_title: "Support the Landed Gentry"
+ sng3_support_the_landed_gentry_mission_desc: ""
+ sng3_in_pursuit_of_harmony_mission_title: "In Pursuit of Harmony"
+ sng3_in_pursuit_of_harmony_mission_desc: ""
+ sng3_inward_focus_mission_title: "Focusing Inward"
+ sng3_inward_focus_mission_desc: ""
+ sng3_thriving_economy_mission_title: "Thriving Economy"
+ sng3_thriving_economy_mission_desc: ""
+ sng3_rising_trade_guilds_mission_title: "Rising Trade Guilds"
+ sng3_rising_trade_guilds_mission_desc: ""
+ sng3_scientific_sponsorship_mission_title: "Scientific Sponsorship"
+ sng3_scientific_sponsorship_mission_desc: ""
+ sng3_print_the_zizhi_tongjian_mission_title: "Print the Zizhi Tongjian"
+ sng3_print_the_zizhi_tongjian_mission_desc: ""
+ sng3_a_permanent_navy_mission_title: "A Permanent Navy"
+ sng3_a_permanent_navy_mission_desc: ""
+ sng3_maritime_investments_mission_title: "Maritime Investments"
+ sng3_maritime_investments_mission_desc: ""
+ sng3_porcelain_exports_mission_title: "Porcelain Exports"
+ sng3_porcelain_exports_mission_desc: ""
+ sng3_weaponizing_huoyao_mission_title: "Weaponizing Huoyao"
+ sng3_weaponizing_huoyao_mission_desc: ""
+ sng3_crossbow_innovations_mission_title: "Crossbow Innovations"
+ sng3_crossbow_innovations_mission_desc: ""
+ sng3_military_reforms_mission_title: "Military Reforms"
+ sng3_military_reforms_mission_desc: ""
+ mlb_allies_of_the_ningthouja_mission_title: "Allies of the Ningthou"
+ mlb_allies_of_the_ningthouja_mission_desc: "The Ningthou, or King of the Meitei people, has been in power in Manipur for many centuries. However, our survival in the face of rival clans can also be attributed to trustworthy allies who we can reliably call upon in times of need, such allies including the Kingdom of Pong to the east. Let us continue to establish diplomatic networks with foreign states to ensure the survival of our people and our independence in the face of growing empires along our borders."
+ mlb_meitei_mandala_mission_title: "Meitei Mandala"
+ mlb_meitei_mandala_mission_desc: "Our neighbors to the east have established a system they call a Mandala, or circle, in which a powerful ruler reigns over a circle of vassal cities that pay tribute to the center. To compete with our rivals, let us establish a mandala of our own by securing the loyalty of our own subjects."
+ mlb_huiyen_lallong_mission_title: "Huiyen Lallong"
+ mlb_huiyen_lallong_mission_desc: "Huiyen Lallong is the traditional martial art form of the Meitei people, made up of Thang-Ta (armned combat) Sarit Sarak (unarmed combat). The martial art is also closely tied to war-dances and duels, the latter of which had strict rules of conduct, such as not killing opponents who run or plead - while duels usually ended without any deaths and only once the first blood was drawn, it was expected that the victory would behead the loser, taking heads as trophies. While this martial tradition is practiced by warriors and individuals, it is important that we spread the art to encompass all of our armed forces, institutionalizing Huiyen Lallong as a military staple."
+ mlb_rakhine_port_cities_mission_title: "Rakhine Port Cities"
+ mlb_rakhine_port_cities_mission_desc: "The port cities of Arakan have long been a crossroads between India and Southeast Asia, a place where goods, ideas and religions have been exchanged over the course of centuries. As we do not have a navy of our own, having never had direct access to the sea for ourselves, the conquest of the Arakanese cities, once the opportunity arises, shall be of great benefit for the prosperity and future expansion of our growing Meitei state."
+ mlb_raja_of_vanga_mission_title: "Raja of Vanga"
+ mlb_raja_of_vanga_mission_desc: "So far, we have won victories of several regional powers in eastern India, conquering the clans of the Naga Hills and Assam. Before us now is the land of Vanga, a land that has throughout history been ruled by much more powerful, centralized kingdoms, their fame dating back to the times of Ashoka the Great of Maurya and even the ancient era of the Mahabharata, having been famed for their seafaring expertise and their war elephants. The conquest of these lands of Vanga, therefore, would certainly be a watershed moment in Meitei history, should we build up the resources and military might to accomplish this - perhaps we will also be able to centralize our own state in ways similar to past Rajas of Vanga."
+ mlb_raja_of_vanga_mission.tt: "Choose between the §Ytwo different bonuses§! below, depending on whether we will integrate forms of §YIndian§! kingship or remain distinctly §YManipuri§! in ruling Bengal:"
+ mlb_raja_of_vanga_mission.tt2: "Have the option to reform into a §MMonarchy§! through an event if we are still §OTribal§!"
+ mlb_meitei_vaishnavism_mission_title: "Meitei Vaishnavism"
+ mlb_meitei_vaishnavism_mission_desc: "Though Sanamahism is the traditional faith of our people, when Hinduism was introduced in our lands it quickly developed into a distinctly-Meitei form of Hinduism, specifically a form of Vaishnavism, the form of Hinduism in which the god Vishnu is the supreme deity. As we expand further into India and incorporate more and more Hindus of various backgrounds, including other Hindu traditions such as Shaivism, Hinduism in which Shiva is the Supreme Being, let us focus on establishing our own Meitei form of Hinduism as the orthodox form of the faith, regardless of whether we ourselves may or may not be Hindu."
+ mlb_maharaja_of_magadha_mission_title: "Maharaja of Magadha"
+ mlb_maharaja_of_magadha_mission_desc: "The lands of Magadha were the heartland and original homeland for many great empires ruled by great Maharaja, or Great Kings. These empires include the likes of the Nanda, Maurya, Shunga and Gupta Empires, and because of this many cities in Magadha such as the historic Magadha capital of Pataliputra have earned great prestige over the past several generations. By conquering and incorporating Magadha into our realm, we too would inherit the legacy of these great emperors and empires."
+ mlb_ganges_hegemon_mission_title: "Ganges Hegemon"
+ mlb_ganges_hegemon_mission_desc: "The rich lands of the Ganges have been the heartland of many great Indian kingdoms and empires throughout the eras, rich in coin as well as goods and history. Thus, the Ganges Basin is often a battleground fiercely contested between rival kingdoms and empires, seeing invasions from not only Indian kings but also those of the Greeks, Saka, and Yuezhi. By securing all of the Ganges Basin, we would not only reign over a great kingdom from Ganges Delta in Bengal in the east to the Yamuna River Basin in the west, but we would also firmly establish ourselves as an unrivaled, legitimate kingdom in the north, displaying to all that we are not temporary invaders but rather a ruling dynasty that is here to stay in northern India."
+ mlb_control_the_clan_chiefs_mission_title: "Control the Clan Chiefs"
+ mlb_control_the_clan_chiefs_mission_desc: "Much of our military history was spent warring with the various clans of the Manipuri region, whether it be the Khumans, Houkei, Luwangs or Moirangs. With the clans now under our control, it is important that we keep them under our control, whether it be through earning their loyalty or more harshly demanding their obedience."
+ mlb_loiyumpa_silyel_mission_title: "Loiyumpa Silyel"
+ mlb_loiyumpa_silyel_mission_desc: "The Loiyumpa Silyel is the first constitution of Manipur, and it is also one of the oldest constitutions in the entire world. Written in the 11th century by King Loiyumpa, the constitution built upon a proto-constitution declared centuries earlier in the 400s. Let us ensure that all of our people regardless of class or background adhere to this constitution, and that we have capable rule to demand the fealty, loyalty and respect of the people of our realm."
+ mlb_assamese_annexation_mission_title: "Assamese Annexation"
+ mlb_assamese_annexation_mission_desc: "The tribal kingdoms of Assam to the north have long rivaled us in authority, and for much of history we have been independently carving our kingdoms in our own regions, each polity limiting conquests mostly to the hills directly adjacent to our respective royal territories. With our ruler setting sights on lands far beyong the Naga Hills, perhaps it is time for us to test our might against the kings of Assam and set out to conquer lands farther west along the Brahmaputra River."
+ mlb_khasi_of_the_pnar_clan_mission_title: "Khasi of the Pnar Clan"
+ mlb_khasi_of_the_pnar_clan_mission_desc: "The Jaintia kingdom of the Khasi people is a land of many different faiths and deities. The common people practice their own, local animistic folk religion known as Niamtre, and we can sympathize with them, being practitioners of our own Sanamahist religion surrounded by kingdoms and empires of various other religions such as Hinduism and Buddhism. Additionally, many of the ruling class in Jaintia are Hindus, making offerings and constructing monuments to Hindu gods. Should these lands fall under our control, we would inherit a land of many gods, not too dissimilar to our own realm."
+ mlb_indian_ambitions_mission_title: "Gateway to India"
+ mlb_indian_ambitions_mission_desc: "With the conquest of Vanga and Jaintia, we have guaranteed ourselves a proper gateway into the Indian heartland in the direct west of our realm. Though our armies are stronger than ever, we must remain vigilant in our conquests as we take on much more powerful kingdoms and perhaps even empires in the lands farther along the blessed Ganges River."
+ mlb_kalingan_campaign_mission_title: "Kalingan Campaign"
+ mlb_kalingan_campaign_mission_desc: "The lands of Kalinga were once ruled by mighty kings including those of the Mahameghavahana Empire, whose famed king Kharavela made great conquests against the likes of the Magadha and Satavahana Empires. However, their time has greatness has since passed - after the withdrawal of the Gupta Empire from Kalinga, the land was left in disunity, divided between various rulers who each claimed the title of Kalingadhipati, meaning 'Lord of Kalinga.' Let us end their era of disunity and claim the title of Kalingadhipati for ourselves as the new overlords of the Kalingan heartland."
+ mlb_kangla_palace_mission_title: "Kangla Palace"
+ mlb_kangla_palace_mission_desc: "Our capital in Kangla as well as numerous cities and villages across our realm are naturally defensible areas, protected by hills and jungle. Even so, we will need to invest more resources, time and effort in fortifying our lands if we wish to fight back against increasingly powerful invading forces as well as establish our sphere of influence over nearby polities. Thus, let us erect sturdy walls and ramparts around our palace in Kangla, fortifying them alongside the statues of two great Kanglasha, lion-dragons that act as guardian beasts in Meitei legend, which stand outside the front gates of Kangla."
+ mlb_cavalry_of_the_ningthou_mission_title: "Sound the Lallup Drum"
+ mlb_cavalry_of_the_ningthou_mission_desc: "The lallup system was established by the ancient king Pakhangba over Manipur, as the king had just united all seven main principalities of Manipur and wished to effectively call upon the seven principalities during times of war. The lallup calls for mandatory service and labor from all males of the kingdom in exchange for land use, and the system effectively reorganized the land and people under a single ruler for the first time in Manipuri history. This lallup is called upon by a great royal drum, beaten five times to herald invasion by attacking enemies or declaration of war. Let us therefore sound the drums of war once we are prepared to expand beyond the Manipuri heartland."
+ mlb_seize_the_brahmaputra_mission_title: "Seize the Brahmaputra"
+ mlb_seize_the_brahmaputra_mission_desc: "The Brahmaputra River to the north is seen as the lifeline for many different peoples, clans and tribes in the Brahmaputran region. These lands have maintained autonomy beyond the borders of Manipur for centuries - if we wish to expand further west, we will need to subjugate its peoples and kingdoms to ensure the security of our homeland before we send our armies further west."
+ mlb_subdue_tripura_mission_title: "Subdue Tripura"
+ mlb_subdue_tripura_mission_desc: "The people of Tripura are well respected for driving back invasions from Turkic, Afghan, Mughal, Burmese and Arakanese armies on many occasions. With our growing status as a regional power in eastern India, perhaps the time has come to test our own mettle and subjugate a people who, like us Meitei, have fought with resilience against larger kingdoms with success."
+ mlb_spice_trade_mission_title: "Enter the Spice Trade"
+ mlb_spice_trade_mission_desc: "Various Indian and Southeast Asian kingdoms have grown rich from the trade of spices along the southern coast, a coast that has throughout all of history been outside of our reach. With the conquest of Vanga and the firm consolidation of our rule in eastern India, now is the time for us to dispatch our own merchants and embassies to tap into the lucrative spice trade so we may further enrich our lands, peoples and treasury."
+ mlb_kings_of_kangleipak_mission_title: "Kings of the Kangleipak"
+ mlb_kings_of_kangleipak_mission_desc: "The ancient kingdom of our people was known in our own Meitei mother language as 'Kangleipak', with 'Manipur' being a Sanskrit name of our lands. The ancient kings of Kangleipak are especially prestigious in our histories, and it is said that the Sanamahist deity Pakhangpa, a primordial dragon god, established the first Meitei dynasty in Kangleipak by subjugating the rival Poiretons. The great deity Pakhangpa is followed by a series of legendary, divine-like kings, of whom even our royal chroniclers do not know as much about. Let us continue this ancient legacy of a past that has been all but forgotten and establish a mighty and benevolent kingdom, one worthy of the blessings granted to us by our gods."
+ mlb_kings_of_kangleipak_mission.tt: "Have the option to change our §Ycountry name§! to §MKangleipak§!, the name of our kingdom our people's own §YMeitei language§!"
+ mlb_cheitharol_kumbaba_mission_title: "Cheitharol Kumbaba"
+ mlb_cheitharol_kumbaba_mission_desc: "Our past kings have achieved many great things, and the near-divine ancient kings of Kangleipak have cemented their place in the hearts and minds of all of the Meitei people. Thus, it is especially important that we record all that has been passed down throughout the generations; if there are stories passed down orally, we must record them in writing, and if there are stories already written scattered across numerous works, then we must compile them. Let us therefore appoint talented individuals, perhaps our ruler themselves, to collect these ancestral histories and update the Cheitharol Kumbaba, the royal chronicles of our kingdom."
+ mlb_drive_back_the_pong_mission_title: "Kingdom of Pong"
+ mlb_drive_back_the_pong_mission_desc: "The Kingdom of Pong to our east had served as a reliable ally to our kingdom in the past, and we have a history of assisting one another in times of both peace and war. However, times have changed, and allies of yesterday may be enemies in the future. Thus, let us tread carefully in the game of diplomacy to see whether we can continue trusting Pong as an ally, or perhaps we will need to take more drastic measures to ensure the Pong will share our goals and interests."
+ mlb_a_million_rice_fields_mission_title: "A Million Rice Fields"
+ mlb_a_million_rice_fields_mission_desc: "The lands of Lan Na, meaning Million Rice Fields, are home to many mueang, or cities, housing fertile fields, strong forts and great temples. If we wish to create a great empire in the southeastern lands, we will need to subjugate the mueang and peoples of Lan Na, along with its million rice fields."
+ mlb_a_million_elephants_mission_title: "A Million Elephants"
+ mlb_a_million_elephants_mission_desc: "The legendary founder of human civilization is the primordial deity Koupalu, who established Meitei civilization in Mount Koubru near Imphal, where he now resides. Koupalu now acts as the omniscient and omnipotent guardian god of the Meitei people, riding atop a great white elephant as his steed. With our expansion taking us further southeast in the lands of the Tais, it would therefore be fitting that we too earn our own white elephants by conquering the land of Lan Xang, meaning Million Elephants."
+ mlb_blessings_of_imoinu_mission_title: "Blessings of Imoinu"
+ mlb_blessings_of_imoinu_mission_desc: "Imoinu is the goddess of the household, hearth, family, wealth and prosperity, and she is one of the incarnations of the goddess Leimarel Sidabi, the highest female deity in the Meitei pantheon and the mother of every living being in the universe. Imoinu not only blesses us with wealth and prosperity, but she also maintains the moral righteousness of the people, the prosperity of families and the social honor of women. Under Imoinu, women are able to enjoy various rights that may not be shared by women in other lands, being influential figures of collectivity in the marketplace and being those who maintain the whole of the family."
+ mlb_consult_the_manu_loishang_mission_title: "Consult the Manu Loishang"
+ mlb_consult_the_manu_loishang_mission_desc: "The Manu Loishang is the main judicial body of our Sanamahist religion, passing judgement on religious issues and ensuring the piety of the Maibas and Maibis, or priests and priestesses, of our lands. Thus, let us consult with the Manu Loishang as well as the Maibas and Maibis to ensure we are taking the correct path towards piety, benevolence and prosperity for current and future members of the Meitei religious community."
+ mlb_temples_to_the_lai_mission_title: "Temples to the Lai"
+ mlb_temples_to_the_lai_mission_desc: "The term Lai means 'god' in the Meitei language, and it is the term that we apply to all deities of the Meitei pantheon. This includes primordial deities that oversee all of humanity as well as individual apokpa, ancestral deities of Sanamahism which protect individual families and clans in Meitei society. Let us build great monuments and temples to the Lai so we may make offerings to the gods of the world, and also to properly thank the apokpa of our families for their blessings and protection."
+ mlb_the_way_of_kangleism_mission_title: "The Way of Kangleism"
+ mlb_the_way_of_kangleism_mission_desc: "Another name for our traditional religion is Kangleism, the religion of the Kangleipak kingdom. To ensure that we remain pious to the gods of our faith, we must not only continue to present offerings and pray to our gods, but we must also spread the word of our faith to the lands and peoples of the conquered, ensuring that the number of followers of the Kanglei gods shall continue to grow for posterity."
+ mlb_the_hills_of_the_shan_mission_title: "The Shan Highlands"
+ mlb_the_hills_of_the_shan_mission_desc: "When the Shan peoples migrated from the northeast into the lands of what are thus now known to us as the Shan Hills, they quickly established themselves as a powerful and formidable regional power. If we wish to establish a proper kingdom in the lands south of us such as Burma, we will need to subjugate the Saophas, the kings of the Shan, and ensure they shall not only come to us only in peace but also with gifts in hand as tribute."
+ mlb_march_into_burma_mission_title: "March Into Burma"
+ mlb_march_into_burma_mission_desc: "Burma is home to many powerful cities and kingdoms, their legacy and ancestral lineages dating back as far as those of us Meiteis. The Burmese have repeatedly challenged our authority, leading invading armies and raids into the lands of Manipur. Let us end their insolence once and for all through a series of grand campaigns, marching through the hills and jungles of Burma, seizing the various cities and temples of their lands so we may enrich our treasury and establish a powerful kingdom of our own over all of Burma."
+ mlb_march_into_burma_mission.tt: "§OIn the event§!: Have the option to reform into a §YMonarchy§! with §MMandala System§! mechanics"
+ mlb_down_the_irrawaddy_mission_title: "Down the Irrawaddy"
+ mlb_down_the_irrawaddy_mission_desc: "With the powerful cities and clans of central Burma now under our control, we can look further south towards where the Irrawaddy River meets the sea, the land of Pegu inhabited by various prestigious Mon kingdoms throughout history. Before the Tai and Burmese migrations, it was the Mon who ruled the lands of the Southeast alongside the Khmer - with the passage of time, the Mon kingdoms have diminished in power, a perfect scenario for a new fledgling empire such as ours to descend upon the Irrawaddy Delta."
+ mlb_rule_the_chao_phraya_mission_title: "Rule the Chao Phraya"
+ mlb_rule_the_chao_phraya_mission_desc: "The Chao Phraya River is the lifeline of the central Thai people - so important is it to the Thais that the title Chao Phraya marks it as the chief ruling river of the lands, and the river is also known as Mae Nam, meaning 'motherly river' in Thai, and name that the Thais have now extended to all rivers in their realm. Let us enrich ourselves from the soils and cities of the Chao Phraya and seize the lands of Central Thailand for the glory and prosperity of our great Manipuri kingdom!"
+ mlb_supplant_the_khmer_mission_title: "Supplant the Khmer"
+ mlb_supplant_the_khmer_mission_desc: "The Khmer emperors of old adopted the prestigious Sanskrit title Chakravartin, meaning 'universal ruler,' and literally meaning 'one whose wheels are moving,' meaning that it is a ruler who can ride their chariot to any land without obstruction, having conquered all of the realms in the human world. With our invading forces crossing the Chao Phraya and now on the doorstep of Angkor, it is now obvious to all that they are no longer worthy of this title, the Khmer realm in clear decline, the city of Angkor no longer the center of the world. Thus, let us ride our own chariot into Angkor, unimpeded by the blades or walls of a declining state."
+ kre_outer_faction_chiefs_mission_title: "Outer Faction Chiefs"
+ kre_outer_faction_chiefs_mission_desc: "Our confederation is structured in such a way that there exists a 'central faction' and an 'outer faction.' While the central faction makes up the warriors directly loyal to the Khan, the outer faction are autonomous Mongol chiefs who answer indirectly to our Khan. Thus, it is important that we ensure the loyalty of the outer faction chiefs so they shall remain loyal to us regardless of the circumstances."
+ kre_ong_khan_mission_title: "Ong Khan"
+ kre_ong_khan_mission_desc: "The Kereite khan Toghrul was granted the title of Wang Khan, roughly meaning 'prince' or 'king', from the emperor of the Jin dynasty, and the title is known in our own tongue as Ong Khan. While we are not so desperate that we need a foreign power to recognize our legitimacy, we are not so arrogant as to turn down the benefits that diplomatic recognition from a powerful state would bring us."
+ kre_war_with_the_kyrgyz_mission_title: "War With the Kyrgyz"
+ kre_war_with_the_kyrgyz_mission_desc: "The Yenisei Kyrgyz to the north have enjoyed great autonomy, at one point ruling a great confederation that encompassed virtually all of the Mongolian steppe north of the Chinese empire. Their time of dominance has since passed however, and it is time for a new power to reign over the far north. Thus, let us ride to the untamed northwest and subjugate the Kyrgyz chiefs once and for all."
+ kre_seize_sogdian_markets_mission_title: "Seize Sogdian Markets"
+ kre_seize_sogdian_markets_mission_desc: "The cities of the lands known for centuries as Sogdia have long thrived from the east-west trade of the Silk Road, serving as middlemen merchants carrying eastern goods such as silks and spices to western markets where they are sold for even higher prices. Let us ensure these thriving cities pay tribute directly to our Khan so we may also benefit from the pan-continental trade."
+ kre_nestorians_of_central_asia_mission_title: "Nestorians of Merv"
+ kre_nestorians_of_central_asia_mission_desc: "The opulent city of Merv is home to many riches, both economic and cultural. More importantly to our people and our Nestorian faith is that the city is also home to the Nestorian Metropolitan Bishop of Merv. The Bishops of Merv have done by us Christian Mongols in the past, not only sponsoring the conversion of our people but also serving as a main mode of communication between our people in the steppes and the Patriarch of Baghdad in the far west. The Bishop of Merv was even so kind as to send a letter to the Patriarch of Baghdad on our behalf, requesting that the Nestorian Kereites be allowed to fast less than other Nestorian Christians in the world."
+ kre_tribute_from_the_west_mission_title: "Tribute From the West"
+ kre_tribute_from_the_west_mission_desc: "We have marched our armies far into the western lands, and as a result many foreign peoples and states that were once completely unknown to us are now subjects of our Great Khagan. Ruling over such a vast confederation is extremely difficult especially with our semi-nomadic style of government, however, so it is imperative that we establish autonomous yet staunchly loyal vassal kings, chiefs and governors on the western periphery of our growing empire."
+ kre_the_exile_of_nestorius_mission_title: "The Exile of Nestorius"
+ kre_the_exile_of_nestorius_mission_desc: "After being shunned by the orthodox leaders of Christianity in the Roman Empire, in the year of our Lord 435 Nestorius was exiled by imperial edict to a monastery in the Great Oasis of Hibis in Egypt, a monastery in which Nestorius spent the last of his years and later passed away. With our armies piercing far west, we can now ride towards Egypt for a proper pilgrimage to Nestorius' final resting place."
+ kre_swearing_the_anda_bond_mission_title: "Swearing the Anda Bond"
+ kre_swearing_the_anda_bond_mission_desc: ""
+ kre_obeisance_to_the_khan_mission_title: "Obeisance to the Khan"
+ kre_obeisance_to_the_khan_mission_desc: ""
+ kre_sedentary_subjects_mission_title: "Sedentary Subjects"
+ kre_sedentary_subjects_mission_desc: "While our great Khagan values martial might and the glory obtained from bloody campaigns, [Root.Monarch.GetSheHe] also values the knowledge obtained from our enemies and vassals, as it is only through their knowledge that we are able to improve our skills in siegecraft, for example. We men and women of the steppes admittedly have much to learn from the sedentary peoples who have come under our authority. Let us continue to learn the customs, traditions, technologies, ideas and arts of the various sedentary peoples we conquer."
+ kre_subjugate_the_merkits_mission_title: "Subjugate the Merkits"
+ kre_subjugate_the_merkits_mission_desc: "The Merkits are one of several tribes known to us as the Forest Peoples, an independent force that while having allied with us in the past have also been formidable enemies in the form of raiding parties and invading warbands. Before we aspire for conquests in Central Asia and China, perhaps it would be wise to settle the northern Forest Peoples as loyal vassals of our Khan."
+ kre_hegemonize_the_uyghurs_mission_title: "Hegemonize the Uighurs"
+ kre_hegemonize_the_uyghurs_mission_desc: "The Uighurs are a powerful tribe, having once ruled a huge confederation that dominated the Mongolian steppe. Even in their diminished form today, they exert a great amount of influence over the region, and we have warred with them on several occasions for dominance of the southwestern steppelands. Uniquely among the steppe peoples, the Uighurs possess their own written language, something that we Mongols do not. Thus, perhaps we can learn how to create our own script through the Uighur's subjugation."
+ kre_the_house_of_afrasiab_mission_title: "The House of Afrasiab"
+ kre_the_house_of_afrasiab_mission_desc: "The ruling family of the Kara-Khanid Khanate claim to be descended from the Afrasiab dynasty, the legendary rulers of Turan, the great eastern empire that warred with the Shahs of Iran as described in famous texts such as the Iranian epic the Shahnameh. The Kara-Khanids like their Afrasiab predecessors rule over a powerful state in Central Asia, the wealthy oasis cities of the Tarim Basin under their control. Let us conquer the sons of the Afrasiabs so we may too inherit the legacy of Turan."
+ kre_persian_ambitions_mission_title: "Persian Ambitions"
+ kre_persian_ambitions_mission_desc: "With the heartland of Turan now under our control, we can work towards even greater aspirations. The lands of Iran, rich in history of empire and ancient wealth, are only but the next lands that shall fall to our Khagan who is destined to rule the world as ordained by God Himself. Let us ride deep into the Iranian heartland and establish ourselves as His new divinely-appointed Khan of Khans in Iran."
+ kre_long_ride_to_baghdad_mission_title: "Long Ride to Baghdad"
+ kre_long_ride_to_baghdad_mission_desc: "The city of Baghdad is not only the capital of the powerful Abbasid Caliphate in the west but is also the home of the Patriarch of the Christian Nestorian Church. Thus, the city is not only significant politically and religiously in the Muslim world but is also of great significance to the followers of the Nestorian doctrine of Christianity. With us now having a foothold in Iran, we can now aim towards seizing Baghdad itself so we may place the Patriarch under the direct protection of we fellow Nestorians."
+ kre_great_mongol_ulus_mission_title: "Great Mongol Ulus"
+ kre_great_mongol_ulus_mission_desc: ""
+ kre_protector_of_the_shunned_mission_title: "Protector of the Shunned"
+ kre_protector_of_the_shunned_mission_desc: ""
+ kre_westward_caravans_mission_title: "Westward Caravans"
+ kre_westward_caravans_mission_desc: ""
+ kre_westward_caravans_mission.tt: "Enables access to the §MBurghers§! §YEstate§!"
+ kre_levy_the_central_faction_mission_title: "Levy the Central Faction"
+ kre_levy_the_central_faction_mission_desc: "Our confederation is divided into a 'central faction' and an 'outer faction.' While the outer faction is made up of various chiefs and tribes who are largely autonomous yet swear fealty to our Khan, the central faction is made up of warriors and elite cavalry units who directly answer only to the Khan, ensuring that the Khan shall always have a loyal faction through which he can levy troops even in times of war or internal strife. Let us levy the finest warriors of our central faction so we can expand our confederation beyond the already-flexible boundaries of our steppe khanate."
+ kre_supplant_khamag_mongol_mission_title: "Khamag Mongol"
+ kre_supplant_khamag_mongol_mission_desc: "We were once the dominant power of the Mongols under the Zubu Confederacy. However, much time has passed, and now the Khans of the Khamag Mongol Confederacy have for the most part become the dominant force of the Mongolian steppes. We have had good relations with the Khans of the Khamag Mongol in the past, with even blood brotherhoods, or andas, existing between Khans of the Kereites and the Khamag Mongols such as between Toghrul Khan of the Kereites and Yesugei of the Borjigin house of the Khamag Mongols. However, true hegemony can only be won by asserting our authority over the Khamag Mongol - whether this will be through war or diplomacy is up to the Khamag Mongol..."
+ kre_new_zubu_confederation_mission_title: "New Zubu Confederation"
+ kre_new_zubu_confederation_mission_desc: "During the period of the Liao Dynasty of the Khitans, the Kereite khans were chosen as the dominant leaders of the Zubu Confederacy, the early form of the Mongolian confederacy in the steppes north of the Chinese empires. While the Zubu Confederacy has since been dissolved, we still retain a presence in the steppes as a dominant force. Thus, we have laid the foundation for restoring the Zubu Confederacy, even if only figuratively, through the restored dominance of our khan over the Mongolian tribes."
+ kre_mongol_unification_mission_title: "Mongol Unification"
+ kre_mongol_unification_mission_desc: "If we wish to truly unite the Mongol peoples under a united banner and identity, more work will need to be done besides simple conquest. Hearts and minds must be won, and new bonds of blood brothership must be forged between the various constituent tribes of our confederation. Warriors and aristocrats must not see themselves as Tayichuud, Naiman or Kereite; they must instead view themselves only as Mongols!"
+ kre_mongol_unification_mission.tt: "Via event: Can side with the §YMongol aristocracy§! or favor §Ymeritocracy§! in restructuring the newly-conquered Mongol tribes, giving different bonuses depending on the option chosen"
+ kre_church_of_iran_mission_title: "Church of Iran"
+ kre_church_of_iran_mission_desc: "Before the Islamization of Iran, the region was home to a significant Christian population, its development in Iran influencing another popular religion, Manichaeism. Most notably, the Nestorian Church, or the Church of the East, took hold in many Iranian communities. With Iran now secured under our rule, we can work towards restoring Nestorian doctrine as a significant presence in Iran."
+ kre_custodian_of_holy_cities_mission_title: "Custodian of Holy Cities"
+ kre_custodian_of_holy_cities_mission_desc: "With the establishment of a great empire, one thing we have learned is that our arrows can be sharpened not only to attack and plunder but also to defend. Thus, let us secure the holy sites of Nestorian Christianity and protect them with our lives, ensuring that none may harm the followers of Nestorius' true doctrine ever again."
+ kre_mend_eastern_schisms_mission_title: "Mend Eastern Schisms"
+ kre_mend_eastern_schisms_mission_desc: "At the Council of Ephesus in 431, Nestorius and his doctrine was rejected and condemned by the other Christian council members in attendance. He was accused of heresy, removed from the council and his see and exiled by the Roman emperor Theodosius II to Egypt. Both following and preceding Nestorius, various other schism appeared in the eastern reaches of the Roman Empire, such as the Miaphysites and Paulicians. With our armies now at the doorstep of the City of the World's Desire, let us mend this schism once and for all and assert our doctrine as the true path for Christendom."
+ kre_descendants_of_three_magi_mission_title: "Descendants of Three Magi"
+ kre_descendants_of_three_magi_mission_desc: "We believe ourselves to be descended from the biblical Magi, the Three Wise Men who visited Jesus Christ during His birth. With the blood of such notable figures in the history of the Christian religion itself, we must ensure that our sons and their descendants all continue to serve God piously as His warriors and disciples."
+ kre_descendants_of_three_magi_mission.tt1: "Have the choice to adopt §YNestorian Christianity§! as the primary religion §Ywithout§! a stability hit"
+ kre_descendants_of_three_magi_mission.tt2: "Adopt §YNestorian Christianity§! as the primary religion §Ywithout§! a stability hit"
+ kre_descendants_of_three_magi_mission.tt3: "Our §Ycapital§! along with a random province with a §OTemple or Cathedral§! §Yconvert§! to §MNestorian§!"
+ kre_baptize_the_mongols_mission_title: "Baptize the Mongols"
+ kre_baptize_the_mongols_mission_desc: ""
+ kre_merchant_missionaries_mission_title: "Merchant Missionaries"
+ kre_merchant_missionaries_mission_desc: ""
+ kre_merchant_missionaries_mission.tt: "Gain the ability to use the §OPropagate Religion§! Trade Policy in trade nodes"
+ kre_christian_rivals_mission_title: "Christian Brothers"
+ kre_christian_rivals_mission_desc: "Both the Kereite and Naiman tribes mostly follow the Christian doctrines of Nestorius, and both the Kereites and Naimans claim to be descended from the Biblical Magi, also known as the Three Wise Men who visited Jesus Christ upon His birth. Thus, this shared history makes our two tribes true brothers by blood and faith; let us unite the Kereites and Naimans under one banner as brothers of eastern Christendom."
+ kre_invade_the_western_xia_mission_title: "Invade the Western Xia"
+ kre_invade_the_western_xia_mission_desc: ""
+ kre_chinese_campaign_mission_title: "Chinese Campaign"
+ kre_chinese_campaign_mission_desc: ""
+ kre_chinese_campaign_mission.tt: "Enables the §MTake the Mandate of Heaven§! §Ycasus belli§! regardless of religion, so it will still be available even if we are §YChristian§!"
+ kre_claim_gods_mandate_mission_title: "Claim God's Mandate"
+ kre_claim_gods_mandate_mission_desc: ""
+ kre_heavenly_kingdom_mission_title: "Heavenly Kingdom"
+ kre_heavenly_kingdom_mission_desc: ""
+ kre_nestorian_churches_mission_title: "Nestorian Churches"
+ kre_nestorian_churches_mission_desc: ""
+ kre_church_of_prestor_john_mission_title: "Church of Prester John"
+ kre_church_of_prestor_john_mission_desc: ""
+ kre_church_of_prestor_john_mission.tt: "Enables access to the §MChurch§! §YEstate§!"
+ kre_decimate_the_tatars_mission_title: "Decimate the Tatars"
+ kre_decimate_the_tatars_mission_desc: "The confederacy of the Tatars have long harassed the Keraite tribes, raiding our lands and even killing some of the most prominent leaders within the Keraite confederation. The emperors of the Middle Kingdom of China turn them against us through tributary relations, pitting horde against horde for the benefit of the Chinese emperors. Thus, let us put an end to their aggression once and for all and put them down like the dogs of the emperor that they are."
+ kre_quell_the_jurchens_mission_title: "Tame the Jurchens"
+ kre_quell_the_jurchens_mission_desc: "The arrogant Jurchens are not ones to be taken lightly, always rebelling against more powerful entities and constantly warring with their neighbors, both the nomadic Mongol tribes as well as the kings of Korea. The Jurchens even have imperial aspirations, claiming the title of emperor of the Jin dynasty. To ensure they will not be a thorn in our side as we expand south towards the Chinese heartland, we will need to chain down the ambitious Jurchens."
+ kre_quash_the_korean_kings_mission_title: "Quash the Korean Kings"
+ kre_quash_the_korean_kings_mission_desc: ""
+ kre_beyond_the_great_wall_mission_title: "Beyond the Great Wall"
+ kre_beyond_the_great_wall_mission_desc: ""
+ kre_beyond_the_great_wall_mission.tt: "Gain §Yclaims§! on every §Yneighboring§! province in §OChina§!"
+ kre_burn_down_zhongdu_mission_title: "Tear Down Zhongdu's Walls"
+ kre_burn_down_zhongdu_mission_desc: ""
+ kre_restore_beth_sinaye_mission_title: "Restore Beth Sinaye"
+ kre_restore_beth_sinaye_mission_desc: "Beth Sinaye was the name of the Church of the East's metropolitan bishopric in China under the Tang dynasty. However, during the Huichang era of the Tang, religions classified as 'foreign' such as Nestorian Christianity and Buddhism were persecuted by Emperor Wuzong of Tang in 841 AD, greatly diminishing these two religions in China and causing the disappearance of the Chinese metropolitan by 987 AD. By restoring Nestorian rule in China and sending missionaries back to the Chinese heartland, we would be able to restore the metropolitan bishopric of Beth Sinaye, with we Nestorian Mongol rulers as their protectors."
+ sll_chinese_diplomacy_mission_title: "Chinese Diplomacy"
+ sll_chinese_diplomacy_mission_desc: "With the titanic power that is the Chinese Empire at the gates of the Korean peninsula, it would be wise for us to ensure cordial relations with the Chinese emperors while it benefits us. Perhaps we could even secure a truce, or maybe even an alliance, to ensure the establishment of Silla hegemony in Korea, with strong reliable friends beyond the northeastern frontier."
+ sll_allies_of_silla_mission_title: "Allies of Silla"
+ sll_allies_of_silla_mission_desc: "As one of the weaker states of the Three Kingdoms period of Korea, the choice of our allies is critical for not only our potential expansion but also, quite simply put, our very survival. Historically, our alliance with the Chinese empire of the Tang dynasty was critical for our ascension as the dominant power of the peninsula."
+ sll_religious_upheaval_mission_title: "Religious Upheaval"
+ sll_religious_upheaval_mission_desc: "While the rival Korean kingdoms of Goguryeo and Baekje adopted Buddhism relatively easily, with their respective noble classes accepting the religion with open arms, the aristocracy of Silla is particularly hostile to the Buddhist religion, and thus it has been difficult promoting the new religion. Because the Silla aristocrats are so influential, especially compared to the aristocrats of Goguryeo and Baekje, a Buddhist king in Silla would have no power to convince his nobles to convert. Additionally, even with a Buddhist king and state religion, the majority of the nobility and the commonfolk would still practice shamanistic worship of our traditional Muist religion. Thus, let us win over the aristocrats and secure their loyalty in order to determine our state religion."
+ sll_religious_upheaval_mission.tt: "§YChoose§! between the §OMahayana§!, §ODharmaguptaka§! and §OMuist§! religions, §Yunlocking§! different §MBranching Missions§! depending on the religion chosen."
+ sll_locked_2_mission_title: "Branching Mission"
+ sll_locked_2_mission_desc: ""
+ sll_locked_3_mission_title: "Branching Mission"
+ sll_locked_3_mission_desc: ""
+ sll_locked_4_mission_title: "Branching Mission"
+ sll_locked_4_mission_desc: ""
+ sll_buddhist_kings_mission_title: "Buddhist-Kings"
+ sll_buddhist_kings_mission_desc: "In Silla, Buddhism has become intertwined with Silla identity, with Buddhism itself even becoming a symbol of patriotism among the Silla people during times of invasions by foreign powers. This is further reinforced by the Silla monarchy, as Buddhist kings of Silla have adopted Buddhist names alongside their Silla birthnames and have portrayed themselves as Buddhist-kings in art and literature. Let us therefore maintain this benevolent and pious image as Buddhist-kings adhering to the Buddhadharma."
+ sll_golden_age_of_buddhism_mission_title: "Golden Age of Buddhism"
+ sll_golden_age_of_buddhism_mission_desc: "Under Unified Silla, the Korean peninsula experienced its Golden Age of Buddhism, with Silla kings patronizing Buddhist construction projects and elite scholar monks, as well as facilitating the widespread adoption of Buddhism as a state religion, coexisting alongside preexisting shamanistic traditions of the Korea Muist religion. Let us therefore ensure that this Golden Age of Buddhism lasts for posterity by maintaining a safe haven for Buddhists and Buddhist scholar-monks in the peninsula."
+ sll_consult_the_mudang_mission_title: "Consult the Mudang"
+ sll_consult_the_mudang_mission_desc: ""
+ sll_true_purification_mission_title: "True Purification"
+ sll_true_purification_mission_desc: ""
+ sll_dongye_campaign_mission_title: "Dongye Campaign"
+ sll_dongye_campaign_mission_desc: ""
+ sll_descendants_of_the_xiongnu_mission_title: "Descendants of the Xiongnu"
+ sll_descendants_of_the_xiongnu_mission_desc: ""
+ sll_ancestral_traditions_mission_title: "Ancestral Traditions"
+ sll_ancestral_traditions_mission_desc: ""
+ sll_ports_of_hwanghae_mission_title: "Ports of Hwanghae"
+ sll_ports_of_hwanghae_mission_desc: ""
+ sll_communities_in_shandong_mission_title: "Communities in Shandong"
+ sll_communities_in_shandong_mission_desc: ""
+ sll_the_grand_campaign_mission_title: "The Grand Campaign"
+ sll_the_grand_campaign_mission_desc: ""
+ sll_march_to_luoyang_mission_title: "Celestial Capital"
+ sll_march_to_luoyang_mission_desc: ""
+ sll_center_of_the_world_mission_title: "Center of the World"
+ sll_center_of_the_world_mission_desc: ""
+ sll_cultivate_seorabeol_mission_title: "Cultivate Seorabeol"
+ sll_cultivate_seorabeol_mission_desc: ""
+ sll_technological_innovations_mission_title: "Technological Innovations"
+ sll_technological_innovations_mission_desc: ""
+ sll_temple_patronage_mission_title: "Temple Patronage"
+ sll_temple_patronage_mission_desc: ""
+ sll_sponsor_pugundang_mission_title: "Sponsor Pugundang"
+ sll_sponsor_pugundang_mission_desc: ""
+ sll_eight_port_kingdoms_war_mission_title: "Eight Port Kingdom War"
+ sll_eight_port_kingdoms_war_mission_desc: ""
+ sll_crush_goguryeo_mission_title: "Crush Goguryeo"
+ sll_crush_goguryeo_mission_desc: ""
+ sll_push_beyond_paektu_mission_title: "Push Beyond Paektu"
+ sll_push_beyond_paektu_mission_desc: ""
+ sll_gojoseon_restoration_mission_title: "Gojoseon Restoration"
+ sll_gojoseon_restoration_mission_desc: ""
+ sll_imperial_aspirations_mission_title: "Imperial Aspirations"
+ sll_imperial_aspirations_mission_desc: ""
+ sll_chinese_recruitment_mission_title: "Chinese Recruitment"
+ sll_chinese_recruitment_mission_desc: ""
+ sll_one_chosen_by_heaven_mission_title: "One Chosen By Heaven"
+ sll_one_chosen_by_heaven_mission_desc: ""
+ sll_samhan_merchants_mission_title: "Samhan Merchants"
+ sll_samhan_merchants_mission_desc: ""
+ sll_agricultural_departments_mission_title: "Agricultural Departments"
+ sll_agricultural_departments_mission_desc: ""
+ sll_country_of_gold_mission_title: "Country of Gold"
+ sll_country_of_gold_mission_desc: ""
+ sll_sons_of_geoseo_khan_mission_title: "Sons of Geoseo-Khan"
+ sll_sons_of_geoseo_khan_mission_desc: ""
+ sll_humble_baekje_mission_title: "Humble Baekje"
+ sll_humble_baekje_mission_desc: ""
+ sll_unite_the_former_samhan_mission_title: "Unite the Former Samhan"
+ sll_unite_the_former_samhan_mission_desc: ""
+ sll_unified_silla_mission_title: "Unified Silla"
+ sll_unified_silla_mission_desc: ""
+ sll_nine_legions_mission_title: "Nine Legions"
+ sll_nine_legions_mission_desc: ""
+ sll_administrative_reforms_mission_title: "Administrative Reforms"
+ sll_administrative_reforms_mission_desc: ""
+ sll_compile_the_samguk_sagi_mission_title: "Compile the Samguk Sagi"
+ sll_compile_the_samguk_sagi_mission_desc: ""
+ sll_bone_rank_system_mission_title: "Bone Rank System"
+ sll_bone_rank_system_mission_desc: ""
+ sll_usurp_the_jinhan_mission_title: "Usurp the Jinhan"
+ sll_usurp_the_jinhan_mission_desc: ""
+ sll_cheonghae_garrison_mission_title: "Cheonghae Garrison"
+ sll_cheonghae_garrison_mission_desc: ""
+ sll_maritime_monopoly_mission_title: "Maritime Monopoly"
+ sll_maritime_monopoly_mission_desc: ""
+ sll_reliable_wajin_clans_mission_title: "Reliable Wajin Clans"
+ sll_reliable_wajin_clans_mission_desc: ""
+ sll_korean_settlements_mission_title: "Korean Settlements"
+ sll_korean_settlements_mission_desc: ""
+ sll_the_arrival_of_susanoo_mission_title: "Arrival of Susanoo"
+ sll_the_arrival_of_susanoo_mission_desc: ""
+ sll_appease_the_hwabaek_mission_title: "Appease the Hwabaek"
+ sll_appease_the_hwabaek_mission_desc: ""
+ sll_expand_the_hwarang_mission_title: "Expand the Hwarang"
+ sll_expand_the_hwarang_mission_desc: ""
+ sll_restoring_the_wonhwa_mission_title: "Restoring the Wonhwa"
+ sll_restoring_the_wonhwa_mission_desc: ""
+ sll_establish_the_sodang_mission_title: "Establish the Sodang"
+ sll_establish_the_sodang_mission_desc: ""
+ sll_overseas_ambitions_mission_title: "Overseas Ambitions"
+ sll_overseas_ambitions_mission_desc: ""
+ sll_cross_the_donghae_mission_title: "Cross the Donghae"
+ sll_cross_the_donghae_mission_desc: ""
+ sll_reign_in_wa_mission_title: "Reign in Wa"
+ sll_reign_in_wa_mission_desc: ""
+ sll_defeat_the_yamato_mission_title: "Defeat the Yamato"
+ sll_defeat_the_yamato_mission_desc: ""
+ emi_acquire_tanko_armors_mission_title: "Acquire Tanko Armors"
+ emi_acquire_tanko_armors_mission_desc: ""
+ emi_unite_the_tribal_bands_mission_title: "United the Tribal Bands"
+ emi_unite_the_tribal_bands_mission_desc: ""
+ emi_mounted_archery_mission_title: "Way of Bow and Saddle"
+ emi_mounted_archery_mission_desc: ""
+ emi_marines_of_shikoku_mission_title: "Marines of Shikoku"
+ emi_marines_of_shikoku_mission_desc: ""
+ emi_izumo_taisha_mission_title: "Izumo Taisha"
+ emi_izumo_taisha_mission_desc: ""
+ emi_country_of_the_gods_mission_title: "Country of the Gods"
+ emi_country_of_the_gods_mission_desc: ""
+ emi_reliable_allies_mission_title: "Reliable Allies"
+ emi_reliable_allies_mission_desc: ""
+ emi_crops_of_the_farmer_chiefs_mission_title: "Crops of the Farmer Chiefs"
+ emi_crops_of_the_farmer_chiefs_mission_desc: ""
+ emi_guerilla_warfare_mission_title: "Guerilla Warfare"
+ emi_guerilla_warfare_mission_desc: ""
+ emi_establish_a_kingdom_mission_title: "Establish a Kingdom"
+ emi_establish_a_kingdom_mission_desc: ""
+ emi_integrate_the_izumo_mission_title: "Integrate the Izumo"
+ emi_integrate_the_izumo_mission_desc: ""
+ emi_embassies_to_chuugoku_mission_title: "Embassies to Chuugoku"
+ emi_embassies_to_chuugoku_mission_desc: ""
+ emi_goguryeo_cavalry_mission_title: "Goguryeo Cavalry"
+ emi_goguryeo_cavalry_mission_desc: ""
+ emi_fellow_horse_lords_mission_title: "Fellow Horse Lords"
+ emi_fellow_horse_lords_mission_desc: ""
+ emi_shaman_of_the_faith_mission_title: "Consult the Shamans"
+ emi_shaman_of_the_faith_mission_desc: ""
+ emi_northern_fishing_mission_title: "Northern Fishing"
+ emi_northern_fishing_mission_desc: ""
+ emi_emishi_resilience_mission_title: "Emishi Resilience"
+ emi_emishi_resilience_mission_desc: "Even in the face of thousands of Yamato banners, and tens of thousands of Yamato troops, we stand strong with our bows in hand, each Emishi warrior knowing that we shall continue to be free so long as we remain determined atop our saddles. In the past, a force as large as twenty thousand have been repelled by Emishi force of only three thousand, a feat that we shall continue to emulate for posterity as long as we Emishi still breathe."
+ emi_push_back_the_yayoi_mission_title: "Push Back the Yayoi"
+ emi_push_back_the_yayoi_mission_desc: ""
+ emi_end_yayoi_domination_mission_title: "End Yayoi Domination"
+ emi_end_yayoi_domination_mission_desc: ""
+ emi_kingdom_of_yamatai_mission_title: "Kingdom of Yamatai"
+ emi_kingdom_of_yamatai_mission_desc: ""
+ emi_first_emishi_fleet_mission_title: "First Emishi Fleet"
+ emi_first_emishi_fleet_mission_desc: ""
+ emi_across_the_open_sea_mission_title: "Across the Open Sea"
+ emi_across_the_open_sea_mission_desc: ""
+ emi_control_the_peninsula_mission_title: "Control the Peninsula"
+ emi_control_the_peninsula_mission_desc: ""
+ emi_ezo_ana_kofun_mission_title: "Ezo-Ana Kofun"
+ emi_ezo_ana_kofun_mission_desc: ""
+ emi_maintain_the_confederation_mission_title: "Maintain the Confederation"
+ emi_maintain_the_confederation_mission_desc: ""
+ emi_anti_yamato_alliance_mission_title: "Anti-Yamato Alliance"
+ emi_anti_yamato_alliance_mission_desc: ""
+ emi_yayoi_recruitment_mission_title: "Yayoi Recruitment"
+ emi_yayoi_recruitment_mission_desc: ""
+ emi_falcon_and_bear_people_mission_title: "Falcon and Bear People"
+ emi_falcon_and_bear_people_mission_desc: ""
+ emi_tsuikai_koku_and_tamna_mission_title: "Tsuikai-Koku and Tamna"
+ emi_tsuikai_koku_and_tamna_mission_desc: ""
+ emi_celestial_empire_mission_title: "Celestial Empire"
+ emi_celestial_empire_mission_desc: ""
+ emi_subdue_the_saeki_mission_title: "Subdue the Saeki"
+ emi_subdue_the_saeki_mission_desc: ""
+ emi_koshibito_conquest_mission_title: "Koshibito Conquest"
+ emi_koshibito_conquest_mission_desc: ""
+ emi_union_with_the_ainu_mission_title: "Union With the Ainu"
+ emi_union_with_the_ainu_mission_desc: ""
+ emi_mishihase_of_ezo_mission_title: "Subjugate the Mishihase"
+ emi_mishihase_of_ezo_mission_desc: ""
+ emi_jomon_restoration_mission_title: "Jomon Restoration"
+ emi_jomon_restoration_mission_desc: ""
+ emi_empire_of_ezo_mission_title: "Empire of Ezo"
+ emi_empire_of_ezo_mission_desc: ""
+ genchinese_weathering_uncertain_times_mission_title: "Find Peace in Uncertainty"
+ genchinese_weathering_uncertain_times_mission_desc: ""
+ genchinese_weathering_uncertain_times_mission.tt: "Due to these §Ychaotic times§!, the people are §Ydoubting the validity of Confucian ideals§!; thus, we will have the option to §Mchoose a different religion§! present among the Chinese people in hopes of finding the correct path towards harmony"
+ genchinese_achieving_harmony_mission_title: "Achieving Harmony"
+ genchinese_achieving_harmony_mission_desc: ""
+ genchinese_the_flow_of_coin_mission_title: "The Flow of Coin"
+ genchinese_the_flow_of_coin_mission_desc: ""
+ genchinese_papermaking_monopoly_mission_title: "Papermaking Monopoly"
+ genchinese_papermaking_monopoly_mission_desc: ""
+ genchinese_master_the_36_stratagems_mission_title: "Master the 36 Stratagems"
+ genchinese_master_the_36_stratagems_mission_desc: ""
+ genchinese_the_conqueror_xiang_yu_mission_title: "Conqueror Xiang Yu"
+ genchinese_the_conqueror_xiang_yu_mission_desc: ""
+ genchinese_the_southern_frontier_mission_title: "The Southern Frontier"
+ genchinese_the_southern_frontier_mission_desc: ""
+ genchinese_guard_the_jade_gate_mission_title: "Guard the Jade Gate"
+ genchinese_guard_the_jade_gate_mission_desc: "The pass of Yumen, meaning 'Jade Gate,' is a vital trading checkpoint of the Silk Road. It is through a significant number of our exports are carried from China towards the Tarim Basin, Sogdia and lands further beyond in the west. Though this system of trade is in place between foreign states, the routes must also be protected from bandits and barbarians who wish to prey on the vulnerable merchant caravans crossing the Jade Gate to reach the oasis cities of the Tocharians in the Tarim Basin. Thus, let us protect these lands and oasis cities to ensure that the Silk trade continues to bring wealth to our coffers, lands and peoples."
+ genchinese_journey_to_the_west_mission_title: "Journey to the West"
+ genchinese_journey_to_the_west_mission_desc: ""
+ genchinese_pure_land_mission_title: "Pure Land"
+ genchinese_pure_land_mission_desc: ""
+ genchinese_restore_foreign_trade_mission_title: "Restore Foreign Trade"
+ genchinese_restore_foreign_trade_mission_desc: ""
+ genchinese_silk_road_hegemony_mission_title: "Silk Road Hegemony"
+ genchinese_silk_road_hegemony_mission_desc: "During the peak of the united and prosperous Eastern Han dynasty, the Silk Road's eastern routes were firmly under the control of the Chinese Emperor, valuable goods such as silk exported westward to faraway lands, with some lands so distant that no Chinese ambassador has ever set foot there. With trade policies with foreign states now restored, we can reestablish a silk monopoly and raise more silkworms to enrich our land and people once more."
+ genchinese_base_in_capitalarea_mission_title: "Establish a Power Base"
+ genchinese_base_in_capitalarea_mission_desc: "It would be good to practice some humility before we soar towards the Heavens - before we venture too far beyond our headquarters in [Root.Capital.GetName], we must consolidate our power base and recruit local men of talent, drive and loyalty who can serve us as generals, warriors, guards and soldiers. Thus, we must make sure to strengthen our defensive and offensive capabilities well before we overextend our borders or march too far beyond the homeland in search of conquests and glory."
+ genchinese_end_the_dragons_slumber_mission_title: "Ascending Dragon"
+ genchinese_end_the_dragons_slumber_mission_desc: "The time has come to awaken the Sleeping Dragon. Just like how the great founder of the Han dynasty, Liu Bang, ascended from the peasantry to slay the White Serpent and become Emperor of China through conquest and Heaven's Will, our ruler [Root.Monarch.Dynasty.GetName] [Root.Monarch.GetName] too shall ascend from a more humble background in these troubled times, filling the power vacuum as a great ascending dragon soaring towards the Heavens, grasping the imperial Jade Seal in one hand and a shining blade in the other!"
+ genchinese_emulate_wen_of_zhou_mission_title: "Emulate Wen of Zhou"
+ genchinese_emulate_wen_of_zhou_mission_desc: ""
+ genchinese_emulate_wen_of_zhou_mission.tt: "Enact the Decision §OContest the Imperial Mandate§!"
+ genchinese_tribute_from_the_five_hu_mission_title: "Tribute From the Five Hu"
+ genchinese_tribute_from_the_five_hu_mission_desc: ""
+ genchinese_tribute_from_the_five_hu_mission.tt: "Owned by our §YTributary State(s)§!"
+ genchinese_expand_the_great_wall_mission_title: "Expand the Great Wall"
+ genchinese_expand_the_great_wall_mission_desc: ""
+ genchinese_princesses_abroad_mission_title: "Princesses Abroad"
+ genchinese_princesses_abroad_mission_desc: ""
+ genchinese_borrow_a_distant_knife_mission_title: "Borrow a Distant Knife"
+ genchinese_borrow_a_distant_knife_mission_desc: "One well-known stratagem is to 'kill with a borrowed knife,' meaning that one should attack using the strength of another when one's own strength is not favorable, such as persuading an ally to fight on our behalf. Another key stratagem is 'befriend a distant state and strike a neighboring one,' as it is best to wage war on those who are closest to us and thus mostly likely to fall to our assault, and to befriend those farther away who in the meantime we will have more difficulty invading. Let us use these stratagems in tandem to ensure that we have all the weapons we need, borrowed knives if necessary, which we may fully utilize when the time is right."
+ genchinese_borrow_a_distant_knife_mission.tt: "All allies who have at least §G150§! opinion of us gain §Y+5§! mutual Trust between us"
+ genchinese_curb_the_military_elite_mission_title: "Curb the Military Elite"
+ genchinese_curb_the_military_elite_mission_desc: "When the collapse of imperial authority brought our dynastys founder to prominence, our state emerged with the typical government of a warlord state, with regional aristocrats and prominent generals monopolizing authority in the realm. With our state now developing into a proper kingdom, let us rein in these nobles and generals and focus on hiring only men of talent, using recommendations only when necessary and seeking diamonds in the rough who may be of humble backgrounds."
+ genchinese_imperial_examinations_mission_title: "Imperial Examinations"
+ genchinese_imperial_examinations_mission_desc: "With the power of military households and landed nobles now curtailed, let us implement a permanent institution of examinations for civil service. By creating a new test, we will facilitate the recruitment of officials not only based on talent but also whether they value the philosophical ideals sponsored by our state."
+ genchinese_medicinal_studies_mission_title: "Medicinal Studies"
+ genchinese_medicinal_studies_mission_desc: "With skilled advisors and scholar-officials now serving directly under our lord, we can venture into nature and seek new medicines and remedies. The first Yan Emperor, the legendary Lord Shennong, created the first herbal medicines, and Daoist sages and alchemists secluded themselves in nature to learn of the physical properties of various substances for medicinal benefit as well as the chance of finding the elixir of immortality. Let us expand upon ancestral knowledge by commission our own scholars to venture out beyond the capital in search of new methods of healing."
+ genchinese_king_of_new_kingdom_mission_title: "King of [Root.GetName]"
+ genchinese_king_of_new_kingdom_mission_desc: ""
+ genchinese_king_of_new_kingdom_mission.tt: "Enact the Decision §OEstablish a Kingdom§! and become §YKingdom§! rank"
+ genchinese_fate_of_the_imperial_seal_mission_title: "Fate of the Imperial Seal"
+ genchinese_fate_of_the_imperial_seal_mission_desc: ""
+ genchinese_fate_of_the_imperial_seal_mission.tt: "Enact the Decision §ORestore the Mandate of Heaven§! IF there is no longer an Emperor of China in power"
+ genchinese_the_empire_long_divided_mission_title: "The Empire, Long Divided..."
+ genchinese_the_empire_long_divided_mission_desc: "...Must unite."
+ genchinese_center_of_the_world_mission_title: "Center of the World"
+ genchinese_center_of_the_world_mission_desc: ""
+ genchinese_center_of_the_world_mission.tt: "NO province in the §YChina§! superregion has higher development than our §Ycapital§! province"
+ genchinese_prosperous_capital_mission_title: "Prosperous [Root.Capital.GetName]"
+ genchinese_prosperous_capital_mission_desc: ""
+ genchinese_create_something_from_nothing_mission_title: "Something From Nothing"
+ genchinese_create_something_from_nothing_mission_desc: "One of the famed stratagems of our age is to 'create something from nothing,' using lies and deceit to give the enemy an impression that we are much stronger than we truly are - the famed 'Empty Fort Strategy' is an example of this idea. Let us therefore construct many grand and intimidating fortresses and walled cities so our enemies shall not dare attack us, even in our moments of weakness when we are not able to dedicate more than enough troops to the defense of a strategic point."
+ genchinese_implement_tuntian_mission_title: "Implement Tuntian"
+ genchinese_implement_tuntian_mission_desc: ""
+ genchinese_centralized_field_system_mission_title: "Centralized Field System"
+ genchinese_centralized_field_system_mission_desc: ""
+ genchinese_imperial_ambitions_mission_title: "Era of Ambitions"
+ genchinese_imperial_ambitions_mission_desc: ""
+ genchinese_conquer_the_ancestral_cities_mission_title: "Conquer the Ancestral Cities"
+ genchinese_conquer_the_ancestral_cities_mission_desc: ""
+ genchinese_subjugate_the_hanguo_mission_title: "Subjugate the Hanguo"
+ genchinese_subjugate_the_hanguo_mission_desc: ""
+ genchinese_subjugate_the_hanguo_mission.tt: "Owned by a §YTributary State(s)§! which has at least §Y120§! opinion of us"
+ genchinese_tribute_to_the_emperor_mission_title: "Tribute to the Emperor"
+ genchinese_tribute_to_the_emperor_mission_desc: ""
+ genchinese_tribute_to_the_emperor_mission.tt: "§YTributary States§! under our overlordship"
+ genchinese_capable_governors_mission_title: "Capable Governors"
+ genchinese_capable_governors_mission_desc: ""
+ genchinese_capable_governors_mission.tt: "Provinces that have §Onot§! yet been developed by us are §Phighlighted§!"
+ genchinese_abundance_of_lord_shennong_mission_title: "Abundance of Lord Shennong"
+ genchinese_abundance_of_lord_shennong_mission_desc: ""
+ genchinese_control_the_industries_mission_title: "Control the Industries"
+ genchinese_control_the_industries_mission_desc: ""
+ genchinese_utilize_fire_medicine_mission_title: "Utilize Fire Medicine"
+ genchinese_utilize_fire_medicine_mission_desc: "\"Gunpowder is known originally as huoyao, meaning 'fire medicine,' as the substance was formulated and discovered by Chinese alchemists not for the purpose of warfare but in search of medicinal value and in pursuit of better understanding the natural world to achieve true harmony. Let us recruit the greatest minds of our era to find more fitting uses of this new explosive powder, perhaps more effectively on the battlefield."
+ genchinese_towards_a_new_age_mission_title: "Towards a New Age"
+ genchinese_towards_a_new_age_mission_desc: ""
+ genchinese_innovations_of_yu_the_great_mission_title: "Innovations of Yu the Great"
+ genchinese_innovations_of_yu_the_great_mission_desc: "Although the Yellow River enriches our soil and provides us with bountiful harvests, the river is extremely unpredictable; with deadly floods individually killing up to hundreds of thousands, the Yellow River is also known as 'China's Sorrow' or 'the Ungovernable'. Fortunately, the legendary founder of the Xia dynasty, Yu the Great, was the first to tame its deadly waters, developing the first flood control systems in Chinese history. As a result of his achievements, he was also known as Yu the Engineer, and he is also one of the only figures in Chinese history to earn the rare epithet 'the Great'."
+ genchinese_study_the_arts_of_espionage_mission_title: "Study the Arts of Espionage"
+ genchinese_study_the_arts_of_espionage_mission_desc: "Sun Tzu defines various types of espionage, and he states that we must seek out enemy spies, bribe them and induce them to stay with us, to use them as reverse spies. Additionally, it is also widely understood by strategic minds that we must let the enemy's own spy sow discord in the enemy camp. With these ideas in consideration, let us master the art of hidden warfare to achieve victory before our troops even step foot upon the field of battle."
+ genchinese_establish_a_fleet_mission_title: "Establish a Fleet"
+ genchinese_establish_a_fleet_mission_desc: ""
+ genchinese_overseas_missions_mission_title: "Overseas Ambitions"
+ genchinese_overseas_missions_mission_desc: ""
+ genchinese_overseas_missions_mission.tt: "If we are the §YEmperor of China§!, we will gain §OForce Tributary State§! casus belli on all discovered countries whose capital is in the §YJapan§! region"
+ genchinese_treasure_explorations_title: "Treasure Explorations"
+ genchinese_treasure_explorations_desc: ""
+ jud_the_holy_tongue_mission.tt: "Choose between bonuses for §GCultural Conversion§! or §GCulture Acceptance§!, impacting the influence of the §YPharisees§!, §YSadducees§! and §YZealots§! Factions depending on your choice."
+ jud_the_city_of_holiness_mission.tt: "Choose either an additional §YReligious or Military bonus§!."
+ jud_legacy_of_beit_david_mission.tt: "Have the option to change our name to §TJudah§!, impacting §Yfactions'§! influence"
+ plm_corrector_totius_orientis_mission.tt: "Gain the §Ocasus belli§! §TClaim the Eastern Provinces§! against the Romans for 50 years. §OWith this casus belli, Roman provinces controlled by us in the Egypt, Mashriq or Anatolia regions will automatically defect to us after being controlled for about 6 months.§!"
+ plm_corrector_totius_orientis_mission.tt2: "[Root.GetName] gains a permanent claim on every Roman-owned province in the §YMashriq region.§!"
+ plm_the_right_to_rule_mission.tt: "Have the option to strengthen the monarchy or reestablish the §TRepublic§! of Palmyra via event"

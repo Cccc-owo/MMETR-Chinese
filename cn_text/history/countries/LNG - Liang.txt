@@ -479,14 +479,12 @@ capital = 2182
 880.1.1 = {
   add_government_reform = early_gov_reform_7
 }
-907.1.1 = {
+885.1.1 = { 	# Luoyang, MMETR changed date to earlier for Fanzhen starts
   capital = 1836
   primary_culture = zhongyuan
-} 	# Luoyang
-907.6.1 = {
   monarch = {
-    name = ")n" 	# Wen
-    dynasty = "¿1g" 	# Zhu
+    name = "Wen"
+    dynasty = "Zhu"
     birth_date = 852.12.5
     adm = 3
     dip = 3
@@ -495,9 +493,9 @@ capital = 2182
 }
 907.6.1 = {
   heir = {
-    name = "ËSês" 	# Yougui
-    monarch_name = "ËSês" 	# Yougui
-    dynasty = "¿1g" 	# Zhu
+    name = "Yougui"
+    monarch_name = "Yougui"
+    dynasty = "Zhu"
     birth_date = 888.1.1
     death_date = 913.3.27
     claim = 95

@@ -2,7 +2,7 @@
 owner = KUY
 controller = KUY
 culture = katu
-religion = animism
+religion = sasanea_yang
 capital = "Chaiyaphum"
 trade_goods = grain
 hre = no

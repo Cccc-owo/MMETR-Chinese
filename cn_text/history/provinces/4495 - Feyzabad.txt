@@ -3,7 +3,7 @@ owner = PNC
 controller = PNC
 culture = avadhi
 religion = jainism
-capital = "Ayodhya" 	# changed, Feyzabad built below by Oudh
+capital = "Ayodhya"
 trade_goods = cloth
 hre = no
 discovered_by = chinese
@@ -57,9 +57,9 @@ add_core = PNC
   remove_core = HRS
 }
 800.1.1 = {
-  religion = mahayana
+  religion = vajrayana
   discovered_by = nomad_group
-}
+} 	# MMETR, Tantric Buddhism dominates region
 820.1.1 = {
   owner = GRP
   controller = GRP

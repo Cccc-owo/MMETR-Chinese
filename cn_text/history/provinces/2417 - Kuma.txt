@@ -1,9 +1,9 @@
 #2617 - Kuma
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = AOR 	# MMETR
+controller = AOR
+add_core = AOR
 is_city = yes
-culture = alan
+culture = sarmatian
 religion = heptadic 	# New MMETR religion
 capital = "Kuma"
 trade_goods = iron
@@ -17,6 +17,13 @@ discovered_by = muslim
 base_tax = 1
 base_production = 1
 base_manpower = 1
+160.1.1 = {
+  owner = ALN
+  controller = ALN
+  add_core = ALN
+  remove_core = AOR
+  culture = alan
+} 	# MMETR
 420.1.1 = {
   owner = HNS
   controller = HNS

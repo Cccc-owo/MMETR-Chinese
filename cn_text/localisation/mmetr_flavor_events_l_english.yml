@@ -88,7 +88,7 @@
  mmetrFlavor_waaqism_events.8.b: "ÖNìNNšR=fµNu‰^É‰†N&&"
  mmetrFlavor_waaqism_events.9.t: "?–Éb…mlš"
  mmetrFlavor_waaqism_events.9.desc: "‹†6qbìN×S0R?–Éb…m„vÝO²bÿÙ›N)YN„v)YOãNhˆóØš^yæt<hHNbìNg¡Rv^NbìN²NAmÿFObìNv^N=f=UN×S0R‹YÐkyy„vºN0ºNìNøváOÿæt<h„vÏkN*N.irÿSìb¨Rirÿý	g?–Éb…m0àVdkÿ8ngrl0lš9Sr™‰QwŒT‘šuQO`—?–Éb…megkyyÖNìN„vlšÿv^(WÅeLˆbb—eT‰RhQ0WŠbƒRìNÞV¶R0"
- mmetrFlavor_waaqism_events.9.a: ""
+ mmetrFlavor_waaqism_events.9.a: "In return, we shall ensure no steeds are felled in battle."
  mmetrFlavor_mithraic_events.1.t: "ÆRyrÉbFyYe"
  mmetrFlavor_mithraic_events.1.desc: "‹†6qFyYe’VÕ‹þV‹S6RùRFyYeMR^yup„vTÜbÿFOFyYe-NùRÆRyrÉbjOHNIN‰„všNNbTXb^yup„vTÜbÍN6qˆVAmLˆÿyr+R=f(W8ngrlŒT^ÐcšNºNIrÐg›N²SO-N0ÆRyrÉbjOHN^yup„v×S0kÎz¦^=f‚YdkKN'YÿåNóŽN?–QYŽ<S·Vöeg„vFyYe’VgÈu¥c×S†NÆRyrÉbÿSvQjOHNÅN!kŽN?–áwÉb·lšyQ¾„v^yÿ?–QYŽ<S·VºNÐc!P„vlšyQ¾ININFyYe-NóØšàeN„v^y0àVdkÿbýVƒX…Q„vÆRyrÉb—RYeNNšR=fìrËz„váOðNÿw=fåNÆRyrÉbHN-NÃV„vNÍyFyYebVV0"
  mmetrFlavor_mithraic_events.1.a: "?aÆRyrÉbÝO²blšyQ¾Ye’VŒTÆRyrÉbYe’V0"
@@ -107,3 +107,47 @@
  mmetrFlavor_mithraic_events.5.a: "‚YœgÙýw©‹ÖNìN(WbHWNhˆ°súQr‚„vÝ‹&&"
  EST_VAL_CHECKED_QAALLUU: "ÀhågaSœZQ>m„vOP’ˆ"
  EST_VAL_QAALLUU_PARTIALITY: "aSœZQË"
+ mmetrFlavor_daoism_events.9.t: "Daoist Resurgence in [Root.GetName]"
+ mmetrFlavor_daoism_events.9.desc: "The current state of affairs led the aristocracy of [Root.GetName] to doubt the viability of Confucianism, as both nobles and the common people have recently adopted tenets of Daoism, a system of belief that emerged centuries ago alongside Confucianism but had previously fallen out of favor of the ruling class. Thus, [Root.GetName] has now become a major center for these resurging Daoist beliefs, with local Daoist teachers spreading their ideals among the people."
+ mmetrFlavor_daoism_events.9.a: "Interesting..."
+ mmetrFlavor_jainism_events.1.t: "Contemplating the Jain Schools"
+ mmetrFlavor_jainism_events.1.desc: "With the consolidation of Jainism as the state religion, it is time for us to decide on which Jain school and their respective code we wish to adopt as the mainstream tradition of our realm. In consideration of this, we have invited prominent ascetics of the prominent Jain schools in the hopes that discourse with these wise individuals shall assist us in deciding on the ideal path."
+ mmetrFlavor_jainism_events.1.a: "Adhere to the codes of the White-Clad ones"
+ mmetrFlavor_jainism_events.1.b: "Adhere to the codes of the Sky-Clad ones"
+ mmetrFlavor_jainism_events.1.c: "Adhere to the codes of the Yapaniyas"
+ mmetr_christian.1.t: "Montanism Takes Hold in [Root.GetName]"
+ mmetr_christian.1.desc: "A Christian sect known to its followers as the New Prophecy has emerged in Phrygia. Founded by a prophet, Montanus, and two prophetesses, Maximilla and Prisca, its followers believe in new prophets who shall emerge in the future, and that these prophets are possessed by the Christian God Himself, speaking in tongues and losing control of their bodies as mouthpieces of God. Their dramatic public displays and emerging prophets have allowed the faith to quickly spread and become influential in [Root.GetName]."
+ mmetr_christian.1.a: "An interesting development..."
+ mmetr_christian.2.t: "Montanism Spreads to [Root.GetName]"
+ mmetr_christian.2.desc: "The Christian sect known as Montanism has gained prominence in Phrygia, and as a result it has been slowly spreading in [Root.GetName] in both public and private practice. Its followers believe in newly-emerging prophets who shall appear in the present and future, and they believe that their prophets are possessed by the Christian God Himself, becoming mouthpieces of God."
+ mmetr_christian.2.a: "Interesting..."
+ mmetr_christian.3.t: "The Prophetess Quintilla of Pepuza"
+ mmetr_christian.3.desc: "A certain Quintilla of the Montanism sect of Christianity claims to be a prophetess of God, being possessed by the Christian God as His mouthpiece. As the next generation of Montanist prophets, her appearance and preachings have reignited Montanism in the Phrygian city of Pepuza, the place where the sect was born and where its followers believe to be the new Jerusalem. Quintilla leads a clergy of both women and men, and its seems that their teachings have been influenced by Gnostic ideas. Their followers have quickly become known to the people in Phrygia as the Quintillians."
+ mmetr_christian.3.a: "Let us hope the Quintillians keep to themselves..."
+ mmetr_christian.3.b: "The Lord has blessed us with another of His Prophetesses!"
+ mmetr_christian.3.c: "Invite Quintilla to preach in the capital."
+ mmetr_christian.3.d: "We accept Quintilla as the true Prophetess of God!"
+ mmetr_christian.4.t: "Montanus of Pepuza"
+ mmetr_christian.4.desc: "A certain Montanus is claiming to be a prophet from God and has established a Christian sect known to its followers as the New Prophecy in the city of Pepuza in Phrygia. Montanus is assisted by two prophetesses, Maximilla and Prisca - believing that women can also experience prophesies, the sect has an emphasis on morality and opposes the formalism of the mainstream Church.\n\nHis followers also believe new prophets shall emerge in the future, and that these prophets are possessed by the Christian God Himself, speaking in tongues and losing control of their bodies as mouthpieces of God. Their dramatic public displays and emerging prophets have allowed the faith to quickly spread and become influential in [Root.GetName]."
+ mmetr_christian.4.a: "Interesting..."
+ mmetr_christian.4.b: "We accept Montanus as the true Prophet of God!"
+ mmetr_christian.5.t: "The Montanist Controversy"
+ mmetr_christian.5.desc: "The appearance of the Montanists and their prophetic sect of Christianity has caused a great stir among the Christian community. The whole of Christianity is divided - some bishops fervently denouncing the sect as a heresy, while others believe that the group should be approached with moderation and tolerance. There are even a vocal few bishops who fully support the Montanists, proposing that they be declared as part of the Christian orthodoxy.\n\nIn the wake of the appearance of their claimed prophet Montanus, the Christian community at large has generally agreed that they are a heresy, and the majority of our clergy are in agreeance that the Montanists should renounce their teachings and be baptized so they may become true Christians. Even so, many Christian authors and clergymen including those in Carthage such as Tertullian have defended the sect, truly believing in the prophet Montanus' claims."
+ mmetr_christian.5.a: "Montanus is a false prophet!"
+ mmetr_christian.5.b: "We should tolerate them as if they were orthodox."
+ mmetrFlavor_China.1.t: "Tensions Between [Root.GetName] Princes"
+ mmetrFlavor_China.1.desc: "Although our [Root.Monarch.GetTitle] had officially declared Li Jiancheng as the undisputed heir to the throne, a fierce rivalry has emerged between Jiancheng and his younger brother Li Shimin. Li Shimin himself was instrumental in defeating many Tang rivals, overshadowing his brother in skill and cunning, even being the one to urge his father Li Yuan to first rebel against the Sui dynasty.\n\nThese two princes' quarrels have escalated as of late, dividing the court into two factions which scheme and plot to remove officials from the other from power. Accusations of corruption and incapability have now twisted into accusations of attempting to poison royalty and plotting treason against the [Root.Monarch.GetTitle] [Root.Monarch.GetHerHim]self. Those who are less partial in this succession crisis fear that before long, one brother may take more drastic - and deadly - action against their own kin..."
+ mmetrFlavor_China.1.a: "This news is troubling..."
+ mmetrFlavor_China.2.t: "Incident at Xuanwu Gate"
+ mmetrFlavor_China.2.desc: "Shocking news! The intense rivalry between the princes Jiancheng and Shimin has escalated into the shedding of royal blood!\n\nWhen Li Jiancheng and his brother Prince Li Yuanji arrived at the Xuanwu Gate of Chang'an to dispel a rumor spread by Li Shimin, the two princes were ambushed by forces led by Li Yuanji, and both Prince Jiancheng and Prince Yuanji were killed! Distraught by this event and the murder of brothers by brother, the [Root.Monarch.GetTitle] [Root.Monarch.Dynasty.GetName] [Root.Monarch.GetName] is now consulting his officials for advice on how to respond to this difficult situation, though many of these officials are themselves supporters of Li Shimin, and those who plotted with Li Shimin would also willingly join the court as loyal advisors should he be exonerated..."
+ mmetrFlavor_China.2.a: "Pardon Li Shimin to keep the peace."
+ mmetrFlavor_China.2.b: "Declare Li Shimin a traitor!"
+ mmetrFlavor_China.2.c: "Abdicate to the ambitious prince."
+ mmetrFlavor_War.3.t: "Province Defects to Palmyra!"
+ mmetrFlavor_War.3.desc: "The treacherous Palmyrans have coerced the province of [Root.GetName] to defect by using their claim as the Corrector Totius Orientis, the overall commander over the armies and governors of the eastern empire."
+ mmetrFlavor_War.3.a: "The traitors will pay!"
+ mmetrFlavor_War.3.tt: "Has happened: [Root.GetName] defects to the Palmyrans and is no longer owned by us"
+ mmetrFlavor_War.4.t: "Province Defects to Palmyra!"
+ mmetrFlavor_War.4.desc: "Because the territory of [From.GetName] is within the provinces claimed by our [Root.Monarch.GetTitle] as the Corrector Totius Orientis, the overall commander over the armies and governors of the eastern empire, the people of [From.GetName] have willingly and fully surrendered to our forces. As a result, we may directly annex the territory, its people, its supplies and its taxes before the war has even ended."
+ mmetrFlavor_War.4.a: "We welcome [From.GetName]"
+ mmetrFlavor_War.4.tt: "Has happened:"

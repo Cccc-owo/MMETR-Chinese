@@ -77,3 +77,48 @@
  estate_queens_once_slaves_francia: "sY‹sþf=ftY¶–"
  estate_queens_once_slaves_francia_desc: "(W¨Xm)n„v†SòSNÿ	g”NMOsY‹sÎNtY¶–«ŽýN-NTwÿbHNÕlpQKQ„vIN‰M‘vPŒTckVsY‹s0vQ-N2NMOsY‹sÿV÷–·V!·VŒTôTS‚„S·VÿíQPêñT„výw›RÁ‹f†NêñT=f*XðyxQƒ„vsY‹sŒT†˜–ˆÿKS¡rÖNìNÎN>yOIrµu„vÝuùR•^BSVËYÿFO(W†SòSNYuN†NêñT„vpS°‹0àVdkÿNvQÁZÙuegêÕlpQKQ5Ïe¶R­^„v*NºNÿbìNïSåN	éb(W—|Ù|-NûRŒb»”ówÿNwck	gýw›RŒTMbNS„vºNÓuZZÿàeº‹ÖNìN„v>yO6–µuNbìN„vßu»lw0"
  estate_queens_once_slaves_francia.tt: "·ƒ—VNtY¶–6–µu§YM‘vP§!ÓuZZ„v§Y³Q®‹§!"
+ estate_church_lesser_vehicles: "SXNçPâV"
+ estate_church_lesser_vehicles_desc: "‹†6qbìNNTavQÖNiOYeAm>m„vÐg›NáOagÿFObìNÍN6qb²‹vQYeIN„v÷N<PÿwNbìNøváOvQÖNAm>m„váO’VÍN6qOpNŽV…mÃi„vSïÿKS¡rÙagSïÔkbìNêñTAm>mNb.Oˆc„vSïôf Rp‚¾–0 ckàVHN‚YdkÿÙ›NVïzfR>m«ˆðyHN0SXN0ÿ=fŽV…mÃi„v!kIr„VÿFOmN=fŽV…mÃi„v„V0 1uŽNNb	giOYeAm>mýÐc›O†NN›N¾0R…mÃi„v„VÿKS¡r	g›NAm>m„vHeœgN‚YvQÖNAm>mÿàVdkbìNïSåN	ébb²‹Ù›NVïzAm>m„vçPâVÿÙ7hÖNìN1SïSåNNbìNêñT„vçPâVNwú^.úR™^0"
+ estate_scholars: "Scholars"
+ estate_scholars_desc: "The scholar-gentry are among the virtuous Confucian gentlemen of our land. These men have undergone strict examinations and serve as officials, diplomats, bureaucrats and magistrates of the empire. These scholars favor culture over military skill, and they advocate wise and benevolent governance over military might and despotism. While they will not rise in rebellion, they will plot behind closed doors should their loyalty fall dangerously low."
+ scholars_loyalty_modifier: "Scholars Loyalty Equilibrium"
+ scholars_influence_modifier: "Scholars Influence"
+ EST_VAL_SOME_CORRUPTION: "Corruption"
+ EST_VAL_HIGH_CORRUPTION: "High Corruption"
+ estate_scholars_landed_gentry_rights: "Landed Gentry Rights"
+ estate_scholars_landed_gentry_rights_desc: "The gentry are the landed elite who possessed a special status in our society due to passing the imperial examinations. These landed scholars are ranked above farmers, artisans and merchants in Confucian philosophy. While the land is not inherited, these scholars often have the wealth and connections to ensure their children too obtain status and wealth in the imperial bureaucratic system."
+ estate_scholars_favor_scholar_traditions: "Favor Scholarly Traditions"
+ estate_scholars_favor_scholar_traditions_desc: "The scholar class often impose their Confucian traditions on the court and Emperor. While this leads to excellent governance and the promotion of truly talented officials to higher offices, these scholars also look upon generals and martial prowess with disdain, preferring to rule with a brush rather than a blade. Thus, over-prioritizing scholarly traditions may also be detrimental to our military power."
+ estate_scholars_sponsor_village_scholars: "Sponsor Village Scholars"
+ estate_scholars_sponsor_village_scholars_desc: "Village scholars of lesser wealth should not be overlooked. These local scholars in less prominent locales carry out social welfare measures, teach in schools, negotiate minor legal disputes, supervise community projects, maintain local law and order, conduct Confucian ceremonies, assist in the government's collection of taxes, and preach Confucian moral teachings."
+ estate_scholars_county_magistrates: "Appoint County Magistrates"
+ estate_scholars_county_magistrates_desc: "Scholar-officials may be appointed as county magistrates, governing the whole of the land on our behalf. These officials are not allowed to govern their own hometowns to avoid bias and corruption."
+ estate_scholars_outer_court_favors: "Outer Court Favors"
+ estate_scholars_outer_court_favors_desc: "The scholars are known as the Outer Court, while the eunuchs of the palace make up the Inner Court. For centuries, the Outer and Inner Courts have clashed over influence with the Emperor, and oftentimes the eunuchs' close relationships with the Emperor result in the supremacy of the Inner Court. Even so, we may show favoritism towards the Outer Court to limit the Inner Court's influence."
+ estate_scholars_supremacy_over_crown_privilege: "Supremacy Over the Emperor"
+ estate_scholars_supremacy_over_crown_privilege_desc: "An especially influential scholar class may be able to compel the Emperor himself to heed their advice, should they bring their complaints or suggestions before the Emperor and gain the backing of an overwhelming majority of the high ranking scholars of the imperial court."
+ estate_scholars_ownership: "Scholar-Gentry Land Ownership"
+ estate_privileges_and_agendas_events.3.a2: "The Proposal of the Scholars"
+ local_scholars_displeased: "Local Scholars Displeased"
+ estate_scholars_develop_x_agenda: "Cultivate the Land"
+ estate_scholars_develop_x_agenda_desc: ""
+ estate_scholars_have_x_decree_agenda: "Heed Suggested Decrees"
+ estate_scholars_have_x_decree_agenda_desc: ""
+ estate_scholars_monthly_adm_agenda: "Govern the Land Virtuously"
+ estate_scholars_monthly_adm_agenda_desc: ""
+ estate_scholars_recover_meritocracy_agenda: "Restore Meritocracy"
+ estate_scholars_recover_meritocracy_agenda_desc: ""
+ estate_scholars_improve_imperial_mandate_agenda: "Restore Mandate"
+ estate_scholars_improve_imperial_mandate_agenda_desc: ""
+ estate_scholars_hire_advisor_agenda: "Recruit Talented Scholars"
+ estate_scholars_hire_advisor_agenda_desc: ""
+ estate_scholars_fire_advisor_agenda: "Dismiss Corrupt Officials"
+ estate_scholars_fire_advisor_agenda_desc: ""
+ estate_scholars_harmonization_agenda: "Achieve Harmony"
+ estate_scholars_harmonization_agenda_desc: ""
+ estate_scholars_subject_gifts_agenda: "Subject Gifts"
+ estate_scholars_subject_gifts_agenda_desc: ""
+ estate_scholars_porcelain_tower_agenda: "Porcelain Tower"
+ estate_scholars_porcelain_tower_agenda_desc: ""
+ estate_scholars_subsidize_subjects_agenda: "Subsidize Subjects"
+ estate_scholars_subsidize_subjects_agenda_desc: ""

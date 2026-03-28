@@ -1,9 +1,9 @@
 #425 - Dagestan
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = CAA 	# Caucasian Albania, MMETR changed
+controller = CAA
+add_core = CAA
 is_city = yes
-culture = avar
+culture = aghwan 	# MMETR
 religion = heptadic 	# New MMETR religion
 capital = "Derbent"
 trade_goods = fish
@@ -24,9 +24,10 @@ base_manpower = 1
 }
 450.1.1 = {
   culture = khazar
-  remove_core = ALN
+  remove_core = CAA
+  culture = avar
   religion = tengri_pagan_reformed
-}
+} 	# MMETR
 620.1.1 = {
   owner = KHZ
   controller = KHZ

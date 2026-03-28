@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 graphical_culture = westerngfx
-color = { 73 152 76 }
+color = { 236 44 19 }
 revolutionary_colors = { 10 0 5 } 	# Sicilian Separatist Flag
 historical_idea_groups = {
   early_religious_ideas
@@ -35,25 +35,25 @@ historical_units = {
 monarch_names = {
   "9êWSY #0" = 20 	# Ferdinando #0
   "lš‚„ú‹ #0" = 20 	# Martino #0
-  "Pietro #3" = 15
-  "Francesco #0" = 15
-  "Federigo #3" = 10
-  "Guglielmo #3" = 10
-  "Luigi #1" = 10
-  "Leopoldo #0" = 10
-  "Carlo #1" = 5
-  "Manfred #1" = 5
-  "Tancredo #1" = 5
-  "Achille #0" = 0
-  "Alberto #0" = 0
-  "Antonio #0" = 0
-  "Bernardo #0" = 0
-  "Cesare #0" = 0
-  "Ciro #0" = 0
-  "Claudio #0" = 0
-  "Daniele #0" = 0
-  "Demetrio #0" = 0
-  "Enrico #0" = 0
+  "|V—VW #3" = 15 	# Pietro #3
+  "VgR¯eÑy #0" = 15 	# Francesco #0
+  "9·VÌ‘b #3" = 10 	# Federigo #3
+  "äSRS«ƒ #3" = 10 	# Guglielmo #3
+  "ïf	T  #1" = 10 	# Luigi #1
+  "±ƒeYâlSY #0" = 10 	# Leopoldo #0
+  "VW  #1" = 5 	# Carlo #1
+  "üfV÷–·V #1" = 5 	# Manfred #1
+  "fWÑy÷–Y #1" = 5 	# Tancredo #1
+  "?–úW±ƒ #0" = 0 	# Achille #0
+  "?–SXb #0" = 0 	# Alberto #0
+  "‰RN<SeY #0" = 0 	# Antonio #0
+  "S³uY #0" = 0 	# Bernardo #0
+  "R(„÷– #0" = 0 	# Cesare #0
+  "‰W  #0" = 0 	# Ciro #0
+  "KQ³RêeY #0" = 0 	# Claudio #0
+  "¾<SÃW±ƒ #0" = 0 	# Daniele #0
+  "·V…hyrÌ‘eY #0" = 0 	# Demetrio #0
+  "i`Ì‘Ñy #0" = 0 	# Enrico #0
   "Fabio #0" = 0
   "Filippo #0" = 0
   "Flavio #0" = 0

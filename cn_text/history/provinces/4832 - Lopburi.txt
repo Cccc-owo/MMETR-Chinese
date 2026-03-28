@@ -2,7 +2,7 @@
 owner = MNX
 controller = MNX
 culture = mon
-religion = mahayana
+religion = mahasamghika 	# MMETR, early Buddhism from Ashoka's missionaries
 capital = "Lavapura"
 trade_goods = grain
 hre = no
@@ -25,7 +25,8 @@ add_core = MNX
 400.1.1 = {
   base_tax = 3
   base_production = 3
-}
+  religion = mahayana
+} 	# MMETR
 450.1.1 = {
   owner = DVA
   controller = DVA

@@ -1,0 +1,54 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = early_chinese
+religion = animism
+primary_culture = shanyue 	# MMETR new culture
+capital = 683 	# Nanchang
+100.1.1 = {
+  add_government_reform = early_gov_reform_1
+}
+189.9.28 = { 	# MMETR
+  monarch = {
+    name = "Lang" 	# Zu Lang leads some Shanyue before he is subjugated by Sun Ce
+    dynasty = "Zu"
+    birth_date = 155.1.1
+    death_date = 195.1.1 	# historically served under Sun Ce after this, "dies" here just to remove as ruler in game
+    adm = 2
+    dip = 3
+    mil = 5 	# almost killed Sun Ce in first battle with Sun
+  }
+  add_accepted_culture = minyue
+}
+208.1.1 = {
+  remove_accepted_culture = minyue
+}
+230.1.1 = {
+  add_government_reform = early_gov_reform_2
+}
+360.1.1 = {
+  add_government_reform = early_gov_reform_3
+}
+490.1.1 = {
+  add_government_reform = early_gov_reform_4
+}
+620.1.1 = {
+  add_government_reform = early_gov_reform_5
+}
+750.1.1 = {
+  add_government_reform = early_gov_reform_6
+}
+750.1.1 = {
+  technology_group = chinese
+}
+880.1.1 = {
+  add_government_reform = early_gov_reform_7
+}
+1010.1.1 = {
+  add_government_reform = early_gov_reform_8
+}
+1140.1.1 = {
+  add_government_reform = early_gov_reform_9
+}
+1270.1.1 = {
+  add_government_reform = early_gov_reform_10
+}
